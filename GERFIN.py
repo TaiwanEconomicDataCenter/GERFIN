@@ -226,50 +226,6 @@ while data_processing == False:
     if continuing == False:
         break
 
-"""if merge_file.empty == False and merging == True and updating == False:
-    logging.info('Merging File: '+out_path+NAME+'key'+merge_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
-    snl = int(merge_file['snl'][merge_file.shape[0]-1]+1)
-    for f in FREQNAME:
-        table_num_dict[f], code_num_dict[f] = MERGE(merge_file, DB_TABLE, DB_CODE, f)
-    if main_file.empty == False:
-        logging.info('Main File Exists: '+out_path+NAME+'key'+main_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
-        try:
-            with open(out_path+NAME+'database_num'+main_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
-                database_num = int(f.read().replace('\n', ''))
-            main_database = {}
-            for i in range(1,database_num+1):
-                logging.info('Reading main database: '+NAME+'database_'+str(i)+main_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-                DB_t = readExcelFile(out_path+NAME+'database_'+str(i)+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
-                for d in DB_t.keys():
-                    main_database[d] = DB_t[d]
-        except:
-            logging.info('Reading main database: '+NAME+'database'+main_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-            main_database = readExcelFile(out_path+NAME+'database'+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
-        for s in range(main_file.shape[0]):
-            sys.stdout.write("\rSetting snls: "+str(s+snl))
-            sys.stdout.flush()
-            main_file.loc[s, 'snl'] = s+snl
-        sys.stdout.write("\n")
-        logging.info('Setting files, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        db_table_new = 0
-        db_code_new = 0
-        for f in range(main_file.shape[0]):
-            sys.stdout.write("\rSetting new keys: "+str(db_table_new)+" "+str(db_code_new))
-            sys.stdout.flush()
-            freq = main_file.iloc[f]['freq']
-            df_key, DATA_BASE_dict[freq], DB_name_dict[freq], db_table_t_dict[freq], table_num_dict[freq], code_num_dict[freq], db_table_new, db_code_new = \
-                NEW_KEYS(f, freq, FREQLIST, DB_TABLE, DB_CODE, main_file, main_database, db_table_t_dict[freq], table_num_dict[freq], code_num_dict[freq], DATA_BASE_dict[freq], DB_name_dict[freq])
-        sys.stdout.write("\n")
-        for f in FREQNAME:
-            if db_table_t_dict[f].empty == False:
-                DATA_BASE_dict[f][DB_TABLE+f+'_'+str(table_num_dict[f]).rjust(4,'0')] = db_table_t_dict[f]
-                DB_name_dict[f].append(DB_TABLE+f+'_'+str(table_num_dict[f]).rjust(4,'0'))
-else:    
-    snl = 1
-    for f in FREQNAME:
-        table_num_dict[f] = 1
-        code_num_dict[f] = 1"""
-
 #print(GERFIN_t.head(10))
 if updating == False and DF_suffix != merge_suf:
     logging.info('Reading file: '+NAME+'key'+DF_suffix+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
@@ -701,19 +657,6 @@ if data_processing:
     elif df_key.empty and find_unknown == True:
         ERROR('No new items were found.')
     df_key, DATA_BASE_dict = CONCATE(NAME, merge_suf, out_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart, df_key, merge_file, DATA_BASE_main, DB_name_dict)
-"""if main_file.empty == True:
-    df_key = pd.DataFrame(KEY_DATA, columns = key_list)
-else:
-    if merge_file.empty == True:
-        ERROR('Missing Merge File')
-if updating == True:
-    df_key, DATA_BASE_dict = UPDATE(merge_file, main_file, key_list, NAME, out_path, merge_suf, main_suf, FREQLIST=FREQLIST)
-else:
-    if df_key.empty and find_unknown == False:
-        ERROR('Empty dataframe')
-    elif df_key.empty and find_unknown == True:
-        ERROR('No new items were found.')
-    df_key, DATA_BASE_dict = CONCATE(NAME, merge_suf, out_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart, df_key, merge_file, DATA_BASE_dict, DB_name_dict, find_unknown=find_unknown)"""
 
 logging.info(df_key)
 #logging.info(DATA_BASE_t)
