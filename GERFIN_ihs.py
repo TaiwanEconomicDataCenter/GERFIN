@@ -8,11 +8,11 @@ from datetime import datetime, date, timedelta
 
 ENCODING = 'utf-8-sig'
 
-start_year = 2018
-latest = False
+start_year = 2000
+latest = True
 SUFFIX = ''
-NAME = 'GERFIN_myihs_'+str(start_year)+SUFFIX
-data_path = './data2/'
+NAME = 'GERFIN_IHS'#+str(start_year)+SUFFIX
+data_path = './data2/myihs/'
 out_path = "./output/"
 databank = 'GERFIN'
 key_list = ['databank', 'name', 'db_table', 'db_code', 'desc_e', 'desc_c', 'freq', 'start', 'last', 'base', 'quote', 'snl', 'source', 'form_e', 'form_c']
@@ -80,6 +80,11 @@ def takeFirst(alist):
 AREMOS_gerfin = readExcelFile(data_path+'gerfin.xlsx', header_ = [0], sheet_name_='gerfin')
 Country = readFile(data_path+'Country.csv', header_ = 0)
 CRC = Country.set_index('Country_Code').to_dict()
+Series = pd.DataFrame()
+for freq in ['Daily_5_week','Daily_7_week']:
+    Series_t = readExcelFile(data_path+'GERFIN_myihs_2020.xlsx', skiprows_=[0,1], header_=[0], sheet_name_=freq, usecols_=list(range(7)))
+    Series = pd.concat([Series, Series_t])
+Series = Series.set_index('Mnemonic')
 USD = ['REXA','REXE','REX']
 EURO = ['EURDECB','EUREECB','EURD','EURE']
 SDR = ['SDRA','SDRE']
@@ -174,8 +179,8 @@ def GERFIN_DATA(ind, GERFIN_t, AREMOS_gerfin, value, index, code_num, table_num,
         db_table_t = pd.DataFrame(index = freqlist, columns = [])
 
     name = GERFIN_t.index[ind].replace('.HIST','').replace('.ARCH','')
-    if GERFIN_t.iloc[i]['Frequency'] == 'Annual':
-        name = name.replace('.A','')
+    #if GERFIN_t.iloc[i]['Frequency'] == 'Annual':
+    #    name = name.replace('.A','')
 
     AREMOS_key = AREMOS_gerfin.loc[AREMOS_gerfin['code'] == name].to_dict('list')
     if pd.DataFrame(AREMOS_key).empty == True:
@@ -186,7 +191,10 @@ def GERFIN_DATA(ind, GERFIN_t, AREMOS_gerfin, value, index, code_num, table_num,
     db_table = DB_TABLE+frequency+'_'+str(table_num).rjust(4,'0')
     db_code = DB_CODE+str(code_num).rjust(3,'0')
     db_table_t[db_code] = ['' for tmp in range(freqlen)]
-    desc_e = str(GERFIN_t.loc[GERFIN_t.index[ind], 'Long Label']).replace('\n',' ')
+    try:
+        desc_e = str(Series.loc[GERFIN_t.index[ind], 'Long Label']).replace('\n',' ')
+    except KeyError:
+        desc_e = AREMOS_gerfin.loc[AREMOS_gerfin['code'] == name]['description'].item()
     desc_e = desc_e.title()
     for ph in range(len(before2)):
         desc_e = desc_e.replace(before2[ph],after2[ph])
@@ -201,9 +209,17 @@ def GERFIN_DATA(ind, GERFIN_t, AREMOS_gerfin, value, index, code_num, table_num,
     for ph in range(len(before3)):
         desc_e = desc_e.replace(before3[ph],after3[ph])
     base = IHSBASE(name, suffix)
+    if base == '':
+        base = AREMOS_gerfin.loc[AREMOS_gerfin['code'] == name]['base currency'].item()
     form_e = IHSFORM(name, suffix)
-    quote = str(GERFIN_t.loc[GERFIN_t.index[ind], 'Unit'])
-    source = str(GERFIN_t.loc[GERFIN_t.index[ind], 'Source'])
+    try:
+        quote = str(Series.loc[GERFIN_t.index[ind], 'Unit'])
+    except KeyError:
+        quote = AREMOS_gerfin.loc[AREMOS_gerfin['code'] == name]['quote currency'].item()
+    try:
+        source = str(Series.loc[GERFIN_t.index[ind], 'Source'])
+    except KeyError:
+        source = AREMOS_gerfin.loc[AREMOS_gerfin['code'] == name]['source'].item()
     desc_c = ''
     form_c = ''
     
@@ -236,6 +252,7 @@ def GERFIN_DATA(ind, GERFIN_t, AREMOS_gerfin, value, index, code_num, table_num,
                     freq_index = 'Nan'
             else:
                 freq_index = 'Nan'
+            #print(freq_index, freq_index in db_table_t.index)
         if freq_index in db_table_t.index:
             if str(value[k]) == NonValue:
                 db_table_t[db_code][freq_index] = ''
@@ -305,34 +322,46 @@ def GERFIN_DATA(ind, GERFIN_t, AREMOS_gerfin, value, index, code_num, table_num,
 #print(GERFIN_t.head(10))
 tStart = time.time()
 
-
+frequency = 'D'
 SHEET_NAME = ['Daily_5_week','Daily_7_week']
-for freq in SHEET_NAME:
-    print('Reading file: '+NAME+', sheet: '+freq+' Time: ', int(time.time() - tStart),'s'+'\n')
-    GERFIN_t = readExcelFile(data_path+NAME+'.xlsx', header_ =0, index_col_=3, skiprows_=[0,1], skipfooter_=10, sheet_name_=freq)
+GERFIN_t = pd.DataFrame()
+for yr in range(2000, 2021):
+    GF_t = pd.DataFrame()
+    for freq in SHEET_NAME:
+        print('Reading file: '+NAME+', year: '+str(yr)+', sheet: '+freq+' Time: ', int(time.time() - tStart),'s'+'\n')
+        GERFIN_temp = readExcelFile(data_path+NAME+str(yr)+'.xlsx', header_ =0, skiprows_=[0], sheet_name_=freq)
+        GERFIN_temp = GERFIN_temp.set_index(['Mnemonic','Short Label'])
+        GERFIN_temp = GERFIN_temp.loc[GERFIN_temp.index.dropna()]
+        GF_t = pd.concat([GF_t, GERFIN_temp])
+        GF_t = GF_t.loc[~GF_t.index.duplicated()]
+    GERFIN_t = pd.concat([GERFIN_t, GF_t], axis=1)
+    GERFIN_t = GERFIN_t.loc[GERFIN_t.index.dropna(), ~GERFIN_t.columns.duplicated()]
     #print(GERFIN_t)
-    index = []
-    for dex in GERFIN_t.columns:
-        if type(dex) == datetime:
-            index.append(dex.strftime('%Y-%m-%d'))
-        else:
-            index.append(dex)
+GERFIN_t = GERFIN_t.reset_index()
+GERFIN_t = GERFIN_t.set_index('Mnemonic')
+print(GERFIN_t)
+index = []
+for dex in GERFIN_t.columns:
+    if type(dex) == datetime:
+        index.append(dex.strftime('%Y-%m-%d'))
+    else:
+        index.append(dex)
     
-    nG = GERFIN_t.shape[0]
-    print('Total Columns:',nG,'Time: ', int(time.time() - tStart),'s'+'\n')        
-    for i in range(nG):
-        sys.stdout.write("\rLoading...("+str(round((i+1)*100/nG, 1))+"%)*")
-        sys.stdout.flush()
+nG = GERFIN_t.shape[0]
+print('Total Columns:',nG,'Time: ', int(time.time() - tStart),'s'+'\n')        
+for i in range(nG):
+    sys.stdout.write("\rLoading...("+str(round((i+1)*100/nG, 1))+"%)*")
+    sys.stdout.flush()
 
-        value = list(GERFIN_t.iloc[i])
-        if str(GERFIN_t.iloc[i]['Frequency']) == 'Daily (5/week)':
-            frequency = 'D'
-            code_num_D, table_num_D, SORT_DATA_D, DATA_BASE_D, db_table_D, db_table_D_t, DB_name_D, snl = GERFIN_DATA(i, GERFIN_t, AREMOS_gerfin, value, index, code_num_D, table_num_D, KEY_DATA, SORT_DATA_D, DATA_BASE_D, db_table_D_t, DB_name_D, snl, Day_list, frequency, suffix='.D')
-        elif str(GERFIN_t.iloc[i]['Frequency']) == 'Daily (7/week)':
-            frequency = 'D'
-            code_num_D, table_num_D, SORT_DATA_D, DATA_BASE_D, db_table_D, db_table_D_t, DB_name_D, snl = GERFIN_DATA(i, GERFIN_t, AREMOS_gerfin, value, index, code_num_D, table_num_D, KEY_DATA, SORT_DATA_D, DATA_BASE_D, db_table_D_t, DB_name_D, snl, Day_list, frequency, suffix='.D')
-            
-    sys.stdout.write("\n\n") 
+    value = list(GERFIN_t.iloc[i])
+    #if str(GERFIN_t.iloc[i]['Frequency']) == 'Daily (5/week)':
+    #frequency = 'D'
+    code_num_D, table_num_D, SORT_DATA_D, DATA_BASE_D, db_table_D, db_table_D_t, DB_name_D, snl = GERFIN_DATA(i, GERFIN_t, AREMOS_gerfin, value, index, code_num_D, table_num_D, KEY_DATA, SORT_DATA_D, DATA_BASE_D, db_table_D_t, DB_name_D, snl, Day_list, frequency, suffix='.D')
+    """elif str(GERFIN_t.iloc[i]['Frequency']) == 'Daily (7/week)':
+        frequency = 'D'
+        code_num_D, table_num_D, SORT_DATA_D, DATA_BASE_D, db_table_D, db_table_D_t, DB_name_D, snl = GERFIN_DATA(i, GERFIN_t, AREMOS_gerfin, value, index, code_num_D, table_num_D, KEY_DATA, SORT_DATA_D, DATA_BASE_D, db_table_D_t, DB_name_D, snl, Day_list, frequency, suffix='.D')"""
+        
+sys.stdout.write("\n\n") 
 
 if db_table_D_t.empty == False:
     DATA_BASE_D[db_table_D] = db_table_D_t
@@ -367,6 +396,8 @@ sys.stdout.write("\n")
 
 print('Time: ', int(time.time() - tStart),'s'+'\n')
 df_key = pd.DataFrame(KEY_DATA, columns = key_list)
+if df_key.empty:
+    ERROR('Empty DataFrame')
 df_key = df_key.sort_values(by=['name', 'db_table'], ignore_index=True)
 if df_key.iloc[0]['snl'] != start_snl:
     df_key.loc[0, 'snl'] = start_snl
@@ -415,8 +446,8 @@ print(df_key)
 #print(DATA_BASE_t)
 
 print('Time: ', int(time.time() - tStart),'s'+'\n')
-df_key.to_excel(out_path+NAME+"_key.xlsx", sheet_name=NAME+'_key')
-with pd.ExcelWriter(out_path+NAME+"_database.xlsx") as writer: # pylint: disable=abstract-class-instantiated
+df_key.to_excel(out_path+"GERFIN_keyIHS.xlsx", sheet_name='GERFIN_key')
+with pd.ExcelWriter(out_path+"GERFIN_databaseIHS.xlsx") as writer: # pylint: disable=abstract-class-instantiated
     for d in DB_name_D:
         sys.stdout.write("\rOutputing sheet: "+str(d))
         sys.stdout.flush()

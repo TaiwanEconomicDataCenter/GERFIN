@@ -16,16 +16,16 @@ logging.basicConfig(level=logging.INFO, format=FORMAT, handlers=[logging.FileHan
 ENCODING = CCT.ENCODING
 
 start_year = 1957
-NAME = 'EIKON_'
+EIKON_NAME = 'EIKON_'
 data_path = './data/'
 out_path = "./output/"
-databank = NAME[:-1]
+databank = EIKON_NAME[:-1]
 find_unknown = False
 main_suf = '?'
 merge_suf = '?'
 dealing_start_year = 1957
 start_year = 1957
-maximum = 9
+maximum = 6
 merging = bool(int(input('Merging data file (1/0): ')))
 updating = bool(int(input('Updating TOT file (1/0): ')))
 if merging and updating:
@@ -40,16 +40,16 @@ else:
         dealing_start_year = int(input("Dealing with data from year: "))
         start_year = dealing_start_year-2
 excel_suffix = CCT.excel_suffix
-with open(out_path+NAME+'TOT_name.txt','r',encoding='ANSI') as f:
+with open(out_path+EIKON_NAME+'TOT_name.txt','r',encoding='ANSI') as f:
     DF_suffix = f.read()
-main_file = readExcelFile(out_path+NAME+'key'+main_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=NAME+'key')
-merge_file = readExcelFile(out_path+NAME+'key'+merge_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=NAME+'key')
+main_file = readExcelFile(out_path+EIKON_NAME+'key'+main_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=EIKON_NAME+'key')
+merge_file = readExcelFile(out_path+EIKON_NAME+'key'+merge_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=EIKON_NAME+'key')
 key_list = ['databank', 'name', 'old_name', 'db_table', 'db_code', 'desc_e', 'desc_c', 'freq', 'start', 'last', 'base', 'quote', 'snl', 'source', 'form_e', 'form_c']
 #merge_file = readExcelFile(out_path+'EIKON_key.xlsx', header_ = 0, sheet_name_='EIKON_key')
 #merge_database = readExcelFile(out_path+'EIKON_database'+'.xlsx', header_ = 0, index_col_=0, sheet_name_=None)
 frequency = 'D'
-start_file = 1
-last_file = 3
+EIKON_start_file = 1
+EIKON_last_file = 3
 update = datetime.today()
 for i in range(len(key_list)):
     if key_list[i] == 'snl':
@@ -80,17 +80,17 @@ source_FromUSD = readFile(data_path+'sourceFROM.csv', header_ = 0)
 source_ToUSD = readFile(data_path+'sourceTO.csv', header_ = 0)
 source_USD = pd.concat([source_FromUSD, source_ToUSD], ignore_index=True)
 source_USD = source_USD.set_index('Symbol').to_dict()
-Currency = readFile(data_path+'Currency2.csv', header_ = 0)
-Currency = Currency.set_index('Code').to_dict()
+Currency2 = readFile(data_path+'Currency2.csv', header_ = 0)
+Currency2 = Currency2.set_index('Code').to_dict()
 
 def CURRENCY_CODE(code):
-    if code in Currency['Country_Code']:
-        return str(Currency['Country_Code'][code]).rjust(3,'0')
+    if code in Currency2['Country_Code']:
+        return str(Currency2['Country_Code'][code]).rjust(3,'0')
     else:
         return 'not_exists'
-def CURRENCY(code):
-    if code in Currency['Name']:
-        return str(Currency['Name'][code])
+def CURRENCY2(code):
+    if code in Currency2['Name']:
+        return str(Currency2['Name'][code])
     else:
         ERROR('貨幣代碼錯誤: '+code)
 """
@@ -119,24 +119,24 @@ DB_CODE = 'data'
 table_num_dict = {}
 code_num_dict = {}
 if merge_file.empty == False and merging == True and updating == False:
-    logging.info('Merging File: '+out_path+NAME+'key'+merge_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
+    logging.info('Merging File: '+out_path+EIKON_NAME+'key'+merge_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
     snl = int(merge_file['snl'][merge_file.shape[0]-1]+1)
     for f in FREQNAME:
         table_num_dict[f], code_num_dict[f] = MERGE(merge_file, DB_TABLE, DB_CODE, f)
     if main_file.empty == False:
-        logging.info('Main File Exists: '+out_path+NAME+'key'+main_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
+        logging.info('Main File Exists: '+out_path+EIKON_NAME+'key'+main_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
         try:
-            with open(out_path+NAME+'database_num'+main_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
+            with open(out_path+EIKON_NAME+'database_num'+main_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
                 database_num = int(f.read().replace('\n', ''))
             main_database = {}
             for i in range(1,database_num+1):
-                logging.info('Reading file: '+NAME+'database_'+str(i)+main_suf+', Time:'+str(int(time.time() - tStart))+' s'+'\n')
-                DB_t = readExcelFile(out_path+NAME+'database_'+str(i)+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
+                logging.info('Reading file: '+EIKON_NAME+'database_'+str(i)+main_suf+', Time:'+str(int(time.time() - tStart))+' s'+'\n')
+                DB_t = readExcelFile(out_path+EIKON_NAME+'database_'+str(i)+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
                 for d in DB_t.keys():
                     main_database[d] = DB_t[d]
         except:
-            logging.info('Reading file: '+NAME+'database'+main_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
-            main_database = readExcelFile(out_path+NAME+'database'+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
+            logging.info('Reading file: '+EIKON_NAME+'database'+main_suf+'.xlsx, Time:'+str(int(time.time() - tStart))+' s'+'\n')
+            main_database = readExcelFile(out_path+EIKON_NAME+'database'+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
         for s in range(main_file.shape[0]):
             sys.stdout.write("\rSetting snls: "+str(s+snl))
             sys.stdout.flush()
@@ -164,8 +164,8 @@ else:
 
 #print(GERFIN_t.head(10))
 if updating == False and DF_suffix != merge_suf:
-    logging.info('Reading file: '+NAME+'key'+DF_suffix+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-    DF_KEY = readExcelFile(out_path+NAME+'key'+DF_suffix+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_=NAME+'key')
+    logging.info('Reading file: '+EIKON_NAME+'key'+DF_suffix+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+    DF_KEY = readExcelFile(out_path+EIKON_NAME+'key'+DF_suffix+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_=EIKON_NAME+'key')
     DF_KEY = DF_KEY.set_index('name')
 elif updating == False and DF_suffix == merge_suf:
     DF_KEY = merge_file
@@ -188,7 +188,8 @@ def EIKON_DATA(i, loc1, loc2, name, sheet, EIKON_t, code_num, table_num, KEY_DAT
     index = EIKON_t[sheet][EIKON_t[sheet].columns[i]].index
     db_table = DB_TABLE+frequency+'_'+str(table_num).rjust(4,'0')
     db_code = DB_CODE+str(code_num).rjust(3,'0')
-    db_table_t[db_code] = ['' for tmp in range(freqlen)]
+    #db_table_t[db_code] = ['' for tmp in range(freqlen)]
+    db_table_t = pd.concat([db_table_t, pd.DataFrame(['' for tmp in range(freqlen)], index=freqlist, columns=[db_code])], axis=1)
     
     start_found = False
     last_found = False
@@ -277,16 +278,16 @@ def EIKON_DATA(i, loc1, loc2, name, sheet, EIKON_t, code_num, table_num, KEY_DAT
 ###########################################################################  Main Function  ###########################################################################
 new_item_counts = 0
 
-for g in range(start_file,last_file+1):
+for g in range(EIKON_start_file,EIKON_last_file+1):
     if main_file.empty == False:
         break
-    logging.info('Reading file: '+NAME+str(g)+' Time: '+str(int(time.time() - tStart))+' s'+'\n')
-    EIKON_t = readExcelFile(data_path+NAME+str(g)+'.xlsx', header_ = [0,1,2], sheet_name_= None)
+    logging.info('Reading file: '+EIKON_NAME+str(g)+' Time: '+str(int(time.time() - tStart))+' s'+'\n')
+    EIKON_t = readExcelFile(data_path+EIKON_NAME+str(g)+'.xlsx', header_ = [0,1,2], sheet_name_= None)
     
     for sheet in EIKON_t:
         if CURRENCY_CODE(sheet) == 'not_exists':
             continue
-        logging.info('Reading sheet: '+CURRENCY(sheet)+' Time: '+str(int(time.time() - tStart))+' s'+'\n')
+        logging.info('Reading sheet: '+CURRENCY2(sheet)+' Time: '+str(int(time.time() - tStart))+' s'+'\n')
         EIKON_t[sheet].set_index(EIKON_t[sheet].columns[0], inplace = True)
         if EIKON_t[sheet].index[0] > EIKON_t[sheet].index[1]:
             EIKON_t[sheet] = EIKON_t[sheet][::-1]
@@ -334,77 +335,77 @@ else:
     if merge_file.empty == True:
         ERROR('Missing Merge File')
 if updating == True:
-    df_key, DATA_BASE_dict = UPDATE(merge_file, main_file, key_list, NAME, out_path, merge_suf, main_suf, FREQLIST=FREQLIST)
+    df_key, DATA_BASE_dict = UPDATE(merge_file, main_file, key_list, EIKON_NAME, out_path, merge_suf, main_suf, FREQLIST=FREQLIST)
 else:
     if df_key.empty and find_unknown == False:
         ERROR('Empty dataframe')
     elif df_key.empty and find_unknown == True:
         ERROR('No new items were found.')
-    df_key, DATA_BASE_dict = CONCATE(NAME, merge_suf, out_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart, df_key, merge_file, DATA_BASE_dict, DB_name_dict, find_unknown=find_unknown)
+    df_key, DATA_BASE_dict = CONCATE(EIKON_NAME, merge_suf, out_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart, df_key, merge_file, DATA_BASE_dict, DB_name_dict, find_unknown=find_unknown)
 
 logging.info(df_key)
 #logging.info(DATA_BASE_t)
 DB_name = []
-if updating == True:
-    for key in DATA_BASE_dict.keys():
-        DB_name.append(key)
-else:
+#if updating == True:
+for key in DATA_BASE_dict.keys():
+    DB_name.append(key)
+"""else:
     for f in FREQNAME:
         for key in DATA_BASE_dict[f].keys():
-            DB_name.append(key)
+            DB_name.append(key)"""
 
 print('Time: ', int(time.time() - tStart),'s'+'\n')
-df_key.to_excel(out_path+NAME+"key"+excel_suffix+".xlsx", sheet_name=NAME+'key')
+df_key.to_excel(out_path+EIKON_NAME+"key"+excel_suffix+".xlsx", sheet_name=EIKON_NAME+'key')
 database_num = int(((len(DB_name)-1)/maximum))+1
 for d in range(1, database_num+1):
     if database_num > 1:
-        with pd.ExcelWriter(out_path+NAME+"database_"+str(d)+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
-            logging.info('Outputing file: '+NAME+"database_"+str(d))
+        with pd.ExcelWriter(out_path+EIKON_NAME+"database_"+str(d)+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
+            logging.info('Outputing file: '+EIKON_NAME+"database_"+str(d))
             if maximum*d > len(DB_name):
                 for db in range(maximum*(d-1), len(DB_name)):
                     sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
                     sys.stdout.flush()
-                    if updating == True:
-                        if DATA_BASE_dict[DB_name[db]].empty == False:
-                            DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
-                    else:
+                    #if updating == True:
+                    if DATA_BASE_dict[DB_name[db]].empty == False:
+                        DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
+                    """else:
                         for f in FREQNAME:
                             if DB_name[db] in DATA_BASE_dict[f].keys() and DATA_BASE_dict[f][DB_name[db]].empty == False:
-                                DATA_BASE_dict[f][DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
+                                DATA_BASE_dict[f][DB_name[db]].to_excel(writer, sheet_name = DB_name[db])"""
                 writer.save()
                 sys.stdout.write("\n")
             else:
                 for db in range(maximum*(d-1), maximum*d):
                     sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
                     sys.stdout.flush()
-                    if updating == True:
-                        if DATA_BASE_dict[DB_name[db]].empty == False:
-                            DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
-                    else:
+                    #if updating == True:
+                    if DATA_BASE_dict[DB_name[db]].empty == False:
+                        DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
+                    """else:
                         for f in FREQNAME:
                             if DB_name[db] in DATA_BASE_dict[f].keys() and DATA_BASE_dict[f][DB_name[db]].empty == False:
-                                DATA_BASE_dict[f][DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
+                                DATA_BASE_dict[f][DB_name[db]].to_excel(writer, sheet_name = DB_name[db])"""
                 writer.save()
                 sys.stdout.write("\n")
     else:
-        with pd.ExcelWriter(out_path+NAME+"database"+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
-            if updating == True:
-                for key in DATA_BASE_dict:
-                    sys.stdout.write("\rOutputing sheet: "+str(d))
-                    sys.stdout.flush()
-                    if DATA_BASE_dict[key].empty == False:
-                        DATA_BASE_dict[key].to_excel(writer, sheet_name = key)
-            else:
+        with pd.ExcelWriter(out_path+EIKON_NAME+"database"+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
+            #if updating == True:
+            for key in DATA_BASE_dict:
+                sys.stdout.write("\rOutputing sheet: "+str(d))
+                sys.stdout.flush()
+                if DATA_BASE_dict[key].empty == False:
+                    DATA_BASE_dict[key].to_excel(writer, sheet_name = key)
+            """else:
                 for f in FREQNAME:
                     for key in DATA_BASE_dict[f]:
                         sys.stdout.write("\rOutputing sheet: "+str(key))
                         sys.stdout.flush()
                         if DATA_BASE_dict[f][key].empty == False:
-                            DATA_BASE_dict[f][key].to_excel(writer, sheet_name = key)
+                            DATA_BASE_dict[f][key].to_excel(writer, sheet_name = key)"""
 sys.stdout.write("\n")
 logging.info('\ndatabase_num = '+str(database_num))
 if database_num > 1:
-    with open(out_path+NAME+'database_num'+excel_suffix+'.txt','w', encoding=ENCODING) as f:    #用with一次性完成open、close檔案
+    with open(out_path+EIKON_NAME+'database_num'+excel_suffix+'.txt','w', encoding=ENCODING) as f:    #用with一次性完成open、close檔案
         f.write(str(database_num))
 
 print('Time: ', int(time.time() - tStart),'s'+'\n')

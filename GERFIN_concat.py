@@ -1,6 +1,6 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import math, re, sys, calendar, os, copy, time, shutil, logging
+import math, re, sys, calendar, os, copy, time, shutil, logging, traceback
 import pandas as pd
 import numpy as np
 import requests as rq
@@ -18,11 +18,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import StaleElementReferenceException
+from selenium.common.exceptions import ElementClickInterceptedException
+from selenium.common.exceptions import UnexpectedAlertPresentException
 import webdriver_manager
 from webdriver_manager.chrome import ChromeDriverManager
+sys.path.append('../TO_DB')
+from TO_DB import SELECT_DF_KEY
 
 ENCODING = 'utf-8-sig'
-data_path = "./data2/"
+data_path = "./data/"
 out_path = "./output/"
 excel_suffix = input('Output file suffix (If test identity press 0): ')
 
@@ -42,7 +47,7 @@ def readFile(dir, default=pd.DataFrame(), acceptNoFile=False,header_=None,names_
                         names=names_,usecols=usecols_,nrows=nrows_,encoding=encoding_,engine=engine_,sep=sep_)
         #print(t)
         return t
-    except FileNotFoundError:
+    except (OSError, FileNotFoundError):
         if acceptNoFile:
             return default
         else:
@@ -61,16 +66,16 @@ def readFile(dir, default=pd.DataFrame(), acceptNoFile=False,header_=None,names_
                         names=names_,usecols=usecols_,nrows=nrows_,engine=engine_,sep=sep_)
             #print(t)
             return t
-        except:
-            return default  #有檔案但是讀不了
+        except UnicodeDecodeError as err:
+            ERROR(str(err))
 
 def readExcelFile(dir, default=pd.DataFrame(), acceptNoFile=True, na_filter_=True, \
-             header_=None,names_=None,skiprows_=None,index_col_=None,usecols_=None,skipfooter_=0,nrows_=None,sheet_name_=None, wait=False):
+             header_=None,names_=None,skiprows_=None,index_col_=None,usecols_=None,skipfooter_=0,nrows_=None,sheet_name_=None,engine_=None,wait=False):
     try:
-        t = pd.read_excel(dir,sheet_name=sheet_name_, header=header_,names=names_,index_col=index_col_,skiprows=skiprows_,skipfooter=skipfooter_,usecols=usecols_,nrows=nrows_,na_filter=na_filter_)
+        t = pd.read_excel(dir,sheet_name=sheet_name_, header=header_,names=names_,index_col=index_col_,skiprows=skiprows_,skipfooter=skipfooter_,usecols=usecols_,nrows=nrows_,na_filter=na_filter_,engine=engine_)
         #print(t)
         return t
-    except FileNotFoundError:
+    except (OSError, FileNotFoundError):
         if acceptNoFile:
             return default
         else:
@@ -83,8 +88,8 @@ def readExcelFile(dir, default=pd.DataFrame(), acceptNoFile=True, na_filter_=Tru
             t = pd.read_excel(dir,sheet_name=sheet_name_, header=header_,names=names_,index_col=index_col_,skiprows=skiprows_,skipfooter=skipfooter_,usecols=usecols_,nrows=nrows_,na_filter=na_filter_)
             #print(t)
             return t
-        except:
-            return default  #有檔案但是讀不了:多半是沒有限制式，使skiprow後為空。 一律用預設值
+        except UnicodeDecodeError as err:
+            ERROR(str(err))
 
 def PRESENT(file_path):
     if os.path.isfile(file_path) and datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V'):
@@ -151,7 +156,7 @@ def GERFIN_WEBDRIVER(chrome, file_name, header=None, index_col=None, skiprows=No
 
 def GERFIN_WEB_LINK(chrome, fname, keyword, get_attribute='href', text_match=False):
     
-    link_list = WebDriverWait(chrome, 5).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
+    link_list = WebDriverWait(chrome, 10).until(EC.presence_of_all_elements_located((By.XPATH, './/*[@href]')))
     link_found = False
     for link in link_list:
         if (text_match == True and link.text.find(keyword) >= 0) or (text_match == False and link.get_attribute(get_attribute).find(keyword) >= 0):
@@ -209,10 +214,24 @@ def GERFIN_WEB(chrome, g, file_name, url, header=None, index_col=0, skiprows=Non
                 #ActionChains(chrome).send_keys(Keys.ENTER).perform()
                 link_found = True
             elif g == 2:
-                WebDriverWait(chrome, 10).until(EC.element_to_be_clickable((By.XPATH, './/a[text()="Add all"]'))).click()
-                link_found, link_meassage = GERFIN_WEB_LINK(chrome, url, keyword='data-basket')
+                chrome.refresh()
+                try:
+                    WebDriverWait(chrome, 2).until(EC.element_to_be_clickable((By.XPATH, './/a[text()="Remove all"]')))
+                except TimeoutException:
+                    WebDriverWait(chrome, 10).until(EC.element_to_be_clickable((By.XPATH, './/a[text()="Add all"]'))).click()
+                while True:
+                    try:
+                        #chrome.execute_script("window.scrollTo(0,100)")
+                        link_found, link_meassage = GERFIN_WEB_LINK(chrome, url, keyword='data-basket')
+                    except (UnexpectedAlertPresentException, ElementClickInterceptedException):
+                        time.sleep(0.5)
+                    else:
+                        break
+                chrome.execute_script("window.scrollTo(0,200)")
                 WebDriverWait(chrome, 10).until(EC.visibility_of_element_located((By.XPATH, './/input[@name="its_from"]'))).send_keys(str(start_year))
                 chrome.find_element_by_xpath('.//span[text()="English"]').click()
+                chrome.refresh()
+                chrome.execute_script("window.scrollTo(0,0)")
                 chrome.find_element_by_xpath('.//input[@value="Go to download"]').click()
                 link_found, link_meassage = GERFIN_WEB_LINK(chrome, url, keyword='Daily series', text_match=True)
             elif g == 3:
@@ -232,7 +251,8 @@ def GERFIN_WEB(chrome, g, file_name, url, header=None, index_col=0, skiprows=Non
                 link_found = True
             if link_found == False:
                 raise FileNotFoundError
-        except (FileNotFoundError, TimeoutException):
+        except (FileNotFoundError, TimeoutException, StaleElementReferenceException, ElementClickInterceptedException):
+            print(str(traceback.format_exc())[:1000])
             if g == 1 or g == 4:
                 DOWN+=1
             else:
@@ -293,7 +313,8 @@ def NEW_KEYS(f, freq, FREQLIST, DB_TABLE, DB_CODE, df_key, DATA_BASE, db_table_t
         db_table_t = pd.DataFrame(index = FREQLIST[freq], columns = [])
     db_table = DB_TABLE+freq+'_'+str(start_table).rjust(4,'0')
     db_code = DB_CODE+str(start_code).rjust(3,'0')
-    db_table_t[db_code] = DATA_BASE[df_key.iloc[f]['db_table']][df_key.iloc[f]['db_code']]
+    #db_table_t[db_code] = DATA_BASE[df_key.iloc[f]['db_table']][df_key.iloc[f]['db_code']]
+    db_table_t = pd.concat([db_table_t, pd.DataFrame(list(DATA_BASE[df_key.iloc[f]['db_table']][df_key.iloc[f]['db_code']]), index=DATA_BASE[df_key.iloc[f]['db_table']][df_key.iloc[f]['db_code']].index, columns=[db_code])], axis=1)
     df_key.loc[f, 'db_table'] = db_table
     df_key.loc[f, 'db_code'] = db_code
     start_code += 1
@@ -302,29 +323,30 @@ def NEW_KEYS(f, freq, FREQLIST, DB_TABLE, DB_CODE, df_key, DATA_BASE, db_table_t
     
     return df_key, DATA_BASE_new, DB_name_new, db_table_t, start_table, start_code, db_table_new, db_code_new
 
-def CONCATE(NAME, suf, data_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart, df_key, KEY_DATA_t, DB_dict, DB_name_dict, find_unknown=True):
+def CONCATE(NAME, suf, data_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart, df_key, KEY_DATA_t, DB_dict, DB_name_dict, find_unknown=True, DATA_BASE_t=None):
     if find_unknown == True:
         repeated_standard = 'start'
     else:
         repeated_standard = 'last'
     #print('Reading file: '+NAME+'key'+suf+', Time: ', int(time.time() - tStart),'s'+'\n')
     #KEY_DATA_t = readExcelFile(data_path+NAME+'key'+suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=NAME+'key')
-    try:
-        with open(data_path+NAME+'database_num'+suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
-            database_num = int(f.read().replace('\n', ''))
-        DATA_BASE_t = {}
-        for i in range(1,database_num+1):
-            logging.info('Reading file: '+NAME+'database_'+str(i)+suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-            DB_t = readExcelFile(data_path+NAME+'database_'+str(i)+suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
-            for d in DB_t.keys():
-                DATA_BASE_t[d] = DB_t[d]
-    except:
-        logging.info('Reading file: '+NAME+'database'+suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        DATA_BASE_t = readExcelFile(data_path+NAME+'database'+suf+'.xlsx', header_ = 0, index_col_=0)
-        if KEY_DATA_t.empty == False and type(DATA_BASE_t) != dict:
-            ERROR(NAME+'database'+suf+'.xlsx Not Found.')
-        elif type(DATA_BASE_t) != dict:
+    if DATA_BASE_t == None:
+        try:
+            with open(data_path+NAME+'database_num'+suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
+                database_num = int(f.read().replace('\n', ''))
             DATA_BASE_t = {}
+            for i in range(1,database_num+1):
+                logging.info('Reading file: '+NAME+'database_'+str(i)+suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                DB_t = readExcelFile(data_path+NAME+'database_'+str(i)+suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
+                for d in DB_t.keys():
+                    DATA_BASE_t[d] = DB_t[d]
+        except:
+            logging.info('Reading file: '+NAME+'database'+suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+            DATA_BASE_t = readExcelFile(data_path+NAME+'database'+suf+'.xlsx', header_ = 0, index_col_=0)
+    if KEY_DATA_t.empty == False and type(DATA_BASE_t) != dict:
+        ERROR(NAME+'database'+suf+'.xlsx Not Found.')
+    elif type(DATA_BASE_t) != dict:
+        DATA_BASE_t = {}
     
     logging.info('Concating file: '+NAME+'key'+suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
     KEY_DATA_t = pd.concat([KEY_DATA_t, df_key], ignore_index=True)
@@ -335,7 +357,8 @@ def CONCATE(NAME, suf, data_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart,
             sys.stdout.write("\rConcating sheet: "+str(d))
             sys.stdout.flush()
             if d in DATA_BASE_t.keys():
-                DATA_BASE_t[d] = DATA_BASE_t[d].join(DB_dict[f][d])
+                DATA_BASE_t[d] = DATA_BASE_t[d].join(DB_dict[f][d], how='outer')
+                DATA_BASE_t[d] = DATA_BASE_t[d].sort_index(ascending=False)
             else:
                 DATA_BASE_t[d] = DB_dict[f][d]
         sys.stdout.write("\n")
@@ -381,7 +404,7 @@ def CONCATE(NAME, suf, data_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart,
                         keep = k
                     else:
                         repeated_index.append(k)
-        sys.stdout.write("\r"+str(repeated)+" repeated data key(s) found")
+        sys.stdout.write("\r"+str(repeated)+" repeated data key(s) found ("+str(round((i+1)*100/len(KEY_DATA_t), 1))+"%)*")
         sys.stdout.flush()
     sys.stdout.write("\n")
     for target in repeated_index:
@@ -438,13 +461,18 @@ def CONCATE(NAME, suf, data_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart,
     DATA_BASE_dict = {}
     for f in FREQNAME:
         if not DB_name_dict[f]:
-            DATA_BASE_dict[f] = DB_dict[f]
+            for key in DB_dict[f]:
+                sys.stdout.write("\rConcating sheet: "+str(key))
+                sys.stdout.flush()
+                DATA_BASE_dict[key] = DB_dict[f][key]
+            sys.stdout.write("\n")
             continue
-        DATA_BASE_dict[f] = {}
+        #DATA_BASE_dict[f] = {}
         for d in DB_name_dict[f]:
             sys.stdout.write("\rConcating sheet: "+str(d))
             sys.stdout.flush()
-            DATA_BASE_dict[f][d] = DB_dict[f][d]
+            #DATA_BASE_dict[f][d] = DB_dict[f][d]
+            DATA_BASE_dict[d] = DB_dict[f][d]
         sys.stdout.write("\n")
     
     #print(KEY_DATA_t)
@@ -452,40 +480,42 @@ def CONCATE(NAME, suf, data_path, DB_TABLE, DB_CODE, FREQNAME, FREQLIST, tStart,
 
     return KEY_DATA_t, DATA_BASE_dict
 
-def UPDATE(original_file, updated_file, key_list, NAME, data_path, orig_suf, up_suf, FREQLIST=None):
+def UPDATE(original_file, updated_file, key_list, NAME, data_path, orig_suf, up_suf, FREQLIST=None, original_database=None, updated_database=None):
     updated = 0
     tStart = time.time()
     logging.info('Updating file: '+str(int(time.time() - tStart))+' s'+'\n')
-    try:
-        with open(data_path+NAME+'database_num'+orig_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
-            database_num = int(f.read().replace('\n', ''))
-        original_database = {}
-        for i in range(1,database_num+1):
-            logging.info('Reading original database: '+NAME+'database_'+str(i)+orig_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-            DB_t = readExcelFile(data_path+NAME+'database_'+str(i)+orig_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
-            for d in DB_t.keys():
-                original_database[d] = DB_t[d]
-    except:
-        logging.info('Reading original database: '+NAME+'database'+orig_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        original_database = readExcelFile(data_path+NAME+'database'+orig_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
-    try:
-        with open(data_path+NAME+'database_num'+up_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
-            database_num = int(f.read().replace('\n', ''))
-        updated_database = {}
-        for i in range(1,database_num+1):
-            logging.info('Reading updated database: '+NAME+'database_'+str(i)+up_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-            DB_t = readExcelFile(data_path+NAME+'database_'+str(i)+up_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
-            for d in DB_t.keys():
-                updated_database[d] = DB_t[d]
-    except:
-        logging.info('Reading updated database: '+NAME+'database'+up_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        updated_database = readExcelFile(data_path+NAME+'database'+up_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
-    CAT = ['desc_e', 'desc_c', 'form_e', 'form_c']
+    if original_database == None:
+        try:
+            with open(data_path+NAME+'database_num'+orig_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
+                database_num = int(f.read().replace('\n', ''))
+            original_database = {}
+            for i in range(1,database_num+1):
+                logging.info('Reading original database: '+NAME+'database_'+str(i)+orig_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                DB_t = readExcelFile(data_path+NAME+'database_'+str(i)+orig_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
+                for d in DB_t.keys():
+                    original_database[d] = DB_t[d]
+        except:
+            logging.info('Reading original database: '+NAME+'database'+orig_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+            original_database = readExcelFile(data_path+NAME+'database'+orig_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
+    if updated_database == None:
+        try:
+            with open(data_path+NAME+'database_num'+up_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
+                database_num = int(f.read().replace('\n', ''))
+            updated_database = {}
+            for i in range(1,database_num+1):
+                logging.info('Reading updated database: '+NAME+'database_'+str(i)+up_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                DB_t = readExcelFile(data_path+NAME+'database_'+str(i)+up_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
+                for d in DB_t.keys():
+                    updated_database[d] = DB_t[d]
+        except:
+            logging.info('Reading updated database: '+NAME+'database'+up_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+            updated_database = readExcelFile(data_path+NAME+'database'+up_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
+    CAT = ['desc_e', 'old_name', 'form_e', 'form_c']
     
     original_file = original_file.set_index('name')
     updated_file = updated_file.set_index('name')
     for ind in updated_file.index:
-        sys.stdout.write("\rUpdating latest data time: "+ind+" ")
+        sys.stdout.write("\rUpdating latest data time ("+str(round((list(updated_file.index).index(ind)+1)*100/len(updated_file.index), 2))+"%): "+ind+" ")
         sys.stdout.flush()
 
         if ind in original_file.index:
@@ -512,7 +542,7 @@ def UPDATE(original_file, updated_file, key_list, NAME, data_path, orig_suf, up_
     for key in original_database.keys():
         original_database[key] = original_database[key].sort_index(axis=0, ascending=False)
         if FREQLIST != None:
-            original_database[key] = original_database[key].reindex(FREQLIST[key[3]])
+            original_database[key] = original_database[key].reindex(FREQLIST[key[3]]) #key[3]==D
     original_file = original_file.reset_index()
     original_file = original_file.reindex(key_list, axis='columns')
     logging.info('updated: '+str(updated)+'\n')

@@ -39,7 +39,7 @@ def GERFIN_identity(data_path, df_key, DF_KEY, checkNotFound=False, checkDESC=Tr
     notsame_dict = {}
     updated = 0
     update_list = []
-    CHECK = ['desc_e', 'desc_c', 'freq', 'base', 'quote', 'source', 'form_e', 'form_c']
+    CHECK = ['desc_e', 'old_name', 'freq', 'base', 'quote', 'source', 'form_e', 'form_c']
     for c in CHECK:
         notsame_dict[c] = 0
     UPDATE = ['last']
@@ -76,7 +76,7 @@ def GERFIN_identity(data_path, df_key, DF_KEY, checkNotFound=False, checkDESC=Tr
                         continue
                     elif str(DF_KEY.loc[ind, check]).strip() == 'nan' and str(df_key.loc[ind, check]).strip() == '':
                         continue
-                    elif checkDESC == False and (check == 'desc_e' or check == 'desc_c' or check == 'form_e' or check == 'form_c'):
+                    elif checkDESC == False and (check == 'desc_e' or check == 'old_name' or check == 'form_e' or check == 'form_c'):
                         continue
                     logging.info('Index '+ind+' '+check+' error')
                     if check == 'desc_e' and str(df_key.loc[ind, check]).replace(str(DF_KEY.loc[ind, check]), '') != str(df_key.loc[ind, check]):
@@ -140,8 +140,8 @@ def GERFIN_identity(data_path, df_key, DF_KEY, checkNotFound=False, checkDESC=Tr
     return unknown_list, toolong_list, update_list, unfound_list
 
 if local == True:
-    NAME = input('Bank (EIKON/GERFIN): ')
-    with open(data_path+NAME+'_TOT_name.txt','r',encoding='ANSI') as f:
+    NAME = 'GERFIN'#input('Bank (EIKON/GERFIN): ')
+    with open(data_path+'TOT_name.txt','r',encoding='ANSI') as f:
         DF_suffix = f.read()
     main_suf = input('Main data suffix: ')
     styr = int(input('Dealing Start Year of Main data: '))
