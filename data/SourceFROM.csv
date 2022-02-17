@@ -1,0 +1,804 @@
+Name,Symbol,Start Date,Hist.,Category,From Currency,To Currency,Source,Full Name,Activity
+USD TO AUD CBBR,USAUCBR,-,-,Exchange Rates,United States Dollar,Australian Dollar,Banco Central do Brasil,USD to Australian Dollar CBBR,Active
+BUBA FIXING USD/DEM,BDFUSDE,1953/8/10,1953,Exchange Rates,United States Dollar,United States Dollar,Deutsche Bundesbank,Buba Fixing USD / DEM,Active
+ITALY USD/ITL FIXING,ITUSD.X,1955/8/1,1955,Exchange Rates,United States Dollar,United States Dollar,Bank of Italy,Italy USD / Italian Fixing,Active
+US $ TO UK ? (WMR),USDOLLR,1957/1/31,1957,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling (WMR),Active
+US $ TO EURO (DS SYNTHETIC),USEURSN,1957/12/31,1957,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro (DS Synthetic),Active
+US $ TO EURO (WMR&DS),USEURSP,1957/12/31,1957,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro (WMR and DS),Active
+US $ TO UK ? (OL),USOLDOL,1965/1/29,1965,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom Sterling (OL),Active
+MSCI USD TO 1 USD,MSERUSD,1969/12/31,1969,Exchange Rates,United States Dollar,United States Dollar,MSCI,MSCI USD to 1 USD,Active
+US $ INDEX - TRADE WEIGHTED DISC,US$TRDW,1971/1/4,1971,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar Index - Trade Weighted Discontinued,Dead
+US $ TO AUSTRALIAN $ (RFV),TDAUDSP,1971/1/4,1971,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar (Refinitiv),Active
+US $ TO AUSTRALIAN $ NOON NY,A$U$FR2,1971/1/4,1971,Exchange Rates,United States Dollar,Australian Dollar,"Federal Reserve, United States",United States Dollar to Australian Dollar Noon NY,Active
+US $ TO NEW ZEALAND $ (RFV),TDNZDSP,1971/1/4,1971,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar (Refinitiv),Active
+US $ TO NEW ZEALAND $ NOON NY,Z$U$FR2,1971/1/4,1971,Exchange Rates,United States Dollar,New Zealand Dollar,"Federal Reserve, United States",United States Dollar to New Zealand Dollar Noon NY,Active
+US $ TO UK ? NOON NY,UKU$FR2,1971/1/4,1971,Exchange Rates,United States Dollar,United Kingdom Pound,"Federal Reserve, United States",United States Dollar to United Kingdom Sterling Noon NY,Active
+US $ INDEX 1990=100 ( 'DEAD',BOEUSA$,1975/1/1,1975,Exchange Rates,United States Dollar,United States Dollar,Bank of England,United States Dollar Index 1990 = 100 ('Dead',Dead
+US $ INDEX 85=100 DISC,BOEUSA1,1975/1/2,1975,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar Index 85 = 100 Discontinued,Dead
+US $ TO BRITISH POUND (BOE),BOECGBP,1975/1/2,1975,Exchange Rates,United States Dollar,United Kingdom Pound,Bank of England,United States Dollar to British Pound (BOE),Active
+USD TO GBP (BOE),STUSBOE,1975/1/2,1975,Exchange Rates,United States Dollar,United Kingdom Pound,Bank of England,USD to GBP (BOE),Active
+US $ TO UK # 1M FWD DISC,USDOL1F,1976/1/2,1976,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # 1 Month Forward Discontinued,Dead
+US $ TO UK # 3M FWD DISC,USDOL3F,1976/1/2,1976,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # 3 Month Forward Discontinued,Dead
+US $ TO ECU,USA$ECU,1977/7/15,1977,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to ECU,Active
+US $ TRADE WGHT. DISC,BKEUSA$,1978/6/5,1978,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar Trade WGHT Discontinued,Dead
+DNB FIXING USD/NLG,NLFUSNL,1978/12/28,1978,Exchange Rates,United States Dollar,United States Dollar,DNB - De Nederlandsche Bank,DNB Fixing USD / NLG,Active
+US $ TO EURO (ECB),USECBSP,1978/12/28,1978,Exchange Rates,United States Dollar,Euro,ECB - European Central Bank,United States Dollar to Euro (ECB),Active
+US $ TO EURO SYNTHETIC (WMR),USEURWD,1979/12/31,1979,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro Synthetic (WMR),Active
+"HK EXCHANGE RATES USD/HKD, FIXINGS",HKUSDFX,1981/1/2,1981,Exchange Rates,United States Dollar,United States Dollar,Hong Kong Monetary Authority,"HK Exchange Rates USD / HKD, Fixings",Active
+USD TO GBP 1M FWD PTS,GBP1MFP,1982/1/4,1982,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 1 Month Forward PTS,Active
+USD TO GBP 2M FWD PTS,GBP2MFP,1982/1/4,1982,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 2 Month Forward PTS,Active
+NOMINAL EER - NARROW,USBINXN,1983/10/3,1983,Exchange Rates,United States Dollar,-,Bank for International Settlements,Nominal EER - Narrow,Active
+US $ TO UK ? (BBI),BBGBPSP,1983/10/11,1983,Exchange Rates,United States Dollar,United Kingdom Pound,Barclays Bank PLC,United States Dollar to United Kingdom Sterling (BBI),Active
+US $ TO UK ? 1M FWD (BBI),BBGBP1F,1983/10/11,1983,Exchange Rates,United States Dollar,United Kingdom Pound,Barclays Bank PLC,United States Dollar to United Kingdom Sterling 1 Month Forward (BBI),Active
+US $ TO UK ? 1Y FWD (BBI),BBGBPYF,1983/10/11,1983,Exchange Rates,United States Dollar,United Kingdom Pound,Barclays Bank PLC,United States Dollar to United Kingdom Sterling 1 Year Forward (BBI),Active
+US $ TO UK ? 2M FWD (BBI),BBGBP2F,1983/10/11,1983,Exchange Rates,United States Dollar,United Kingdom Pound,Barclays Bank PLC,United States Dollar to United Kingdom Sterling 2 Month Forward (BBI),Active
+US $ TO UK ? 3M FWD (BBI),BBGBP3F,1983/10/11,1983,Exchange Rates,United States Dollar,United Kingdom Pound,Barclays Bank PLC,United States Dollar to United Kingdom Sterling 3 Month Forward (BBI),Active
+US $ TO UK ? 6M FWD (BBI),BBGBP6F,1983/10/11,1983,Exchange Rates,United States Dollar,United Kingdom Pound,Barclays Bank PLC,United States Dollar to United Kingdom Sterling 6 Month Forward (BBI),Active
+US $ TO AUSTRALIAN $,AUUSDSP,1983/12/12,1983,Exchange Rates,United States Dollar,Australian Dollar,Reserve Bank of Australia,United States Dollar to Australian Dollar,Active
+US $ TO IRISH PUNT (BBI),BBIEPSP,1984/12/14,1984,Exchange Rates,United States Dollar,Irish Pound,Barclays Bank PLC,United States Dollar to Irish Punt (BBI),Active
+US $ TO UK # (NWB) DISC,NBGBPSP,1985/2/20,1985,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # (NWB) Discontinued,Dead
+US $ TO UK # 1M FWD (NWB) DISC,NBGBP1F,1985/2/20,1985,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # 1 Month Forward (NWB) Discontinued,Dead
+US $ TO UK # 1Y FWD (NWB) DISC,NBGBPYF,1985/2/20,1985,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # 1 Year Forward (NWB) Discontinued,Dead
+US $ TO UK # 2M FWD (NWB) DISC,NBGBP2F,1985/2/20,1985,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # 2 Month Forward (NWB) Discontinued,Dead
+US $ TO UK # 3M FWD (NWB) DISC,NBGBP3F,1985/2/20,1985,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # 3 Month Forward (NWB) Discontinued,Dead
+US $ TO UK # 6M FWD (NWB) DISC,NBGBP6F,1985/2/20,1985,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to United Kingdom # 6 Month Forward (NWB) Discontinued,Dead
+US $ TO NLG (NL) DISC,FLUSDLR,1985/9/11,1985,Exchange Rates,United States Dollar,Dutch Guilder,Refinitiv,United States Dollar to NLG (NL) Discontinued,Dead
+US $ TO AUSTRALIAN $(JPM) DISC,JPMERAU,1986/1/1,1986,Exchange Rates,United States Dollar,Australian Dollar,J.P. Morgan,United States Dollar to Australian Dollar (JP Morgan) Discontinued,Dead
+US $ TO BELGIAN FRANC(JPM) DISC,JPMERBG,1986/1/1,1986,Exchange Rates,United States Dollar,Belgian Franc,J.P. Morgan,United States Dollar to Belgian Franc (JP Morgan) Discontinued,Dead
+US $ TO CANADIAN $(JPM) DISC,JPMERCN,1986/1/1,1986,Exchange Rates,United States Dollar,Canadian Dollar,J.P. Morgan,United States Dollar to Canadian Dollar (JP Morgan) Discontinued,Dead
+US $ TO DANISH KRONE(JPM) DISC,JPMERDK,1986/1/1,1986,Exchange Rates,United States Dollar,Danish Krone,J.P. Morgan,United States Dollar to Danish Krone (JP Morgan) Discontinued,Dead
+US $ TO FRENCH FRANC (JPM DISC,JPMERFR,1986/1/1,1986,Exchange Rates,United States Dollar,French Franc,J.P. Morgan,United States Dollar to French Franc (JP Morgan Discontinued,Dead
+US $ TO GERMAN MARK (JPM) DISC,JPMERBD,1986/1/1,1986,Exchange Rates,United States Dollar,German Mark,J.P. Morgan,United States Dollar to German Mark (JP Morgan) Discontinued,Dead
+US $ TO ITALIAN LIRA (JPM) DISC,JPMERIT,1986/1/1,1986,Exchange Rates,United States Dollar,Italian Lira,J.P. Morgan,United States Dollar to Italian Lira (JP Morgan) Discontinued,Dead
+US $ TO JAPANESE YEN (JPM) DISC,JPMERJP,1986/1/1,1986,Exchange Rates,United States Dollar,Japanese Yen,J.P. Morgan,United States Dollar to Japanese Yen (JP Morgan) Discontinued,Dead
+US $ TO NETHERLANDS GUILDER (J DISC,JPMERNL,1986/1/1,1986,Exchange Rates,United States Dollar,Dutch Guilder,J.P. Morgan,United States Dollar to Netherlands Guilder (J Discontinued,Dead
+US $ TO NEW ZEALAND $ (JPM) DISC,JPMERNZ,1986/1/1,1986,Exchange Rates,United States Dollar,New Zealand Dollar,J.P. Morgan,United States Dollar to New Zealand Dollar (JP Morgan) Discontinued,Dead
+US $ TO SPANISH PESETA(JPM DISC,JPMERES,1986/1/1,1986,Exchange Rates,United States Dollar,Spanish Peseta,J.P. Morgan,United States Dollar to Spanish Peseta (JP Morgan Discontinued,Dead
+US $ TO SWISS FRANC (JPM DISC,JPMERSW,1986/1/1,1986,Exchange Rates,United States Dollar,Swiss Franc,J.P. Morgan,United States Dollar to Swiss Franc (JP Morgan Discontinued,Dead
+US $ TO UK # (JPM) DISC,JPMERUK,1986/1/1,1986,Exchange Rates,United States Dollar,United Kingdom Pound,J.P. Morgan,United States Dollar to United Kingdom # (JP Morgan) Discontinued,Dead
+US $ TO 10 LEBANESE POUNDS (RFV),LEBANUS,1986/1/2,1986,Exchange Rates,United States Dollar,Lebanese Pound,GTIS - FTID/TR,United States Dollar to 10 Lebanese Pounds (Refinitiv),Active
+US $ TO 100 COLOM. PESO (RFV),COLMPUS,1986/1/2,1986,Exchange Rates,United States Dollar,Colombian Peso,GTIS - FTID/TR,United States Dollar to 100 Colombian Peso (Refinitiv),Active
+US $ TO 100 INDIAN RUPEE (RFV),INDNRUS,1986/1/2,1986,Exchange Rates,United States Dollar,Indian Rupee,GTIS - FTID/TR,United States Dollar to 100 Indian Rupee (Refinitiv),Active
+US $ TO 100 JAPANESE YEN (RFV),JAPYNUS,1986/1/2,1986,Exchange Rates,United States Dollar,Japanese Yen,GTIS - FTID/TR,United States Dollar to 100 Japanese Yen (Refinitiv),Active
+US $ TO 1000 INDO. RUPIAH (RFV),INDONUS,1986/1/2,1986,Exchange Rates,United States Dollar,Indonesian Rupiah,GTIS - FTID/TR,United States Dollar to 1000 Indonesian Rupiah (Refinitiv),Active
+US $ TO ARGENTINE PESO (RFV),ARGENUS,1986/1/2,1986,Exchange Rates,United States Dollar,Argentine Peso,GTIS - FTID/TR,United States Dollar to Argentine Peso (Refinitiv),Active
+US $ TO AUSTRALIAN $ (RFV),AUSTRUS,1986/1/2,1986,Exchange Rates,United States Dollar,Australian Dollar,GTIS - FTID/TR,United States Dollar to Australian Dollar (Refinitiv),Active
+US $ TO AUSTRIAN SCHILLING DISC,AUSCHUS,1986/1/2,1986,Exchange Rates,United States Dollar,Austrian Schilling,GTIS - FTID/TR,United States Dollar to Austrian Schilling Discontinued,Dead
+US $ TO BELGIAN FRANC CM ( DISC,BELCMUS,1986/1/2,1986,Exchange Rates,United States Dollar,Belgian Franc,GTIS - FTID/TR,United States Dollar to Belgian Franc CM (Discontinued,Dead
+US $ TO BELGIAN FRANC FN ( DISC,BELFNUS,1986/1/2,1986,Exchange Rates,United States Dollar,Belgian Franc,GTIS - FTID/TR,United States Dollar to Belgian Franc FN (Discontinued,Dead
+US $ TO BRAZILIAN $ (RFV),BRAZLUS,1986/1/2,1986,Exchange Rates,United States Dollar,Brazilian Real,GTIS - FTID/TR,United States Dollar to Brazilian$ (Refinitiv),Active
+US $ TO CANADIAN $ (RFV),CDNDLUS,1986/1/2,1986,Exchange Rates,United States Dollar,Canadian Dollar,GTIS - FTID/TR,United States Dollar to Canadian Dollar (Refinitiv),Active
+US $ TO CANADIAN $ 1M FWD DISC,CD30DUS,1986/1/2,1986,Exchange Rates,United States Dollar,Canadian Dollar,The Wall Street Journal,United States Dollar to Canadian Dollar 1 Month Forward Discontinued,Dead
+US $ TO CANADIAN $ 3M FWD DISC,CD90DUS,1986/1/2,1986,Exchange Rates,United States Dollar,Canadian Dollar,The Wall Street Journal,United States Dollar to Canadian Dollar 3 Month Forward Discontinued,Dead
+US $ TO CANADIAN $ 6M FWD DISC,CD180US,1986/1/2,1986,Exchange Rates,United States Dollar,Canadian Dollar,The Wall Street Journal,United States Dollar to Canadian Dollar 6 Month Forward Discontinued,Dead
+US $ TO CHILEAN PESO (RFV),CHILPUS,1986/1/2,1986,Exchange Rates,United States Dollar,Chilean Peso,GTIS - FTID/TR,United States Dollar to Chilean Peso (Refinitiv),Active
+US $ TO CHINESE YUAN (RFV),CHINYUS,1986/1/2,1986,Exchange Rates,United States Dollar,Chinese Yuan Renminbi,GTIS - FTID/TR,United States Dollar to Chinese Yuan (Refinitiv),Active
+US $ TO DANISH KRONE (RFV),DANKRUS,1986/1/2,1986,Exchange Rates,United States Dollar,Danish Krone,GTIS - FTID/TR,United States Dollar to Danish Krone (Refinitiv),Active
+US $ TO ECU 'DEAD' USE EURO.US,ECUESUS,1986/1/2,1986,Exchange Rates,United States Dollar,European Currency Unit,Refinitiv,United States Dollar to ECU 'Dead' Use Euro US,Dead
+US $ TO ECUADOR SUCRE (RFV),ECSCFUS,1986/1/2,1986,Exchange Rates,United States Dollar,Ecuadorian Sucre,GTIS - FTID/TR,United States Dollar to Ecuador Sucre (Refinitiv),Active
+US $ TO ECUADOR SUCRE OFFICIAL,ECSCOUS,1986/1/2,1986,Exchange Rates,United States Dollar,Ecuadorian Sucre,Refinitiv,United States Dollar to Ecuador Sucre Official,Active
+US $ TO FINNISH MARKKA (GT DISC,FINMKUS,1986/1/2,1986,Exchange Rates,United States Dollar,Finnish Markka,GTIS - FTID/TR,United States Dollar to Finnish Markka (GT Discontinued,Dead
+US $ TO FRENCH FR. 1M FWD DISC,FF30DUS,1986/1/2,1986,Exchange Rates,United States Dollar,French Franc,GTIS - FTID/TR,United States Dollar to French Franc 1 Month Forward Discontinued,Dead
+US $ TO FRENCH FR. 3M FWD DISC,FF90DUS,1986/1/2,1986,Exchange Rates,United States Dollar,French Franc,GTIS - FTID/TR,United States Dollar to French Franc 3 Month Forward Discontinued,Dead
+US $ TO FRENCH FR. 6M FWD DISC,FF180US,1986/1/2,1986,Exchange Rates,United States Dollar,French Franc,GTIS - FTID/TR,United States Dollar to French Franc 6 Month Forward Discontinued,Dead
+US $ TO FRENCH FRANC (GTI DISC,FRNFRUS,1986/1/2,1986,Exchange Rates,United States Dollar,French Franc,GTIS - FTID/TR,United States Dollar to French Franc (GTI Discontinued,Dead
+US $ TO GERMAN MARK (GTIS DISC,WGMRKUS,1986/1/2,1986,Exchange Rates,United States Dollar,German Mark,GTIS - FTID/TR,United States Dollar to German Mark (GTIS Discontinued,Dead
+US $ TO GERMAN MARK 1M FW DISC,WG30DUS,1986/1/2,1986,Exchange Rates,United States Dollar,German Mark,GTIS - FTID/TR,United States Dollar to German Mark 1 Month FW Discontinued,Dead
+US $ TO GERMAN MARK 3M FW DISC,WG90DUS,1986/1/2,1986,Exchange Rates,United States Dollar,German Mark,GTIS - FTID/TR,United States Dollar to German Mark 3 Month FW Discontinued,Dead
+US $ TO GERMAN MARK 6M FW DISC,WG180US,1986/1/2,1986,Exchange Rates,United States Dollar,German Mark,GTIS - FTID/TR,United States Dollar to German Mark 6 Month FW Discontinued,Dead
+US $ TO GREEK DRACHMA (G DISC,GREDRUS,1986/1/2,1986,Exchange Rates,United States Dollar,Greek Drachma,GTIS - FTID/TR,United States Dollar to Greek Drachma (G Discontinued,Dead
+US $ TO HONG KONG $ (RFV),HKDOLUS,1986/1/2,1986,Exchange Rates,United States Dollar,Hong Kong Dollar,GTIS - FTID/TR,United States Dollar to Hong Kong Dollar (Refinitiv),Active
+US $ TO IRISH PUNT (GTIS DISC,IRISHUS,1986/1/2,1986,Exchange Rates,United States Dollar,Irish Pound,GTIS - FTID/TR,United States Dollar to Irish Punt (GTIS Discontinued,Dead
+US $ TO ISRAELI SHEKEL (RFV),ISRALUS,1986/1/2,1986,Exchange Rates,United States Dollar,Israeli Sheqel,GTIS - FTID/TR,United States Dollar to Israeli Shekel (Refinitiv),Active
+US $ TO ITALIAN LIRA (GTIS DISC,ITALRUS,1986/1/2,1986,Exchange Rates,United States Dollar,Italian Lira,GTIS - FTID/TR,United States Dollar to Italian Lira (GTIS Discontinued,Dead
+US $ TO JAPANESE YEN 1M FWD DISC,JP30DUS,1986/1/2,1986,Exchange Rates,United States Dollar,Japanese Yen,The Wall Street Journal,United States Dollar to Japanese Yen 1 Month Forward Discontinued,Dead
+US $ TO JAPANESE YEN 3M FWD DISC,JP90DUS,1986/1/2,1986,Exchange Rates,United States Dollar,Japanese Yen,The Wall Street Journal,United States Dollar to Japanese Yen 3 Month Forward Discontinued,Dead
+US $ TO JAPANESE YEN 6M FWD DISC,JP180US,1986/1/2,1986,Exchange Rates,United States Dollar,Japanese Yen,The Wall Street Journal,United States Dollar to Japanese Yen 6 Month Forward Discontinued,Dead
+US $ TO JORDANIAN DINAR (RFV),JORDRUS,1986/1/2,1986,Exchange Rates,United States Dollar,Jordanian Dinar,GTIS - FTID/TR,United States Dollar to Jordanian Dinar (Refinitiv),Active
+US $ TO KUWAITI DINAR (RFV),KUWTDUS,1986/1/2,1986,Exchange Rates,United States Dollar,Kuwaiti Dinar,GTIS - FTID/TR,United States Dollar to Kuwaiti Dinar (Refinitiv),Active
+US $ TO MALAYSIAN RINGGIT(RFV),MALAYUS,1986/1/2,1986,Exchange Rates,United States Dollar,Malaysian Ringgit,GTIS - FTID/TR,United States Dollar to Malaysian Ringgit (Refinitiv),Active
+US $ TO MALTESE LIRA (GTIS DISC,MALTLUS,1986/1/2,1986,Exchange Rates,United States Dollar,Maltese Lira,GTIS - FTID/TR,United States Dollar to Maltese Lira (GTIS Discontinued,Dead
+US $ TO MEXICAN PESO (RFV),MEXPFUS,1986/1/2,1986,Exchange Rates,United States Dollar,Mexican Peso,GTIS - FTID/TR,United States Dollar to Mexican Peso (Refinitiv),Active
+US $ TO NETHERLANDS GUILDER (G DISC,NETHGUS,1986/1/2,1986,Exchange Rates,United States Dollar,Dutch Guilder,GTIS - FTID/TR,United States Dollar to Netherlands Guilder (G Discontinued,Dead
+US $ TO NEW ZEALAND $ (RFV),NEWZDUS,1986/1/2,1986,Exchange Rates,United States Dollar,New Zealand Dollar,GTIS - FTID/TR,United States Dollar to New Zealand Dollar (Refinitiv),Active
+US $ TO NORWEGIAN KRONE (RFV),NORGKUS,1986/1/2,1986,Exchange Rates,United States Dollar,Norwegian Krone,GTIS - FTID/TR,United States Dollar to Norwegian Krone (Refinitiv),Active
+US $ TO PAKISTAN RUPEE (RFV),PAKISUS,1986/1/2,1986,Exchange Rates,United States Dollar,Pakistani Rupee,GTIS - FTID/TR,United States Dollar to Pakistan Rupee (Refinitiv),Active
+US $ TO PERUVIAN SOL (RFV),PERUIUS,1986/1/2,1986,Exchange Rates,United States Dollar,Peruvian Sol,GTIS - FTID/TR,United States Dollar to Peruvian Sol (Refinitiv),Active
+US $ TO PHILIPPINE PESO (RFV),PHILPUS,1986/1/2,1986,Exchange Rates,United States Dollar,Philippine Peso,GTIS - FTID/TR,United States Dollar to Philippine Peso (Refinitiv),Active
+US $ TO PORTUGUESE ESCUDO (GT DISC,PORTEUS,1986/1/2,1986,Exchange Rates,United States Dollar,Portuguese Escudo,GTIS - FTID/TR,United States Dollar to Portuguese Escudo (GT Discontinued,Dead
+US $ TO SAUDI RIYAL (RFV),SAUDRUS,1986/1/2,1986,Exchange Rates,United States Dollar,Saudi Arabian Riyal,GTIS - FTID/TR,United States Dollar to Saudi Riyal (Refinitiv),Active
+US $ TO SDR DISC DISC,SDRECUS,1986/1/2,1986,Exchange Rates,United States Dollar,Special Drawing Right,GTIS - FTID/TR,United States Dollar to SDR Discontinued Discontinued,Dead
+US $ TO SINGAPORE $ (RFV),SINGDUS,1986/1/2,1986,Exchange Rates,United States Dollar,Singaporean Dollar,GTIS - FTID/TR,United States Dollar to Singapore$ (Refinitiv),Active
+US $ TO SOUTH AFR. CM.RAND(RFV),SARCMUS,1986/1/2,1986,Exchange Rates,United States Dollar,South African Rand,GTIS - FTID/TR,United States Dollar to South AFR CM Rand (Refinitiv),Active
+US $ TO SOUTH AFR. FN.RAND(RFV),SARFNUS,1986/1/2,1986,Exchange Rates,United States Dollar,South African Rand,GTIS - FTID/TR,United States Dollar to South AFR FN Rand (Refinitiv),Active
+US $ TO SOUTH KOREAN WON (RFV),SKORWUS,1986/1/2,1986,Exchange Rates,United States Dollar,South Korean Won,GTIS - FTID/TR,United States Dollar to South Korean Won (Refinitiv),Active
+US $ TO SPANISH PESETA (GT DISC,SPANPUS,1986/1/2,1986,Exchange Rates,United States Dollar,Spanish Peseta,GTIS - FTID/TR,United States Dollar to Spanish Peseta (GT Discontinued,Dead
+US $ TO SWEDISH KRONA (RFV),SWEDKUS,1986/1/2,1986,Exchange Rates,United States Dollar,Swedish Krona,GTIS - FTID/TR,United States Dollar to Swedish Krona (Refinitiv),Active
+US $ TO SWISS FRANC (RFV),SWISFUS,1986/1/2,1986,Exchange Rates,United States Dollar,Swiss Franc,GTIS - FTID/TR,United States Dollar to Swiss Franc (Refinitiv),Active
+US $ TO SWISS FRANC 1M FWD DISC,SF30DUS,1986/1/2,1986,Exchange Rates,United States Dollar,Swiss Franc,The Wall Street Journal,United States Dollar to Swiss Franc 1 Month Forward Discontinued,Dead
+US $ TO SWISS FRANC 3M FWD DISC,SF90DUS,1986/1/2,1986,Exchange Rates,United States Dollar,Swiss Franc,The Wall Street Journal,United States Dollar to Swiss Franc 3 Month Forward Discontinued,Dead
+US $ TO SWISS FRANC 6M FWD DISC,SF180US,1986/1/2,1986,Exchange Rates,United States Dollar,Swiss Franc,The Wall Street Journal,United States Dollar to Swiss Franc 6 Month Forward Discontinued,Dead
+US $ TO TAIWAN NEW $ (RFV),TAIWDUS,1986/1/2,1986,Exchange Rates,United States Dollar,Taiwanese Dollar,GTIS - FTID/TR,United States Dollar to Taiwan New$ (Refinitiv),Active
+US $ TO THAI BAHT (RFV),THAIBUS,1986/1/2,1986,Exchange Rates,United States Dollar,Thai Baht,GTIS - FTID/TR,United States Dollar to Thai Baht (Refinitiv),Active
+US $ TO UAE DIRHAM (RFV),UTDADUS,1986/1/2,1986,Exchange Rates,United States Dollar,United Arab Emirates Dirham,GTIS - FTID/TR,United States Dollar to United Arab Emirates Dirham (Refinitiv),Active
+US $ TO UK POUND 1M FWD DISC,BP30DUS,1986/1/2,1986,Exchange Rates,United States Dollar,United Kingdom Pound,The Wall Street Journal,United States Dollar to United Kingdom Pound 1 Month Forward Discontinued,Dead
+US $ TO UK POUND 3M FWD DISC,BP90DUS,1986/1/2,1986,Exchange Rates,United States Dollar,United Kingdom Pound,The Wall Street Journal,United States Dollar to United Kingdom Pound 3 Month Forward Discontinued,Dead
+US $ TO UK POUND 6M FWD DISC,BP180US,1986/1/2,1986,Exchange Rates,United States Dollar,United Kingdom Pound,The Wall Street Journal,United States Dollar to United Kingdom Pound 6 Month Forward Discontinued,Dead
+US $ TO URUGUAY PESO (RFV),URUGPUS,1986/1/2,1986,Exchange Rates,United States Dollar,Uruguayan Peso,GTIS - FTID/TR,United States Dollar to Uruguay Peso (Refinitiv),Active
+US $ TO VENEZ. BOL. S. (RFV),VENBSUS,1986/1/2,1986,Exchange Rates,United States Dollar,Venezuelan Bolivar Soberano,Refinitiv,United States Dollar to Venezuelan Bolivar S (Refinitiv),Active
+US $ TO VENEZUELAN BOL. F.(RFV),VENBFUS,1986/1/2,1986,Exchange Rates,United States Dollar,Venezuelan Bolivar Fuerte,GTIS - FTID/TR,United States Dollar to Venezuelan Bolivar F (Refinitiv),Active
+US $ TO VENEZUELAN BOLIVAR OFFICIAL,VENBOUS,1986/1/2,1986,Exchange Rates,United States Dollar,Venezuelan Bolivar Fuerte,Refinitiv,United States Dollar to Venezuelan Bolivar Official,Active
+US $ TO UK GBP (RFV),BRITPUS,1986/1/3,1986,Exchange Rates,United States Dollar,United Kingdom Pound,GTIS - FTID/TR,United States Dollar to United Kingdom GBP (Refinitiv),Active
+US $ TO NEW TURKISH LIRA (RFV),TURKLUS,1986/2/11,1986,Exchange Rates,United States Dollar,Turkish Lira,GTIS - FTID/TR,United States Dollar to New Turkish Lira (Refinitiv),Active
+US $ TO NEW ZEALAND $ DISC,NZUSDSP,1986/7/1,1986,Exchange Rates,United States Dollar,New Zealand Dollar,Reserve Bank of New Zealand,United States Dollar to New Zealand Dollar Discontinued,Dead
+US $ INDEX 1990=100 DISC,JP9USNN,1986/8/1,1986,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,United States Dollar Index 1990 = 100 Discontinued,Dead
+US $ TO IRISH PUNT (HSBC) DISC,MBIEPSP,1986/10/9,1986,Exchange Rates,United States Dollar,Irish Pound,HSBC,United States Dollar to Irish Punt (HSBC) Discontinued,Dead
+US $ TO IRISH PUNT 1MF (HSBC) DISC,MBIEP1F,1986/10/9,1986,Exchange Rates,United States Dollar,Irish Pound,HSBC,United States Dollar to Irish Punt 1MF (HSBC) Discontinued,Dead
+US $ TO IRISH PUNT 1YF (HSBC) DISC,MBIEPYF,1986/10/9,1986,Exchange Rates,United States Dollar,Irish Pound,HSBC,United States Dollar to Irish Punt 1YF (HSBC) Discontinued,Dead
+US $ TO IRISH PUNT 2MF (HSBC) DISC,MBIEP2F,1986/10/9,1986,Exchange Rates,United States Dollar,Irish Pound,HSBC,United States Dollar to Irish Punt 2MF (HSBC) Discontinued,Dead
+US $ TO IRISH PUNT 3MF (HSBC) DISC,MBIEP3F,1986/10/9,1986,Exchange Rates,United States Dollar,Irish Pound,HSBC,United States Dollar to Irish Punt 3MF (HSBC) Discontinued,Dead
+US $ TO IRISH PUNT 6MF (HSBC) DISC,MBIEP6F,1986/10/9,1986,Exchange Rates,United States Dollar,Irish Pound,HSBC,United States Dollar to Irish Punt 6MF (HSBC) Discontinued,Dead
+US $ TO UK # (HSBC) DISC,MBGBPSP,1986/10/9,1986,Exchange Rates,United States Dollar,United Kingdom Pound,HSBC,United States Dollar to United Kingdom # (HSBC) Discontinued,Dead
+US $ TO UK # 1MF (HSBC) DISC,MBGBP1F,1986/10/9,1986,Exchange Rates,United States Dollar,United Kingdom Pound,HSBC,United States Dollar to United Kingdom # 1MF (HSBC) Discontinued,Dead
+US $ TO UK # 1YF (HSBC) DISC,MBGBPYF,1986/10/9,1986,Exchange Rates,United States Dollar,United Kingdom Pound,HSBC,United States Dollar to United Kingdom # 1YF (HSBC) Discontinued,Dead
+US $ TO UK # 2MF (HSBC) DISC,MBGBP2F,1986/10/9,1986,Exchange Rates,United States Dollar,United Kingdom Pound,HSBC,United States Dollar to United Kingdom # 2MF (HSBC) Discontinued,Dead
+US $ TO UK # 3MF (HSBC) DISC,MBGBP3F,1986/10/9,1986,Exchange Rates,United States Dollar,United Kingdom Pound,HSBC,United States Dollar to United Kingdom # 3MF (HSBC) Discontinued,Dead
+US $ TO UK # 6MF (HSBC) DISC,MBGBP6F,1986/10/9,1986,Exchange Rates,United States Dollar,United Kingdom Pound,HSBC,United States Dollar to United Kingdom # 6MF (HSBC) Discontinued,Dead
+US $ TO SWEDISH KRONA (JPM DISC,JPMERSD,1987/1/1,1987,Exchange Rates,United States Dollar,Swedish Krona,J.P. Morgan,United States Dollar to Swedish Krona (JP Morgan Discontinued,Dead
+US $ TO US $ (JPM) DISC,JPMERUS,1987/1/1,1987,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,United States Dollar to United States Dollar (JP Morgan) Discontinued,Dead
+US $ TO ECU (BBI) DISC,BBXEUSP,1987/5/12,1987,Exchange Rates,United States Dollar,European Currency Unit,Barclays Bank PLC,United States Dollar to ECU (BBI) Discontinued,Dead
+US $ TO ECU 1M FWD (BBI) DISC,BBXEU1F,1987/5/12,1987,Exchange Rates,United States Dollar,European Currency Unit,Barclays Bank PLC,United States Dollar to ECU 1 Month Forward (BBI) Discontinued,Dead
+US $ TO ECU 1Y FWD (BBI) DISC,BBXEUYF,1987/5/12,1987,Exchange Rates,United States Dollar,European Currency Unit,Barclays Bank PLC,United States Dollar to ECU 1 Year Forward (BBI) Discontinued,Dead
+US $ TO ECU 2M FWD (BBI) DISC,BBXEU2F,1987/5/12,1987,Exchange Rates,United States Dollar,European Currency Unit,Barclays Bank PLC,United States Dollar to ECU 2 Month Forward (BBI) Discontinued,Dead
+US $ TO ECU 3M FWD (BBI) DISC,BBXEU3F,1987/5/12,1987,Exchange Rates,United States Dollar,European Currency Unit,Barclays Bank PLC,United States Dollar to ECU 3 Month Forward (BBI) Discontinued,Dead
+US $ TO ECU 6M FWD (BBI) DISC,BBXEU6F,1987/5/12,1987,Exchange Rates,United States Dollar,European Currency Unit,Barclays Bank PLC,United States Dollar to ECU 6 Month Forward (BBI) Discontinued,Dead
+US $ TO IRISH PUNT (JPM) DISC,JPMERIR,1987/12/1,1987,Exchange Rates,United States Dollar,Irish Pound,J.P. Morgan,United States Dollar to Irish Punt (JP Morgan) Discontinued,Dead
+US $ TO FINNISH MARKKA JP DISC,JPMERFN,1987/12/28,1987,Exchange Rates,United States Dollar,Finnish Markka,J.P. Morgan,United States Dollar to Finnish Markka JP Discontinued,Dead
+US $ TO S.AFRICAN RAND (JPM) DISC,JPMERSA,1987/12/31,1987,Exchange Rates,United States Dollar,South African Rand,J.P. Morgan,United States Dollar to S African Rand (JP Morgan) Discontinued,Dead
+US $ TO BAHRAINI DINAR (RFV),BAHDNUS,1988/4/4,1988,Exchange Rates,United States Dollar,Bahraini Dinar,GTIS - FTID/TR,United States Dollar to Bahraini Dinar (Refinitiv),Active
+US $ TO PUNT BOI DISC,IPUSDOL,1988/10/25,1988,Exchange Rates,United States Dollar,Irish Pound,Bank of Italy,United States Dollar to Punt BOI Discontinued,Dead
+US $ TO CYPRUS # DISC,CYUSDSP,1989/1/2,1989,Exchange Rates,United States Dollar,Cyprian Pound,Refinitiv,United States Dollar to Cyprus # Discontinued,Dead
+US $ INDEX 1990=100 DISC,JP9USNB,1989/9/5,1989,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,United States Dollar Index 1990 = 100 Discontinued,Dead
+US $ TO EURO (RFV),TDEURSP,1989/10/16,1989,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro (Refinitiv),Active
+US $ TO GBP (RFV),TDGBPSP,1989/10/16,1989,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP (Refinitiv),Active
+GUAM US $ TO UK ? (FT/RFV),GUAMUS$,1989/12/4,1989,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,Guam United States Dollar to United Kingdom Sterling (FT / Refinitiv),Active
+PUERTO RICO US $ TO UK ? (FT/RFV),PTRICO$,1989/12/4,1989,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,Puerto Rico United States Dollar to United Kingdom Sterling (FT / Refinitiv),Active
+TURKS & CAICOS US$ TO UK ? (FT/RFV),TKCAUS$,1989/12/4,1989,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,Turks and Caicos United States Dollar to United Kingdom Sterling (FT / Refinitiv),Active
+VRGN ISLNDS(UK) US $ TO UK ? (FT/RFV),VIRGBR$,1989/12/4,1989,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,VRGN Islnds (United Kingdom) United States Dollar to United Kingdom Sterling (FT / Refinitiv),Active
+VRGN ISLNDS(US) US $ TO UK ? (FT/RFV),VIRGUS$,1989/12/4,1989,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,VRGN Islnds (US) United States Dollar to United Kingdom Sterling (FT / Refinitiv),Active
+US DOLLAR INDEX - CLOSE,USG6WIC,1990/1/2,1990,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,US Dollar Index - Close,Active
+US $ TO AUSTRALIAN $ 1M FWD (RFV),TDAUD1M,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 1 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 1W FWD (RFV),TDAUD1W,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 1 Week Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 1Y FWD (RFV),TDAUD1Y,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 1 Year Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 2M FWD (RFV),TDAUD2M,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 2 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 3M FWD (RFV),TDAUD3M,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 3 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 6M FWD (RFV),TDAUD6M,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 6 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 9M FWD (RFV),TDAUD9M,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 9 Month Forward (Refinitiv),Active
+US $ TO EURO 1M FWD (RFV),TDEUR1M,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 1 Month Forward (Refinitiv),Active
+US $ TO EURO 1W (RFV),TDEUR1W,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 1 Week (Refinitiv),Active
+US $ TO EURO 1Y FWD (RFV),TDEUR1Y,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 1 Year Forward (Refinitiv),Active
+US $ TO EURO 2M FWD (RFV),TDEUR2M,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 2 Month Forward (Refinitiv),Active
+US $ TO EURO 3M FWD (RFV),TDEUR3M,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 3 Month Forward (Refinitiv),Active
+US $ TO EURO 6M FWD (RFV),TDEUR6M,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 6 Month Forward (Refinitiv),Active
+US $ TO EURO 9M FWD (RFV),TDEUR9M,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 9 Month Forward (Refinitiv),Active
+US $ TO GBP 1M FWD (RFV),TDGBP1M,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 1 Month Forward (Refinitiv),Active
+US $ TO GBP 1W FWD (RFV),TDGBP1W,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 1 Week Forward (Refinitiv),Active
+US $ TO GBP 1Y FWD (RFV),TDGBP1Y,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 1 Year Forward (Refinitiv),Active
+US $ TO GBP 2M FWD (RFV),TDGBP2M,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 2 Month Forward (Refinitiv),Active
+US $ TO GBP 3M FWD (RFV),TDGBP3M,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 3 Month Forward (Refinitiv),Active
+US $ TO GBP 6M FWD (RFV),TDGBP6M,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 6 Month Forward (Refinitiv),Active
+US $ TO GBP 9M FWD (RFV),TDGBP9M,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 9 Month Forward (Refinitiv),Active
+US $ TO GBP ON FWD (RFV),TDGBPON,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP On Forward (Refinitiv),Active
+US $ TO GBP T/N FWD (RFV),TDGBPTN,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP Tomorrow Next Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 1M FWD (RFV),TDNZD1M,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 1 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 1Y FWD (RFV),TDNZD1Y,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 1 Year Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 2M FWD (RFV),TDNZD2M,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 2 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 3M FWD (RFV),TDNZD3M,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 3 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 6M FWD (RFV),TDNZD6M,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 6 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 9M FWD (RFV),TDNZD9M,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 9 Month Forward (Refinitiv),Active
+USD TO AUD 1M FWD PTS,AUD1MFP,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 1 Month Forward PTS,Active
+USD TO AUD 1Y FWD PTS,AUD1YFP,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 1 Year Forward PTS,Active
+USD TO AUD 2M FWD PTS,AUD2MFP,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 2 Month Forward PTS,Active
+USD TO AUD 3M FWD PTS,AUD3MFP,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 3 Month Forward PTS,Active
+USD TO AUD 6M FWD PTS,AUD6MFP,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 6 Month Forward PTS,Active
+USD TO AUD 9M FWD PTS,AUD9MFP,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 9 Month Forward PTS,Active
+USD TO AUD SW FWD PTS,AUDSWFP,1990/5/25,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar SW Forward PTS,Active
+USD TO EUR 1M FWD PTS,EUR1MFP,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 1 Month Forward PTS,Active
+USD TO EUR 2M FWD PTS,EUR2MFP,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 2 Month Forward PTS,Active
+USD TO EUR SW FWD PTS,EURSWFP,1990/5/25,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro SW Forward PTS,Active
+USD TO GBP ON FWD PTS,GBPONFP,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP On Forward PTS,Active
+USD TO GBP SW FWD PTS,GBPSWFP,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP SW Forward PTS,Active
+USD TO GBP TN FWD PTS,GBPTNFP,1990/5/25,1990,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP TN Forward PTS,Active
+USD TO NZD 1M FWD PTS,NZD1MFP,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 1 Month Forward PTS,Active
+USD TO NZD 1Y FWD PTS,NZD1YFP,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 1 Year Forward PTS,Active
+USD TO NZD 2M FWD PTS,NZD2MFP,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 2 Month Forward PTS,Active
+USD TO NZD 3M FWD PTS,NZD3MFP,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 3 Month Forward PTS,Active
+USD TO NZD 6M FWD PTS,NZD6MFP,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 6 Month Forward PTS,Active
+USD TO NZD 9M FWD PTS,NZD9MFP,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 9 Month Forward PTS,Active
+USD TO NZD SW FWD PTS,NZDSWFP,1990/5/25,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD SW Forward PTS,Active
+US $ TO AUSTRALIAN $ TN FWD (RFV),TDAUDTN,1990/7/19,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar TN Forward (Refinitiv),Active
+USD TO AUD TN FWD PTS,AUDTNFP,1990/7/19,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar TN Forward PTS,Active
+US $ TO NEW ZEALAND $ TN FWD (RFV),TDNZDTN,1990/11/23,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar TN Forward (Refinitiv),Active
+US$TOARGENTN.RS(SEE ARGENUS) DISC,ARUSDSP,1990/11/23,1990,Exchange Rates,United States Dollar,Argentine Peso,Refinitiv,United States Dollar Toargentn RS (See Argenus) Discontinued,Dead
+USD TO NZD TN FWD PTS,NZDTNFP,1990/11/23,1990,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD TN Forward PTS,Active
+US $ TO AUSTRALIAN $ O/N FWD (RFV),TDAUDON,1990/12/20,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar Overnight Forward (Refinitiv),Active
+USD TO AUD ON FWD PTS,AUDONFP,1990/12/20,1990,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar On Forward PTS,Active
+US $ TO EURO SYNTHET IC (FTSE/WMR),USEURFT,1990/12/31,1990,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro Synthet IC (FTSE / WMR),Active
+USD TO NZD ON FWD PTS,NZDONFP,1991/10/8,1991,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD On Forward PTS,Active
+US $ TO EURO T/N FWD (RFV),TDEURTN,1991/12/4,1991,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro Tomorrow Next Forward (Refinitiv),Active
+USD TO EUR TN FWD PTS,EURTNFP,1991/12/4,1991,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro TN Forward PTS,Active
+US $ TO 100 HUNG. FORINT (RFV),HUNGFUS,1991/12/6,1991,Exchange Rates,United States Dollar,Hungarian Forint,GTIS - FTID/TR,United States Dollar to 100 Hung Forint (Refinitiv),Active
+US $ TO CZECH KORUNA (RFV),CZECKUS,1991/12/6,1991,Exchange Rates,United States Dollar,Czech Koruna,GTIS - FTID/TR,United States Dollar to Czech Koruna (Refinitiv),Active
+US $ TO POLISH ZLOTY (RFV),POLZLUS,1991/12/6,1991,Exchange Rates,United States Dollar,Polish Zloty,GTIS - FTID/TR,United States Dollar to Polish Zloty (Refinitiv),Active
+US $ TO POLISH ZLOTY OLD DISC,POLUS01,1991/12/6,1991,Exchange Rates,United States Dollar,Polish Zloty,Refinitiv,United States Dollar to Polish Zloty Old Discontinued,Dead
+US $ TO EURO O/N FWD (RFV),TDEURON,1992/2/24,1992,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro Overnight Forward (Refinitiv),Active
+USD TO EUR ON FWD PTS,EURONFP,1992/2/24,1992,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro On Forward PTS,Active
+US $ TO SLOVAK KORUNA (GT DISC,LOVAKUS,1993/4/14,1993,Exchange Rates,United States Dollar,Slovak Koruna,GTIS - FTID/TR,United States Dollar to Slovak Koruna (GT Discontinued,Dead
+US $ TO ECU NOON NY DISC,CUU$FR2,1993/10/1,1993,Exchange Rates,United States Dollar,European Currency Unit,"Federal Reserve, United States",United States Dollar to ECU Noon NY Discontinued,Dead
+US $ TO IRISH PUNT NOON DISC,IPU$FR2,1993/10/1,1993,Exchange Rates,United States Dollar,Irish Pound,"Federal Reserve, United States",United States Dollar to Irish Punt Noon Discontinued,Dead
+US $ TO UK ? 10AM NY,UKU$FR1,1993/10/5,1993,Exchange Rates,United States Dollar,United Kingdom Pound,Federal Reserve Bank of New York,United States Dollar to United Kingdom Sterling 10AM NY,Active
+US $ TO IRISH PUNT 1M FWD(BBI) DISC,BBIEP1F,1993/10/29,1993,Exchange Rates,United States Dollar,Irish Pound,Barclays Bank PLC,United States Dollar to Irish Punt 1 Month Forward (BBI) Discontinued,Dead
+US $ TO IRISH PUNT 1Y FWD(BBI) DISC,BBIEPYF,1993/10/29,1993,Exchange Rates,United States Dollar,Irish Pound,Barclays Bank PLC,United States Dollar to Irish Punt 1 Year Forward (BBI) Discontinued,Dead
+US $ TO IRISH PUNT 2M FWD(BBI) DISC,BBIEP2F,1993/10/29,1993,Exchange Rates,United States Dollar,Irish Pound,Barclays Bank PLC,United States Dollar to Irish Punt 2 Month Forward (BBI) Discontinued,Dead
+US $ TO IRISH PUNT 3M FWD(BBI) DISC,BBIEP3F,1993/10/29,1993,Exchange Rates,United States Dollar,Irish Pound,Barclays Bank PLC,United States Dollar to Irish Punt 3 Month Forward (BBI) Discontinued,Dead
+US $ TO IRISH PUNT 6M FWD(BBI) DISC,BBIEP6F,1993/10/29,1993,Exchange Rates,United States Dollar,Irish Pound,Barclays Bank PLC,United States Dollar to Irish Punt 6 Month Forward (BBI) Discontinued,Dead
+IRISH PUNT TO US$ (RFV),IPUNTEZ,1993/12/31,1993,Exchange Rates,United States Dollar,Irish Pound,Refinitiv,Irish Punt to United States Dollar (Refinitiv),Active
+US $ TO AUSTRALIAN $ (WMR),AUSTDO$,1993/12/31,1993,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar (WMR),Active
+US $ TO BOTSWANA PULA (WMR),BOTSWP$,1993/12/31,1993,Exchange Rates,United States Dollar,Botswana Pula,WM/Reuters,United States Dollar to Botswana Pula (WMR),Active
+US $ TO ECU/EURO (WMR),ECURRS$,1993/12/31,1993,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to ECU / Euro (WMR),Active
+US $ TO IRISH PUNT $(WMR),IPUNTE$,1993/12/31,1993,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt$ (WMR),Active
+US $ TO NEW ZEALAND $ (WMR),NZDOLL$,1993/12/31,1993,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar (WMR),Active
+PTAX USD - BRL ASK,BRUSBRA,1994/1/3,1994,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,Ptax USD - BRL Ask,Active
+PTAX USD - BRL BID,BRUSBRB,1994/1/3,1994,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,Ptax USD - BRL Bid,Active
+JPM US NEER NOMINAL,JPUSEEN,1994/1/4,1994,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,JP Morgan US Neer Nominal,Active
+JPM US REER CPI (2010=100),JPUSEEC,1994/1/4,1994,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,JP Morgan US Reer CPI (2010 = 100),Active
+JPM US REER PPI (2010=100),JPUSEEP,1994/1/4,1994,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,JP Morgan US Reer PPI (2010 = 100),Active
+US $ INDEX 2000=100 ( 'DEAD',JPMUSNN,1994/1/4,1994,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,United States Dollar Index 2000 = 100 ('Dead',Dead
+US $ INDEX 2000=100 ( 'DEAD',JPMUS1B,1994/1/4,1994,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,United States Dollar Index 2000 = 100 ('Dead',Dead
+US $ INDEX 2000=100 ( 'DEAD',JPMUSNB,1994/1/4,1994,Exchange Rates,United States Dollar,United States Dollar,J.P. Morgan,United States Dollar Index 2000 = 100 ('Dead',Dead
+US DOLLAR INDEX - HIGH,USG6WIH,1994/1/13,1994,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,US Dollar Index - High,Active
+US DOLLAR INDEX - LOW,USG6WIL,1994/1/13,1994,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,US Dollar Index - Low,Active
+CAYMAN ISLAND DOLLAR TO US $ (RFV),TDKYDSP,1994/9/30,1994,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,Cayman Island Dollar to United States Dollar (Refinitiv),Active
+AUSTRALIAN $ 1M FX VOLATILITY,FVAUD1M,1995/1/6,1995,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar 1 Month FX Volatility,Active
+AUSTRALIAN $ 1Y FX VOLATILITY,FVAUD1Y,1995/1/6,1995,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar 1 Year FX Volatility,Active
+AUSTRALIAN $ 2M FX VOLATILITY,FVAUD2M,1995/1/6,1995,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar 2 Month FX Volatility,Active
+AUSTRALIAN $ 2Y FX VOLATILITY,FVAUD2Y,1995/1/6,1995,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar 2 Year FX Volatility,Active
+AUSTRALIAN $ 3M FX VOLATILITY,FVAUD3M,1995/1/6,1995,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar 3 Month FX Volatility,Active
+AUSTRALIAN $ 6M FX VOLATILITY,FVAUD6M,1995/1/6,1995,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar 6 Month FX Volatility,Active
+AUSTRALIAN $ SPOT WEEK FX VOL,FVAUDSW,1995/1/6,1995,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar Spot Week FX Volatility,Active
+UK POUND STERLING 1M FX VOLATILITY,FVGBP1M,1995/1/6,1995,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound Sterling 1 Month FX Volatility,Active
+UK POUND STERLING 1Y FX VOLATILITY,FVGBP1Y,1995/1/6,1995,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound Sterling 1 Year FX Volatility,Active
+UK POUND STERLING 2M FX VOLATILITY,FVGBP2M,1995/1/6,1995,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound Sterling 2 Month FX Volatility,Active
+UK POUND STERLING 3M FX VOLATILITY,FVGBP3M,1995/1/6,1995,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound Sterling 3 Month FX Volatility,Active
+UK POUND STERLING 6M FX VOLATILITY,FVGBP6M,1995/1/6,1995,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound Sterling 6 Month FX Volatility,Active
+UK POUND STERLING 9M FX VOLATILITY,FVGBP9M,1995/1/6,1995,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound Sterling 9 Month FX Volatility,Active
+NOMINAL EER - BROAD,USBINXB,1996/4/11,1996,Exchange Rates,United States Dollar,-,Bank for International Settlements,Nominal EER - Broad,Active
+US $ TO NEW ZEALAND $ 2Y FWD (RFV),TDNZD2Y,1996/11/15,1996,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 2 Year Forward (Refinitiv),Active
+USD TO NZD 2Y FWD PTS,NZD2YFP,1996/11/15,1996,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 2 Year Forward PTS,Active
+USD TO NZD 3Y FWD PTS,NZD3YFP,1996/11/15,1996,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 3 Year Forward PTS,Active
+USD TO NZD 4Y FWD PTS,NZD4YFP,1996/11/15,1996,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 4 Year Forward PTS,Active
+USD TO NZD 5Y FWD PTS,NZD5YFP,1996/11/15,1996,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 5 Year Forward PTS,Active
+US $ TO GBP 2Y FWD (RFV),TDGBP2Y,1996/11/28,1996,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 2 Year Forward (Refinitiv),Active
+US $ TO 1 EURO 1Y FWD (WMR),USXEUYF,1996/12/31,1996,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 1 Year Forward (WMR),Active
+US $ TO AUSTRALIAN $ 1M FWD (WMR),USAUD1F,1996/12/31,1996,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 1 Month Forward (WMR),Active
+US $ TO AUSTRALIAN $ 1Y FWD (WMR),USAUDYF,1996/12/31,1996,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 1 Year Forward (WMR),Active
+US $ TO AUSTRALIAN $ 2M FWD (WMR),USAUD2F,1996/12/31,1996,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 2 Month Forward (WMR),Active
+US $ TO AUSTRALIAN $ 3M FWD (WMR),USAUD3F,1996/12/31,1996,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 3 Month Forward (WMR),Active
+US $ TO AUSTRALIAN $ 6M FWD (WMR),USAUD6F,1996/12/31,1996,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 6 Month Forward (WMR),Active
+US $ TO IRISH PUNT 1M FWD (WMR),USIEP1F,1996/12/31,1996,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 1 Month Forward (WMR),Active
+US $ TO IRISH PUNT 1Y FWD (WMR),USIEPYF,1996/12/31,1996,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 1 Year Forward (WMR),Active
+US $ TO IRISH PUNT 2M FWD (WMR),USIEP2F,1996/12/31,1996,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 2 Month Forward (WMR),Active
+US $ TO IRISH PUNT 3M FWD (WMR),USIEP3F,1996/12/31,1996,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 3 Month Forward (WMR),Active
+US $ TO IRISH PUNT 6M FWD (WMR),USIEP6F,1996/12/31,1996,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 6 Month Forward (WMR),Active
+US $ TO NEW ZEALAND $ 1M FWD (WMR),USNZD1F,1996/12/31,1996,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 1 Month Forward (WMR),Active
+US $ TO NEW ZEALAND $ 1Y FWD (WMR),USNZDYF,1996/12/31,1996,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 1 Year Forward (WMR),Active
+US $ TO NEW ZEALAND $ 2M FWD (WMR),USNZD2F,1996/12/31,1996,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 2 Month Forward (WMR),Active
+US $ TO NEW ZEALAND $ 3M FWD (WMR),USNZD3F,1996/12/31,1996,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 3 Month Forward (WMR),Active
+US $ TO NEW ZEALAND $ 6M FWD (WMR),USNZD6F,1996/12/31,1996,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 6 Month Forward (WMR),Active
+US $ TO UK ? 1M FWD (WMR),USGBP1F,1996/12/31,1996,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 1 Month Forward (WMR),Active
+US $ TO UK ? 1Y FWD (WMR),USGBPYF,1996/12/31,1996,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 1 Year Forward (WMR),Active
+US $ TO UK ? 2M FWD (WMR),USGBP2F,1996/12/31,1996,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 2 Month Forward (WMR),Active
+US $ TO UK ? 3M FWD (WMR),USGBP3F,1996/12/31,1996,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 3 Month Forward (WMR),Active
+US $ TO UK ? 6M FWD (WMR),USGBP6F,1996/12/31,1996,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 6 Month Forward (WMR),Active
+US $ TO 1 EURO 1M FWD (WMR),USXEU1F,1997/2/21,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 1 Month Forward (WMR),Active
+US $ TO 1 EURO 2M FWD (WMR),USXEU2F,1997/2/21,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 2 Month Forward (WMR),Active
+US $ TO 1 EURO 3M FWD (WMR),USXEU3F,1997/2/21,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 3 Month Forward (WMR),Active
+US $ TO 1 EURO 6M FWD (WMR),USXEU6F,1997/2/21,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 6 Month Forward (WMR),Active
+US $ TO AUSTRALIAN $ 3Y FWD (RFV),TDAUD3Y,1997/7/30,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 3 Year Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 4Y FWD (RFV),TDAUD4Y,1997/7/30,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 4 Year Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 5Y FWD (RFV),TDAUD5Y,1997/7/30,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 5 Year Forward (Refinitiv),Active
+USD TO AUD 3Y FWD PTS,AUD3YFP,1997/7/30,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 3 Year Forward PTS,Active
+USD TO AUD 4Y FWD PTS,AUD4YFP,1997/7/30,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 4 Year Forward PTS,Active
+USD TO AUD 5Y FWD PTS,AUD5YFP,1997/7/30,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 5 Year Forward PTS,Active
+US $ TO GBP SN FWD (RFV),TDGBPSN,1997/8/1,1997,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP SN Forward (Refinitiv),Active
+USD TO GBP SN FWD PTS,GBPSNFP,1997/8/1,1997,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP SN Forward PTS,Active
+US $ TO AUSTRALIAN $ 4M FWD (RFV),TDAUD4M,1997/9/4,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 4 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 5M FWD (RFV),TDAUD5M,1997/9/4,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 5 Month Forward (Refinitiv),Active
+USD TO AUD 4M FWD PTS,AUD4MFP,1997/9/4,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 4 Month Forward PTS,Active
+USD TO AUD 5M FWD PTS,AUD5MFP,1997/9/4,1997,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 5 Month Forward PTS,Active
+US $ TO 1 EURO 1W FWD (WMR),USXEUWF,1997/10/27,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 1 Week Forward (WMR),Active
+US $ TO 1 EURO 9M FWD (WMR),USXEU9F,1997/10/27,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 9 Month Forward (WMR),Active
+US $ TO 1 EURO O/N FWD (WMR),USXEUON,1997/10/27,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro Overnight Forward (WMR),Active
+US $ TO 1 EURO T/N FWD (WMR),USXEUTN,1997/10/27,1997,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro Tomorrow Next Forward (WMR),Active
+US $ TO AUSTRALIAN $ 1W FWD (WMR),USAUDWF,1997/10/27,1997,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 1 Week Forward (WMR),Active
+US $ TO AUSTRALIAN $ 9M FWD (WMR),USAUD9F,1997/10/27,1997,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 9 Month Forward (WMR),Active
+US $ TO AUSTRALIAN $ O/N FWD (WMR),USAUDON,1997/10/27,1997,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar Overnight Forward (WMR),Active
+US $ TO AUSTRALIAN $ T/N FWD (WMR),USAUDTN,1997/10/27,1997,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar Tomorrow Next Forward (WMR),Active
+US $ TO IRISH PUNT 1W FWD (WMR),USIEPWF,1997/10/27,1997,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 1 Week Forward (WMR),Active
+US $ TO IRISH PUNT 9M FWD (WMR),USIEP9F,1997/10/27,1997,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 9 Month Forward (WMR),Active
+US $ TO IRISH PUNT O/N FWD (WMR),USIEPON,1997/10/27,1997,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt Overnight Forward (WMR),Active
+US $ TO IRISH PUNT T/N FWD (WMR),USIEPTN,1997/10/27,1997,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt Tomorrow Next Forward (WMR),Active
+US $ TO NEW ZEALAND $ 1W FWD (WMR),USNZDWF,1997/10/27,1997,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 1 Week Forward (WMR),Active
+US $ TO NEW ZEALAND $ 9M FWD (WMR),USNZD9F,1997/10/27,1997,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 9 Month Forward (WMR),Active
+US $ TO NEW ZEALAND $ O/N FWD (WMR),USNZDON,1997/10/27,1997,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar Overnight Forward (WMR),Active
+US $ TO NEW ZEALAND $ T/N FWD (WMR),USNZDTN,1997/10/27,1997,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar Tomorrow Next Forward (WMR),Active
+US $ TO UK ? 1M FWD (WMR),USDUK1M,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 1 Month Forward (WMR),Active
+US $ TO UK ? 1W FWD (WMR),USDUK1W,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 1 Week Forward (WMR),Active
+US $ TO UK ? 1W FWD (WMR),USGBPWF,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 1 Week Forward (WMR),Active
+US $ TO UK ? 1Y FWD (WMR),USDUK1Y,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 1 Year Forward (WMR),Active
+US $ TO UK ? 2M FWD (WMR),USDUK2M,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 2 Month Forward (WMR),Active
+US $ TO UK ? 3M FWD (WMR),USDUK3M,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 3 Month Forward (WMR),Active
+US $ TO UK ? 6M FWD (WMR),USDUK6M,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 6 Month Forward (WMR),Active
+US $ TO UK ? 9M FWD (WMR),USDUK9M,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 9 Month Forward (WMR),Active
+US $ TO UK ? 9M FWD (WMR),USGBP9F,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 9 Month Forward (WMR),Active
+US $ TO UK ? O/N FWD (WMR),USDUKON,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling Overnight Forward (WMR),Active
+US $ TO UK ? ON FWD (WMR),USGBPON,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling On Forward (WMR),Active
+US $ TO UK ? T/N FWD (WMR),USDUKTN,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling Tomorrow Next Forward (WMR),Active
+US $ TO UK ? TN FWD (WMR),USGBPTN,1997/10/27,1997,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling TN Forward (WMR),Active
+US $ TO AUSTRALIAN $ 2Y FWD (RFV),TDAUD2Y,1998/1/6,1998,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 2 Year Forward (Refinitiv),Active
+USD TO AUD 2Y FWD PTS,AUD2YFP,1998/1/6,1998,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 2 Year Forward PTS,Active
+US $ TO JAPANESE YEN (PE) DISC,PEEJAPY,1998/4/3,1998,Exchange Rates,United States Dollar,Japanese Yen,Lasco,United States Dollar to Japanese Yen (PE) Discontinued,Dead
+US $ TO UK # (PE) DISC,PEESTER,1998/4/3,1998,Exchange Rates,United States Dollar,United Kingdom Pound,Lasco,United States Dollar to United Kingdom # (PE) Discontinued,Dead
+US $ TO EURO 2Y FWD (RFV),TDEUR2Y,1998/5/4,1998,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 2 Year Forward (Refinitiv),Active
+UK POUND STERLING SPOT WEEK FX VOL,FVGBPSW,1998/7/1,1998,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound Sterling Spot Week FX Volatility,Active
+US $ TO EURO (BD) 'DEAD',EMUSDSP,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,"BHF-BANK Aktiengesellschaft, Germany",United States Dollar to Euro (BD) 'Dead',Dead
+US $ TO EURO 1M FWD (WMR),USEUR1F,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 1 Month Forward (WMR),Active
+US $ TO EURO 1W (WMR),USEUR1W,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 1 Week (WMR),Active
+US $ TO EURO 1Y FWD (WMR),USEUR1Y,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 1 Year Forward (WMR),Active
+US $ TO EURO 2M FWD (WMR),USEUR2F,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 2 Month Forward (WMR),Active
+US $ TO EURO 3M FWD (WMR),USEUR3F,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 3 Month Forward (WMR),Active
+US $ TO EURO 6M FWD (WMR),USEUR6F,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 6 Month Forward (WMR),Active
+US $ TO EURO 9M FWD (WMR),USEUR9F,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 9 Month Forward (WMR),Active
+US $ TO EURO O/N FWD (WMR),USEURON,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro Overnight Forward (WMR),Active
+US $ TO EURO T/N FWD (WMR),USEURTN,1998/12/31,1998,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro Tomorrow Next Forward (WMR),Active
+EURO SPOT WEEK FX VOL,FVEURSW,1999/1/4,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro Spot Week FX Volatility,Active
+US $ TO EURO (RFV),EURO.US,1999/1/4,1999,Exchange Rates,United States Dollar,Euro,GTIS - FTID/TR,United States Dollar to Euro (Refinitiv),Active
+US $ TO EURO 10AM NY,E.U$FR1,1999/1/4,1999,Exchange Rates,United States Dollar,Euro,Federal Reserve Bank of New York,United States Dollar to Euro 10AM NY,Active
+US $ TO EURO NOON NY,E.U$FR2,1999/1/4,1999,Exchange Rates,United States Dollar,Euro,"Federal Reserve, United States",United States Dollar to Euro Noon NY,Active
+US $ TO EURO S/N FWD (RFV),TDEURSN,1999/1/4,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro Spot Next Forward (Refinitiv),Active
+USD TO EUR 2W FWD PTS,EUR2WFP,1999/1/4,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 2 Week Forward PTS,Active
+USD TO EUR SN FWD PTS,EURSNFP,1999/1/4,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro SN Forward PTS,Active
+US $ TO EURO 2W FWD (RFV),TDEUR2W,1999/1/8,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 2 Week Forward (Refinitiv),Active
+US $ TO EURO 10M FWD (RFV),TDEURXM,1999/1/13,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 10 Month Forward (Refinitiv),Active
+US $ TO EURO 11M FWD (RFV),TDEUR11,1999/1/13,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 11 Month Forward (Refinitiv),Active
+US $ TO EURO 4M FWD (RFV),TDEUR4M,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 4 Month Forward (Refinitiv),Active
+US $ TO EURO 5M FWD (RFV),TDEUR5M,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 5 Month Forward (Refinitiv),Active
+US $ TO EURO 7M FWD (RFV),TDEUR7M,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 7 Month Forward (Refinitiv),Active
+US $ TO EURO 8M FWD (RFV),TDEUR8M,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 8 Month Forward (Refinitiv),Active
+USD TO EUR 4M FWD PTS,EUR4MFP,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 4 Month Forward PTS,Active
+USD TO EUR 5M FWD PTS,EUR5MFP,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 5 Month Forward PTS,Active
+USD TO EUR 7M FWD PTS,EUR7MFP,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 7 Month Forward PTS,Active
+USD TO EUR 8M FWD PTS,EUR8MFP,1999/1/22,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 8 Month Forward PTS,Active
+US $ TO AUSTRALIAN $ 2W FWD (RFV),TDAUD2W,1999/2/4,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 2 Week Forward (Refinitiv),Active
+USD TO AUD 2W FWD PTS,AUD2WFP,1999/2/4,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 2 Week Forward PTS,Active
+NEW ZEALAND DOLLAR 1M FX VOLATILITY,FVNZD1M,1999/6/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar 1 Month FX Volatility,Active
+NEW ZEALAND DOLLAR 1Y FX VOLATILITY,FVNZD1Y,1999/6/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar 1 Year FX Volatility,Active
+NEW ZEALAND DOLLAR 2M FX VOLATILITY,FVNZD2M,1999/6/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar 2 Month FX Volatility,Active
+NEW ZEALAND DOLLAR 3M FX VOLATILITY,FVNZD3M,1999/6/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar 3 Month FX Volatility,Active
+NEW ZEALAND DOLLAR 6M FX VOLATILITY,FVNZD6M,1999/6/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar 6 Month FX Volatility,Active
+US $ TO AUSTRALIAN $ 10M FWD (RFV),TDAUDXM,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 10 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 11M FWD (RFV),TDAUD11,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 11 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 3W FWD (RFV),TDAUD3W,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 3 Week Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 7M FWD (RFV),TDAUD7M,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 7 Month Forward (Refinitiv),Active
+US $ TO AUSTRALIAN $ 8M FWD (RFV),TDAUD8M,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar 8 Month Forward (Refinitiv),Active
+US $ TO EURO 3Y FWD (RFV),TDEUR3Y,1999/10/7,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 3 Year Forward (Refinitiv),Active
+US $ TO EURO 4Y FWD (RFV),TDEUR4Y,1999/10/7,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 4 Year Forward (Refinitiv),Active
+US $ TO EURO 5Y FWD (RFV),TDEUR5Y,1999/10/7,1999,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 5 Year Forward (Refinitiv),Active
+US $ TO GBP 2W FWD (RFV),TDGBP2W,1999/10/7,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 2 Week Forward (Refinitiv),Active
+US $ TO GBP 3Y FWD (RFV),TDGBP3Y,1999/10/7,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 3 Year Forward (Refinitiv),Active
+US $ TO GBP 4Y FWD (RFV),TDGBP4Y,1999/10/7,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 4 Year Forward (Refinitiv),Active
+US $ TO GBP 5Y FWD (RFV),TDGBP5Y,1999/10/7,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 5 Year Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 10M FWD (RFV),TDNZD10,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 10 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 11M FWD (RFV),TDNZD11,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 11 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 3W FWD (RFV),TDNZD3W,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 3 Week Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 4M FWD (RFV),TDNZD4M,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 4 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 5M FWD (RFV),TDNZD5M,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 5 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 7M FWD (RFV),TDNZD7M,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 7 Month Forward (Refinitiv),Active
+US $ TO NEW ZEALAND $ 8M FWD (RFV),TDNZD8F,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 8 Month Forward (Refinitiv),Active
+USD TO AUD 3W FWD PTS,AUD3WFP,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 3 Week Forward PTS,Active
+USD TO AUD 7M FWD PTS,AUD7MFP,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 7 Month Forward PTS,Active
+USD TO AUD 8M FWD PTS,AUD8MFP,1999/10/7,1999,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 8 Month Forward PTS,Active
+USD TO GBP 2W FWD PTS,GBP2WFP,1999/10/7,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 2 Week Forward PTS,Active
+USD TO NZD 3W FWD PTS,NZD3WFP,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 3 Week Forward PTS,Active
+USD TO NZD 4M FWD PTS,NZD4MFP,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 4 Month Forward PTS,Active
+USD TO NZD 5M FWD PTS,NZD5MFP,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 5 Month Forward PTS,Active
+USD TO NZD 7M FWD PTS,NZD7MFP,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 7 Month Forward PTS,Active
+USD TO NZD 8M FWD PTS,NZD8MFP,1999/10/7,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 8 Month Forward PTS,Active
+US $ TO NEW ZEALAND $ 2W FWD (RFV),TDNZD2W,1999/10/8,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar 2 Week Forward (Refinitiv),Active
+USD TO NZD 2W FWD PTS,NZD2WFP,1999/10/8,1999,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 2 Week Forward PTS,Active
+US $ TO GBP 4M FWD (RFV),TDGBP4M,1999/10/11,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 4 Month Forward (Refinitiv),Active
+US $ TO GBP 5M FWD (RFV),TDGBP5M,1999/10/11,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 5 Month Forward (Refinitiv),Active
+USD TO GBP 4M FWD PTS,GBP4MFP,1999/10/11,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 4 Month Forward PTS,Active
+USD TO GBP 5M FWD PTS,GBP5MFP,1999/10/11,1999,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 5 Month Forward PTS,Active
+US DOLLAR/CHL PESO SPOT RATE (DISC),CLUSBDC,2000/1/3,2000,Exchange Rates,United States Dollar,Chilean Peso,Refinitiv,US Dollar / CHL Peso Spot Rate (Discontinued),Dead
+US DOLLAR/IND RUPEE FX FIXING (DISC),INUSDRB,2000/1/3,2000,Exchange Rates,United States Dollar,Indian Rupee,Refinitiv,US Dollar / IND Rupee FX Fixing (Discontinued),Dead
+USD/AED 04:00 GMT FX FIXING,AED04HR,2000/1/3,2000,Exchange Rates,United States Dollar,United Arab Emirates Dirham,Refinitiv,USD / AED 04:00 GMT FX Fixing,Active
+USD/HKD 04:00 GMT FX FIXING,HKD04HR,2000/1/3,2000,Exchange Rates,United States Dollar,Hong Kong Dollar,Refinitiv,USD / HKD 04:00 GMT FX Fixing,Active
+USD/SAR 04:00 GMT FX FIXING,SAR04HR,2000/1/3,2000,Exchange Rates,United States Dollar,Saudi Arabian Riyal,Refinitiv,USD / SAR 04:00 GMT FX Fixing,Active
+US $ TO 100 ICELAND KRONA (RFV),ICEKRUS,2000/11/29,2000,Exchange Rates,United States Dollar,Icelandic Krona,GTIS - FTID/TR,United States Dollar to 100 Iceland Krona (Refinitiv),Active
+US $ TO CYPRUS POUND (GTI DISC,CYPNDUS,2000/11/29,2000,Exchange Rates,United States Dollar,Cyprian Pound,GTIS - FTID/TR,United States Dollar to Cyprus Pound (GTI Discontinued,Dead
+US $ TO EGYPT POUND (RFV),EGYPTUS,2000/11/29,2000,Exchange Rates,United States Dollar,Egyptian Pound,GTIS - FTID/TR,United States Dollar to Egypt Pound (Refinitiv),Active
+US $ TO FIJIAN DOLLAR (RFV),FIJIDUS,2000/11/29,2000,Exchange Rates,United States Dollar,Fijian Dollar,GTIS - FTID/TR,United States Dollar to Fijian Dollar (Refinitiv),Active
+US $ TO KENYAN SHILL. (RFV),KENYAUS,2000/11/29,2000,Exchange Rates,United States Dollar,Kenyan Shilling,GTIS - FTID/TR,United States Dollar to Kenyan Shill (Refinitiv),Active
+US $ TO MAURITIUS RUPEE (RFV),MAURPUS,2000/11/29,2000,Exchange Rates,United States Dollar,Mauritian Rupee,GTIS - FTID/TR,United States Dollar to Mauritius Rupee (Refinitiv),Active
+US $ TO MORROCAN DIRHAM (RFV),MOROCUS,2000/11/29,2000,Exchange Rates,United States Dollar,Moroccan Dirham,GTIS - FTID/TR,United States Dollar to Morrocan Dirham (Refinitiv),Active
+US $ TO OMANI RIAL (RFV),OMANRUS,2000/11/29,2000,Exchange Rates,United States Dollar,Omani Rial,GTIS - FTID/TR,United States Dollar to Omani Rial (Refinitiv),Active
+US $ TO QATARI RIYAL (RFV),QATARUS,2000/11/29,2000,Exchange Rates,United States Dollar,Qatari Riyal,GTIS - FTID/TR,United States Dollar to Qatari Riyal (Refinitiv),Active
+US $ TO RUSSIAN ROUBLE (RFV),RUSSRUS,2000/11/29,2000,Exchange Rates,United States Dollar,Russian Federation Ruble,GTIS - FTID/TR,United States Dollar to Russian Rouble (Refinitiv),Active
+US $ TO SRI LANKAN RUPEES (RFV),RIRUPUS,2000/11/29,2000,Exchange Rates,United States Dollar,Sri Lankan Rupee,GTIS - FTID/TR,United States Dollar to Sri Lankan Rupees (Refinitiv),Active
+US $ TO TUNISIAN DINAR (RFV),TUNISUS,2000/11/29,2000,Exchange Rates,United States Dollar,Tunisian Dinar,GTIS - FTID/TR,United States Dollar to Tunisian Dinar (Refinitiv),Active
+USD/BRL 1 MONTH FORECAST,BRUS1MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 1 Month Forecast,Active
+USD/BRL 10 MONTH FORECAST,BRUS10F,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 10 Month Forecast,Active
+USD/BRL 11 MONTH FORECAST,BRUS11F,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 11 Month Forecast,Active
+USD/BRL 12 MONTH FORECAST,BRUS12F,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 12 Month Forecast,Active
+USD/BRL 13 MONTH FORECAST,BRUS13F,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 13 Month Forecast,Active
+USD/BRL 14 MONTH FORECAST,BRUS14F,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 14 Month Forecast,Active
+USD/BRL 2 MONTH FORECAST,BRUS2MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2 Month Forecast,Active
+USD/BRL 3 MONTH FORECAST,BRUS3MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 3 Month Forecast,Active
+USD/BRL 4 MONTH FORECAST,BRUS4MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 4 Month Forecast,Active
+USD/BRL 5 MONTH FORECAST,BRUS5MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 5 Month Forecast,Active
+USD/BRL 6 MONTH FORECAST,BRUS6MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 6 Month Forecast,Active
+USD/BRL 7 MONTH FORECAST,BRUS7MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 7 Month Forecast,Active
+USD/BRL 8 MONTH FORECAST,BRUS8MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 8 Month Forecast,Active
+USD/BRL 9 MONTH FORECAST,BRUS9MF,2001/11/6,2001,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 9 Month Forecast,Active
+BM&F USD/BRL FIXING TCAM T+2 ' 'DEAD',BRUSFX2,2002/4/22,2002,Exchange Rates,United States Dollar,United States Dollar,BM&FBOVESPA,BM&F USD / BRL Fixing Tcam T + 2 ''Dead',Dead
+BM&F USD/BRL FIXING TCAM T+1 'DEAD',BRUSFX1,2002/4/25,2002,Exchange Rates,United States Dollar,Brazilian Real,BM&FBOVESPA,BM&F USD / BRL Fixing Tcam T + 1 'Dead',Dead
+NEW ZEALAND DOLLAR SPOT WEEK FX VOL,FVNZDSW,2002/12/2,2002,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar Spot Week FX Volatility,Active
+USD TO AUD PTAX (BR),AUUSCBR,2003/1/3,2003,Exchange Rates,United States Dollar,Australian Dollar,Banco Central do Brasil,USD to Australian Dollar Ptax (BR),Active
+USD TO EUR PTAX (BR),EUUSCBR,2003/1/3,2003,Exchange Rates,United States Dollar,Euro,Banco Central do Brasil,USD to Euro Ptax (BR),Active
+USD TO GBP PTAX (BR),GBUSCBR,2003/1/3,2003,Exchange Rates,United States Dollar,United Kingdom Pound,Banco Central do Brasil,USD to GBP Ptax (BR),Active
+USD TO NZD PTAX (BR),NZUSCBR,2003/1/3,2003,Exchange Rates,United States Dollar,New Zealand Dollar,Banco Central do Brasil,USD to NZD Ptax (BR),Active
+USD TO PGK PTAX (BR),PGUSCBR,2003/1/3,2003,Exchange Rates,United States Dollar,Papua New Guinean Kina,Banco Central do Brasil,USD to PGK Ptax (BR),Active
+USD TO USD PTAX (BR),USUSCBR,2003/1/3,2003,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD to USD Ptax (BR),Active
+AUSTRALIAN $ 9M FX VOLATILITY,FVAUD9M,2003/2/19,2003,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar 9 Month FX Volatility,Active
+US $ TO CHF (WMR),USDOLSF,2003/7/15,2003,Exchange Rates,United States Dollar,Swiss Franc,WM/Reuters,United States Dollar to Swiss Franc (WMR),Active
+USD TO EEK (BOE) 'DEAD',EOUSBOE,2003/10/1,2003,Exchange Rates,United States Dollar,United States Dollar,Bank of England,USD to EEK (BOE) 'Dead',Dead
+US$ TO SWISS FRANC (T4),TDUSCHF,2003/10/7,2003,Exchange Rates,United States Dollar,Swiss Franc,Tenfore,United States Dollar to Swiss Franc (T4),Active
+NEW ZEALAND DOLLAR 2Y FX VOLATILITY,FVNZD2Y,2003/10/27,2003,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar 2 Year FX Volatility,Active
+NEW ZEALAND DOLLAR 9M FX VOLATILITY,FVNZD9M,2003/10/27,2003,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,New Zealand Dollar 9 Month FX Volatility,Active
+EURO 3M 25D REVERSAL,RREUR3M,2003/12/23,2003,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 3 Month 25D Reversal,Active
+US $ TO SAMOAN TALA (WMR),WESTSA$,2004/1/12,2004,Exchange Rates,United States Dollar,United States Dollar,WM/Reuters,United States Dollar to Samoan Tala (WMR),Active
+US $ TO SOLOMON ISLAND $ (WMR),SOLOMO$,2004/1/12,2004,Exchange Rates,United States Dollar,United States Dollar,WM/Reuters,United States Dollar to Solomon Island$ (WMR),Active
+US $ TO TONGAN PA'ANGA (WMR),TONGAP$,2004/1/12,2004,Exchange Rates,United States Dollar,United States Dollar,WM/Reuters,United States Dollar to Tongan PA'Anga (WMR),Active
+US $ TO UK ? SPOT (TP),PSUSDSP,2004/2/4,2004,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling Spot (TP),Active
+US $ TO 1 EURO 2Y FWD (WMR),USXEU2Y,2004/3/29,2004,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 2 Year Forward (WMR),Active
+US $ TO 1 EURO 5Y FWD (WMR),USXEU5Y,2004/3/29,2004,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to 1 Euro 5 Year Forward (WMR),Active
+US $ TO AUSTRALIAN $ 2Y FWD (WMR),USAUD2Y,2004/3/29,2004,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 2 Year Forward (WMR),Active
+US $ TO AUSTRALIAN $ 5Y FWD (WMR),USAUD5Y,2004/3/29,2004,Exchange Rates,United States Dollar,Australian Dollar,WM/Reuters,United States Dollar to Australian Dollar 5 Year Forward (WMR),Active
+US $ TO EURO 2Y FWD (WMR),USEUR2Y,2004/3/29,2004,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 2 Year Forward (WMR),Active
+US $ TO EURO 5Y FWD (WMR),USEUR5Y,2004/3/29,2004,Exchange Rates,United States Dollar,Euro,WM/Reuters,United States Dollar to Euro 5 Year Forward (WMR),Active
+US $ TO IRISH PUNT 2Y FWD (WMR),USIEP2Y,2004/3/29,2004,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 2 Year Forward (WMR),Active
+US $ TO IRISH PUNT 5Y FWD (WMR),USIEP5Y,2004/3/29,2004,Exchange Rates,United States Dollar,Irish Pound,WM/Reuters,United States Dollar to Irish Punt 5 Year Forward (WMR),Active
+US $ TO NEW ZEALAND $ 2Y FWD (WMR),USNZD2Y,2004/3/29,2004,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 2 Year Forward (WMR),Active
+US $ TO NEW ZEALAND $ 5Y FWD (WMR),USNZD5Y,2004/3/29,2004,Exchange Rates,United States Dollar,New Zealand Dollar,WM/Reuters,United States Dollar to New Zealand Dollar 5 Year Forward (WMR),Active
+US $ TO UK ? 2Y FWD (WMR),USGBP2Y,2004/3/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 2 Year Forward (WMR),Active
+US $ TO UK ? 5Y FWD (WMR),USGBP5Y,2004/3/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,WM/Reuters,United States Dollar to United Kingdom Sterling 5 Year Forward (WMR),Active
+US $ TO GBP 10M FWD (RFV),TDGBP10,2004/4/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 10 Month Forward (Refinitiv),Active
+US $ TO GBP 11M FWD (RFV),TDGBP11,2004/4/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 11 Month Forward (Refinitiv),Active
+US $ TO GBP 7M FWD (RFV),TDGBP7M,2004/4/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 7 Month Forward (Refinitiv),Active
+US $ TO GBP 8M FWD (RFV),TDGBP8M,2004/4/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 8 Month Forward (Refinitiv),Active
+USD TO GBP 7M FWD PTS,GBP7MFP,2004/4/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 7 Month Forward PTS,Active
+USD TO GBP 8M FWD PTS,GBP8MFP,2004/4/29,2004,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 8 Month Forward PTS,Active
+USD TO NZD 6Y FWD PTS,NZD6YFP,2004/7/27,2004,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 6 Year Forward PTS,Active
+USD TO NZD 7Y FWD PTS,NZD7YFP,2004/7/27,2004,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 7 Year Forward PTS,Active
+US $ TO AUSTRALIAN $ S/N FWD (RFV),TDAUDSN,2004/12/3,2004,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,United States Dollar to Australian Dollar Spot Next Forward (Refinitiv),Active
+USD TO AUD SN FWD PTS,AUDSNFP,2004/12/3,2004,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar SN Forward PTS,Active
+US $ TO SOLOMON ISLANDS $ (T4),TDSBDSP,2005/3/18,2005,Exchange Rates,United States Dollar,United States Dollar,Tenfore,United States Dollar to Solomon Islands$ (T4),Active
+USD TO NZD SN FWD PTS,NZDSNFP,2005/5/24,2005,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD SN Forward PTS,Active
+US $ TO EURO 10YEAR FORWARD,TDEURXY,2005/8/17,2005,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 10YEAR Forward,Active
+US $ TO GBP 10Y FWD (RFV),TDGB10Y,2005/11/21,2005,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 10 Year Forward (Refinitiv),Active
+US $ TO GBP 6Y FWD (RFV),TDGBP6Y,2005/11/21,2005,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 6 Year Forward (Refinitiv),Active
+US $ TO GBP 7Y FWD (RFV),TDGBP7Y,2005/11/21,2005,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 7 Year Forward (Refinitiv),Active
+US $ TO GBP 8Y FWD (RFV),TDGBP8Y,2005/11/21,2005,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 8 Year Forward (Refinitiv),Active
+US $ TO GBP 9Y FWD (RFV),TDGBP9Y,2005/11/21,2005,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 9 Year Forward (Refinitiv),Active
+USD TO NZD 8Y FWD PTS,NZD8YFP,2005/12/20,2005,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 8 Year Forward PTS,Active
+USD TO NZD 9Y FWD PTS,NZD9YFP,2005/12/20,2005,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 9 Year Forward PTS,Active
+US NOMINAL DOLLAR ADV FGN ECOS IDX,US$CWMN,2006/1/2,2006,Exchange Rates,United States Dollar,-,"Federal Reserve, United States",US Nominal Dollar ADV FGN Ecos IDX,Active
+US NOMINAL DOLLAR BROAD INDEX,US$CWBN,2006/1/2,2006,Exchange Rates,United States Dollar,-,"Federal Reserve, United States",US Nominal Dollar Broad Index,Active
+US NOMINAL DOLLAR EMERGING MKT IDX,US$CWON,2006/1/2,2006,Exchange Rates,United States Dollar,-,"Federal Reserve, United States",US Nominal Dollar Emerging MKT IDX,Active
+US $ TO EURO 18MONTH FORWARD,TDEUR18,2006/3/1,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 18MONTH Forward,Active
+US $ TO EURO 6YEAR FORWARD,TDEUR6Y,2006/3/1,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 6YEAR Forward,Active
+US $ TO EURO 7YEAR FORWARD,TDEUR7Y,2006/3/1,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 7YEAR Forward,Active
+US $ TO EURO 8YEAR FORWARD,TDEUR8Y,2006/3/1,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 8YEAR Forward,Active
+US $ TO EURO 9YEAR FORWARD,TDEUR9Y,2006/3/1,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 9YEAR Forward,Active
+US $ TO UK ? C1 FWD (TP),PSUSDC1,2006/5/3,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling C1 Forward (TP),Active
+US $ TO UK ? C2 FWD (TP),PSUSDC2,2006/5/3,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling C2 Forward (TP),Active
+US $ TO UK ? C3 FWD (TP),PSUSDC3,2006/5/3,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling C3 Forward (TP),Active
+US $ TO UK ? C4 FWD (TP),PSUSDC4,2006/5/3,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling C4 Forward (TP),Active
+US $ TO AUSTRALIAN $ 10M FWD (TP),PAUSD10,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 10 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 11M FWD (TP),PAUSD11,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 11 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 15M FWD (TP),PAUSD15,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 15 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 18M FWD (TP),PAUSD18,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 18 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 1M FWD (TP),PAUSD1M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 1 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 1W FWD (TP),PAUSD1W,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 1 Week Forward (TP),Active
+US $ TO AUSTRALIAN $ 1Y FWD (TP),PAUSD1Y,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 1 Year Forward (TP),Active
+US $ TO AUSTRALIAN $ 2M FWD (TP),PAUSD2M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 2 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 2W FWD (TP),PAUSD2W,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 2 Week Forward (TP),Active
+US $ TO AUSTRALIAN $ 2Y FWD (TP),PAUSD2Y,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 2 Year Forward (TP),Active
+US $ TO AUSTRALIAN $ 30M FWD (TP),PAUSD30,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 30M Forward (TP),Active
+US $ TO AUSTRALIAN $ 3M FWD (TP),PAUSD3M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 3 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 3W FWD (TP),PAUSD3W,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 3 Week Forward (TP),Active
+US $ TO AUSTRALIAN $ 3Y FWD (TP),PAUSD3Y,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 3 Year Forward (TP),Active
+US $ TO AUSTRALIAN $ 4M FWD (TP),PAUSD4M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 4 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 4Y FWD (TP),PAUSD4Y,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 4 Year Forward (TP),Active
+US $ TO AUSTRALIAN $ 5M FWD (TP),PAUSD5M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 5 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 5Y FWD (TP),PAUSD5Y,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 5 Year Forward (TP),Active
+US $ TO AUSTRALIAN $ 6M FWD (TP),PAUSD6M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 6 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 7M FWD (TP),PAUSD7M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 7 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 8M FWD (TP),PAUSD8M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 8 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ 9M FWD (TP),PAUSD9M,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar 9 Month Forward (TP),Active
+US $ TO AUSTRALIAN $ C1 FWD (TP),PAUSDC1,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar C1 Forward (TP),Active
+US $ TO AUSTRALIAN $ C2 FWD (TP),PAUSDC2,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar C2 Forward (TP),Active
+US $ TO AUSTRALIAN $ C3 FWD (TP),PAUSDC3,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar C3 Forward (TP),Active
+US $ TO AUSTRALIAN $ C4 FWD (TP),PAUSDC4,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar C4 Forward (TP),Active
+US $ TO AUSTRALIAN $ O/N FWD (TP),PAUSDON,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar Overnight Forward (TP),Active
+US $ TO AUSTRALIAN $ S/N FWD (TP),PAUSDSN,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar Spot Next Forward (TP),Active
+US $ TO AUSTRALIAN $ SPOT (TP),PAUSDSP,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar Spot (TP),Active
+US $ TO AUSTRALIAN $ T/N FWD (TP),PAUSDTN,2006/6/7,2006,Exchange Rates,United States Dollar,Australian Dollar,Tullett Prebon,United States Dollar to Australian Dollar Tomorrow Next Forward (TP),Active
+US $ TO EURO 10M FWD (TP),PEUSD10,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 10 Month Forward (TP),Active
+US $ TO EURO 11M FWD (TP),PEUSD11,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 11 Month Forward (TP),Active
+US $ TO EURO 15M FWD (TP),PEUSD15,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 15 Month Forward (TP),Active
+US $ TO EURO 18M FWD (TP),PEUSD18,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 18 Month Forward (TP),Active
+US $ TO EURO 1M FWD (TP),PEUSD1M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 1 Month Forward (TP),Active
+US $ TO EURO 1W FWD (TP),PEUSD1W,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 1 Week Forward (TP),Active
+US $ TO EURO 1Y FWD (TP),PEUSD1Y,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 1 Year Forward (TP),Active
+US $ TO EURO 2M FWD (TP),PEUSD2M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 2 Month Forward (TP),Active
+US $ TO EURO 2W FWD (TP),PEUSD2W,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 2 Week Forward (TP),Active
+US $ TO EURO 2Y FWD (TP),PEUSD2Y,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 2 Year Forward (TP),Active
+US $ TO EURO 3M FWD (TP),PEUSD3M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 3 Month Forward (TP),Active
+US $ TO EURO 3W FWD (TP),PEUSD3W,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 3 Week Forward (TP),Active
+US $ TO EURO 3Y FWD (TP),PEUSD3Y,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 3 Year Forward (TP),Active
+US $ TO EURO 4M FWD (TP),PEUSD4M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 4 Month Forward (TP),Active
+US $ TO EURO 4Y FWD (TP),PEUSD4Y,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 4 Year Forward (TP),Active
+US $ TO EURO 5M FWD (TP),PEUSD5M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 5 Month Forward (TP),Active
+US $ TO EURO 5Y FWD (TP),PEUSD5Y,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 5 Year Forward (TP),Active
+US $ TO EURO 6M FWD (TP),PEUSD6M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 6 Month Forward (TP),Active
+US $ TO EURO 7M FWD (TP),PEUSD7M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 7 Month Forward (TP),Active
+US $ TO EURO 8M FWD (TP),PEUSD8M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 8 Month Forward (TP),Active
+US $ TO EURO 9M FWD (TP),PEUSD9M,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro 9 Month Forward (TP),Active
+US $ TO EURO C1 FWD (TP),PEUSDC1,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro C1 Forward (TP),Active
+US $ TO EURO C2 FWD (TP),PEUSDC2,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro C2 Forward (TP),Active
+US $ TO EURO C3 FWD (TP),PEUSDC3,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro C3 Forward (TP),Active
+US $ TO EURO C4 FWD (TP),PEUSDC4,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro C4 Forward (TP),Active
+US $ TO EURO O/N FWD (TP),PEUSDON,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro Overnight Forward (TP),Active
+US $ TO EURO S/N FWD (TP),PEUSDSN,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro Spot Next Forward (TP),Active
+US $ TO EURO SPOT (TP),PEUSDSP,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro Spot (TP),Active
+US $ TO EURO T/N FWD (TP),PEUSDTN,2006/6/7,2006,Exchange Rates,United States Dollar,Euro,Tullett Prebon,United States Dollar to Euro Tomorrow Next Forward (TP),Active
+US $ TO NEW ZEALAND $ 10M FWD (TP),PZUSD10,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 10 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 11M FWD (TP),PZUSD11,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 11 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 1M FWD (TP),PZUSD1M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 1 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 1W FWD (TP),PZUSD1W,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 1 Week Forward (TP),Active
+US $ TO NEW ZEALAND $ 1Y FWD (TP),PZUSD1Y,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 1 Year Forward (TP),Active
+US $ TO NEW ZEALAND $ 2M FWD (TP),PZUSD2M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 2 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 2W FWD (TP),PZUSD2W,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 2 Week Forward (TP),Active
+US $ TO NEW ZEALAND $ 3M FWD (TP),PZUSD3M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 3 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 3W FWD (TP),PZUSD3W,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 3 Week Forward (TP),Active
+US $ TO NEW ZEALAND $ 4M FWD (TP),PZUSD4M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 4 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 5M FWD (TP),PZUSD5M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 5 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 6M FWD (TP),PZUSD6M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 6 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 7M FWD (TP),PZUSD7M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 7 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 8M FWD (TP),PZUSD8M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 8 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ 9M FWD (TP),PZUSD9M,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar 9 Month Forward (TP),Active
+US $ TO NEW ZEALAND $ C1 FWD (TP),PZUSDC1,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar C1 Forward (TP),Active
+US $ TO NEW ZEALAND $ C2 FWD (TP),PZUSDC2,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar C2 Forward (TP),Active
+US $ TO NEW ZEALAND $ C3 FWD (TP),PZUSDC3,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar C3 Forward (TP),Active
+US $ TO NEW ZEALAND $ C4 FWD (TP),PZUSDC4,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar C4 Forward (TP),Active
+US $ TO NEW ZEALAND $ O/N FWD (TP),PZUSDON,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar Overnight Forward (TP),Active
+US $ TO NEW ZEALAND $ S/N FWD (TP),PZUSDSN,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar Spot Next Forward (TP),Active
+US $ TO NEW ZEALAND $ SPOT (TP),PZUSDSP,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar Spot (TP),Active
+US $ TO NEW ZEALAND $ T/N FWD (TP),PZUSDTN,2006/6/7,2006,Exchange Rates,United States Dollar,New Zealand Dollar,Tullett Prebon,United States Dollar to New Zealand Dollar Tomorrow Next Forward (TP),Active
+US $ TO UK ? 10M FWD (TP),PSUSD10,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 10 Month Forward (TP),Active
+US $ TO UK ? 11M FWD (TP),PSUSD11,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 11 Month Forward (TP),Active
+US $ TO UK ? 15M FWD (TP),PSUSD15,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 15 Month Forward (TP),Active
+US $ TO UK ? 18M FWD (TP),PSUSD18,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 18 Month Forward (TP),Active
+US $ TO UK ? 1M FWD (TP),PSUSD1M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 1 Month Forward (TP),Active
+US $ TO UK ? 1W FWD (TP),PSUSD1W,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 1 Week Forward (TP),Active
+US $ TO UK ? 1Y FWD (TP),PSUSD1Y,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 1 Year Forward (TP),Active
+US $ TO UK ? 2M FWD (TP),PSUSD2M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 2 Month Forward (TP),Active
+US $ TO UK ? 2W FWD (TP),PSUSD2W,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 2 Week Forward (TP),Active
+US $ TO UK ? 2Y FWD (TP),PSUSD2Y,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 2 Year Forward (TP),Active
+US $ TO UK ? 3M FWD (TP),PSUSD3M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 3 Month Forward (TP),Active
+US $ TO UK ? 3W FWD (TP),PSUSD3W,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 3 Week Forward (TP),Active
+US $ TO UK ? 3Y FWD (TP),PSUSD3Y,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 3 Year Forward (TP),Active
+US $ TO UK ? 4M FWD (TP),PSUSD4M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 4 Month Forward (TP),Active
+US $ TO UK ? 4Y FWD (TP),PSUSD4Y,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 4 Year Forward (TP),Active
+US $ TO UK ? 5M FWD (TP),PSUSD5M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 5 Month Forward (TP),Active
+US $ TO UK ? 5Y FWD (TP),PSUSD5Y,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 5 Year Forward (TP),Active
+US $ TO UK ? 6M FWD (TP),PSUSD6M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 6 Month Forward (TP),Active
+US $ TO UK ? 7M FWD (TP),PSUSD7M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 7 Month Forward (TP),Active
+US $ TO UK ? 8M FWD (TP),PSUSD8M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 8 Month Forward (TP),Active
+US $ TO UK ? 9M FWD (TP),PSUSD9M,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling 9 Month Forward (TP),Active
+US $ TO UK ? O/N FWD (TP),PSUSDON,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling Overnight Forward (TP),Active
+US $ TO UK ? S/N FWD (TP),PSUSDSN,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling Spot Next Forward (TP),Active
+US $ TO UK ? T/N FWD (TP),PSUSDTN,2006/6/7,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Tullett Prebon,United States Dollar to United Kingdom Sterling Tomorrow Next Forward (TP),Active
+US $ TO EURO 12YEAR FWD DISC,TDEUR12,2006/6/26,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 12YEAR Forward Discontinued,Dead
+US $ TO EURO 15YEAR FWD DISC,TDEUR15,2006/6/26,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 15YEAR Forward Discontinued,Dead
+US $ TO EURO 20YEAR FWD DISC,TDEUR20,2006/6/26,2006,Exchange Rates,United States Dollar,United States Dollar,Refinitiv,United States Dollar to Euro 20YEAR Forward Discontinued,Dead
+US $ TO EURO 3W FWD (RFV),TDEUR3W,2006/7/19,2006,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 3 Week Forward (Refinitiv),Active
+US $ TO GBP 3W FWD (RFV),TDGBP3W,2006/7/19,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 3 Week Forward (Refinitiv),Active
+USD TO EUR 3W FWD PTS,EUR3WFP,2006/7/19,2006,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 3 Week Forward PTS,Active
+USD TO GBP 3W FWD PTS,GBP3WFP,2006/7/19,2006,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 3 Week Forward PTS,Active
+USD/BRL 2011 FORECAST 'DEAD',BRUSF11,2007/1/3,2007,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2011 Forecast 'Dead',Dead
+US $ TO GBP 18M FWD (RFV),TDGB18M,2007/3/2,2007,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 18 Month Forward (Refinitiv),Active
+USD/BRL 2012 FORECAST 'DEAD',BRUSF12,2008/1/3,2008,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2012 Forecast 'Dead',Dead
+US $ TO EURO 15M FWD (RFV),TDEU15M,2008/4/8,2008,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 15 Month Forward (Refinitiv),Active
+AUSTRALIAN $ TO US $ FX SPOT RATE,TRAUUSS,2008/10/27,2008,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,Australian Dollar to United States Dollar FX Spot Rate,Active
+US $ TO EURO FX SPOT RATE,TREUUSS,2008/10/27,2008,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro FX Spot Rate,Active
+US $ TO GBP FX SPOT RATE,TRGBUSS,2008/10/27,2008,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP FX Spot Rate,Active
+US$ TO NEW ZEALAND $ FX SPOT RATE,TRNZUSS,2008/10/27,2008,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,United States Dollar to New Zealand Dollar FX Spot Rate,Active
+USD/BRL 2013 FORECAST 'DEAD',BRUSF13,2009/1/2,2009,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2013 Forecast 'Dead',Dead
+USD/BRL DECEMBE 2010 FORECAST 'DEAD',BRUS1FO,2009/11/4,2009,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL Decembe 2010 Forecast 'Dead',Dead
+US $ TO 1000 KOREAN WON (RFV),SKORXUS,2009/12/2,2009,Exchange Rates,United States Dollar,South Korean Won,GTIS - FTID/TR,United States Dollar to 1000 Korean Won (Refinitiv),Active
+USD/BRL 2014 FORECAST 'DEAD',BRUSF14,2010/1/5,2010,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2014 Forecast 'Dead',Dead
+USD TO AUD 00:00 HOURLY,AUD00HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 00:00 Hourly,Active
+USD TO AUD 01:00 HOURLY,AUD01HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 01:00 Hourly,Active
+USD TO AUD 02:00 HOURLY,AUD02HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 02:00 Hourly,Active
+USD TO AUD 03:00 HOURLY,AUD03HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 03:00 Hourly,Active
+USD TO AUD 04:00 HOURLY,AUD04HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 04:00 Hourly,Active
+USD TO AUD 05:00 HOURLY,AUD05HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 05:00 Hourly,Active
+USD TO AUD 06:00 HOURLY,AUD06HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 06:00 Hourly,Active
+USD TO AUD 07:00 HOURLY,AUD07HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 07:00 Hourly,Active
+USD TO AUD 08:00 HOURLY,AUD08HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 08:00 Hourly,Active
+USD TO AUD 09:00 HOURLY,AUD09HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 09:00 Hourly,Active
+USD TO AUD 10:00 HOURLY,AUD10HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 10:00 Hourly,Active
+USD TO AUD 11:00 HOURLY,AUD11HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 11:00 Hourly,Active
+USD TO AUD 12:00 HOURLY,AUD12HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 12:00 Hourly,Active
+USD TO AUD 13:00 HOURLY,AUD13HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 13:00 Hourly,Active
+USD TO AUD 14:00 HOURLY,AUD14HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 14:00 Hourly,Active
+USD TO AUD 15:00 HOURLY,AUD15HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 15:00 Hourly,Active
+USD TO AUD 16:00 HOURLY,AUD16HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 16:00 Hourly,Active
+USD TO AUD 17:00 HOURLY,AUD17HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 17:00 Hourly,Active
+USD TO AUD 18:00 HOURLY,AUD18HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 18:00 Hourly,Active
+USD TO AUD 19:00 HOURLY,AUD19HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 19:00 Hourly,Active
+USD TO AUD 20:00 HOURLY,AUD20HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 20:00 Hourly,Active
+USD TO AUD 21:00 HOURLY,AUD21HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 21:00 Hourly,Active
+USD TO AUD 22:00 HOURLY,AUD22HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 22:00 Hourly,Active
+USD TO AUD 23:00 HOURLY,AUD23HR,2010/3/30,2010,Exchange Rates,United States Dollar,Australian Dollar,Refinitiv,USD to Australian Dollar 23:00 Hourly,Active
+USD TO EUR 00:00 HOURLY,EUR00HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 00:00 Hourly,Active
+USD TO EUR 01:00 HOURLY,EUR01HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 01:00 Hourly,Active
+USD TO EUR 02:00 HOURLY,EUR02HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 02:00 Hourly,Active
+USD TO EUR 03:00 HOURLY,EUR03HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 03:00 Hourly,Active
+USD TO EUR 04:00 HOURLY,EUR04HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 04:00 Hourly,Active
+USD TO EUR 05:00 HOURLY,EUR05HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 05:00 Hourly,Active
+USD TO EUR 06:00 HOURLY,EUR06HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 06:00 Hourly,Active
+USD TO EUR 07:00 HOURLY,EUR07HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 07:00 Hourly,Active
+USD TO EUR 08:00 HOURLY,EUR08HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 08:00 Hourly,Active
+USD TO EUR 09:00 HOURLY,EUR09HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 09:00 Hourly,Active
+USD TO EUR 10:00 HOURLY,EUR10HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 10:00 Hourly,Active
+USD TO EUR 11:00 HOURLY,EUR11HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 11:00 Hourly,Active
+USD TO EUR 12:00 HOURLY,EUR12HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 12:00 Hourly,Active
+USD TO EUR 13:00 HOURLY,EUR13HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 13:00 Hourly,Active
+USD TO EUR 14:00 HOURLY,EUR14HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 14:00 Hourly,Active
+USD TO EUR 15:00 HOURLY,EUR15HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 15:00 Hourly,Active
+USD TO EUR 17:00 HOURLY,EUR17HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 17:00 Hourly,Active
+USD TO EUR 18:00 HOURLY,EUR18HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 18:00 Hourly,Active
+USD TO EUR 19:00 HOURLY,EUR19HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 19:00 Hourly,Active
+USD TO EUR 20:00 HOURLY,EUR20HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 20:00 Hourly,Active
+USD TO EUR 21:00 HOURLY,EUR21HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 21:00 Hourly,Active
+USD TO EUR 22:00 HOURLY,EUR22HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 22:00 Hourly,Active
+USD TO EUR 23:00 HOURLY,EUR23HR,2010/3/30,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 23:00 Hourly,Active
+USD TO GBP 00:00 HOURLY,GBP00HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 00:00 Hourly,Active
+USD TO GBP 01:00 HOURLY,GBP01HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 01:00 Hourly,Active
+USD TO GBP 02:00 HOURLY,GBP02HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 02:00 Hourly,Active
+USD TO GBP 03:00 HOURLY,GBP03HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 03:00 Hourly,Active
+USD TO GBP 04:00 HOURLY,GBP04HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 04:00 Hourly,Active
+USD TO GBP 05:00 HOURLY,GBP05HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 05:00 Hourly,Active
+USD TO GBP 06:00 HOURLY,GBP06HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 06:00 Hourly,Active
+USD TO GBP 07:00 HOURLY,GBP07HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 07:00 Hourly,Active
+USD TO GBP 08:00 HOURLY,GBP08HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 08:00 Hourly,Active
+USD TO GBP 09:00 HOURLY,GBP09HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 09:00 Hourly,Active
+USD TO GBP 10:00 HOURLY,GBP10HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 10:00 Hourly,Active
+USD TO GBP 11:00 HOURLY,GBP11HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 11:00 Hourly,Active
+USD TO GBP 12:00 HOURLY,GBP12HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 12:00 Hourly,Active
+USD TO GBP 13:00 HOURLY,GBP13HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 13:00 Hourly,Active
+USD TO GBP 14:00 HOURLY,GBP14HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 14:00 Hourly,Active
+USD TO GBP 15:00 HOURLY,GBP15HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 15:00 Hourly,Active
+USD TO GBP 16:00 HOURLY,GBP16HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 16:00 Hourly,Active
+USD TO GBP 17:00 HOURLY,GBP17HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 17:00 Hourly,Active
+USD TO GBP 18:00 HOURLY,GBP18HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 18:00 Hourly,Active
+USD TO GBP 19:00 HOURLY,GBP19HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 19:00 Hourly,Active
+USD TO GBP 20:00 HOURLY,GBP20HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 20:00 Hourly,Active
+USD TO GBP 21:00 HOURLY,GBP21HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 21:00 Hourly,Active
+USD TO GBP 22:00 HOURLY,GBP22HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 22:00 Hourly,Active
+USD TO GBP 23:00 HOURLY,GBP23HR,2010/3/30,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 23:00 Hourly,Active
+USD TO NZD 00:00 HOURLY,NZD00HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 00:00 Hourly,Active
+USD TO NZD 01:00 HOURLY,NZD01HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 01:00 Hourly,Active
+USD TO NZD 02:00 HOURLY,NZD02HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 02:00 Hourly,Active
+USD TO NZD 03:00 HOURLY,NZD03HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 03:00 Hourly,Active
+USD TO NZD 04:00 HOURLY,NZD04HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 04:00 Hourly,Active
+USD TO NZD 05:00 HOURLY,NZD05HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 05:00 Hourly,Active
+USD TO NZD 06:00 HOURLY,NZD06HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 06:00 Hourly,Active
+USD TO NZD 07:00 HOURLY,NZD07HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 07:00 Hourly,Active
+USD TO NZD 08:00 HOURLY,NZD08HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 08:00 Hourly,Active
+USD TO NZD 09:00 HOURLY,NZD09HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 09:00 Hourly,Active
+USD TO NZD 10:00 HOURLY,NZD10HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 10:00 Hourly,Active
+USD TO NZD 11:00 HOURLY,NZD11HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 11:00 Hourly,Active
+USD TO NZD 12:00 HOURLY,NZD12HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 12:00 Hourly,Active
+USD TO NZD 13:00 HOURLY,NZD13HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 13:00 Hourly,Active
+USD TO NZD 14:00 HOURLY,NZD14HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 14:00 Hourly,Active
+USD TO NZD 15:00 HOURLY,NZD15HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 15:00 Hourly,Active
+USD TO NZD 16:00 HOURLY,NZD16HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 16:00 Hourly,Active
+USD TO NZD 17:00 HOURLY,NZD17HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 17:00 Hourly,Active
+USD TO NZD 19:00 HOURLY,NZD19HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 19:00 Hourly,Active
+USD TO NZD 20:00 HOURLY,NZD20HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 20:00 Hourly,Active
+USD TO NZD 21:00 HOURLY,NZD21HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 21:00 Hourly,Active
+USD TO NZD 22:00 HOURLY,NZD22HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 22:00 Hourly,Active
+USD TO NZD 23:00 HOURLY,NZD23HR,2010/3/30,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 23:00 Hourly,Active
+USD TO EUR 10Y FWD PTS,EURXYFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 10 Year Forward PTS,Active
+USD TO EUR 1Y FWD PTS,EUR1YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 1 Year Forward PTS,Active
+USD TO EUR 2Y FWD PTS,EUR2YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 2 Year Forward PTS,Active
+USD TO EUR 3M FWD PTS,EUR3MFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 3 Month Forward PTS,Active
+USD TO EUR 3Y FWD PTS,EUR3YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 3 Year Forward PTS,Active
+USD TO EUR 4Y FWD PTS,EUR4YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 4 Year Forward PTS,Active
+USD TO EUR 5Y FWD PTS,EUR5YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 5 Year Forward PTS,Active
+USD TO EUR 6M FWD PTS,EUR6MFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 6 Month Forward PTS,Active
+USD TO EUR 6Y FWD PTS,EUR6YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 6 Year Forward PTS,Active
+USD TO EUR 7Y FWD PTS,EUR7YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 7 Year Forward PTS,Active
+USD TO EUR 8Y FWD PTS,EUR8YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 8 Year Forward PTS,Active
+USD TO EUR 9M FWD PTS,EUR9MFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 9 Month Forward PTS,Active
+USD TO EUR 9Y FWD PTS,EUR9YFP,2010/5/17,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 9 Year Forward PTS,Active
+USD TO GBP 10Y FWD PTS,GBPXYFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 10 Year Forward PTS,Active
+USD TO GBP 1Y FWD PTS,GBP1YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 1 Year Forward PTS,Active
+USD TO GBP 2Y FWD PTS,GBP2YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 2 Year Forward PTS,Active
+USD TO GBP 3M FWD PTS,GBP3MFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 3 Month Forward PTS,Active
+USD TO GBP 3Y FWD PTS,GBP3YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 3 Year Forward PTS,Active
+USD TO GBP 4Y FWD PTS,GBP4YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 4 Year Forward PTS,Active
+USD TO GBP 5Y FWD PTS,GBP5YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 5 Year Forward PTS,Active
+USD TO GBP 6M FWD PTS,GBP6MFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 6 Month Forward PTS,Active
+USD TO GBP 6Y FWD PTS,GBP6YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 6 Year Forward PTS,Active
+USD TO GBP 7Y FWD PTS,GBP7YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 7 Year Forward PTS,Active
+USD TO GBP 8Y FWD PTS,GBP8YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 8 Year Forward PTS,Active
+USD TO GBP 9M FWD PTS,GBP9MFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 9 Month Forward PTS,Active
+USD TO GBP 9Y FWD PTS,GBP9YFP,2010/5/17,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,USD to GBP 9 Year Forward PTS,Active
+EURO 1M 10D REVERSAL,R1EUR1M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 1 Month 10D Reversal,Active
+EURO 1M 25D REVERSAL,RREUR1M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 1 Month 25D Reversal,Active
+EURO 1Y 10D REVERSAL,R1EUR1Y,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 1 Year 10D Reversal,Active
+EURO 1Y 25D REVERSAL,RREUR1Y,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 1 Year 25D Reversal,Active
+EURO 2M 10D REVERSAL,R1EUR2M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 2 Month 10D Reversal,Active
+EURO 2M 25D REVERSAL,RREUR2M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 2 Month 25D Reversal,Active
+EURO 3M 10D REVERSAL,R1EUR3M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 3 Month 10D Reversal,Active
+EURO 6M 10D REVERSAL,R1EUR6M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 6 Month 10D Reversal,Active
+EURO 6M 25D REVERSAL,RREUR6M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 6 Month 25D Reversal,Active
+EURO 9M 10D REVERSAL,R1EUR9M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 9 Month 10D Reversal,Active
+EURO 9M 25D REVERSAL,RREUR9M,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro 9 Month 25D Reversal,Active
+EURO SW 10D REVERSAL,R1EURSW,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro SW 10D Reversal,Active
+EURO SW 25D REVERSAL,RREURSW,2010/6/21,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,Euro SW 25D Reversal,Active
+UK POUND SW 10D REVERSAL,R1GBPSW,2010/6/21,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound SW 10D Reversal,Active
+UK POUND SW 25D REVERSAL,RRGBPSW,2010/6/21,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United Kingdom Pound SW 25D Reversal,Active
+USD/BRL DECEMBER 2011 FOREC 'DEAD',BRUS2FO,2010/7/1,2010,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL December 2011 Forec 'Dead',Dead
+US $ TO EURO 21M FWD (RFV),TDEU21M,2010/9/20,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 21M Forward (Refinitiv),Active
+US $ TO GBP 21M FWD (RFV),TDGB21M,2010/9/20,2010,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 21M Forward (Refinitiv),Active
+USD TO EUR 16:00 HOURLY,EUR16HR,2010/11/9,2010,Exchange Rates,United States Dollar,Euro,Refinitiv,USD to Euro 16:00 Hourly,Active
+USD TO NZD 18:00 HOURLY,NZD18HR,2010/11/9,2010,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,USD to NZD 18:00 Hourly,Active
+USD/BRL 2015 FORECAST 'DEAD',BRUSF15,2011/1/3,2011,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2015 Forecast 'Dead',Dead
+US $ TO GBP 20Y FWD (RFV),TDGB20Y,2011/6/6,2011,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 20Y Forward (Refinitiv),Active
+US DOLLAR TO NEW ZEALAND $,NZDUSDS,2011/6/8,2011,Exchange Rates,United States Dollar,New Zealand Dollar,Refinitiv,US Dollar to New Zealand Dollar,Active
+US $ TO GBP 15Y FWD (RFV),TDGB15Y,2011/6/23,2011,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 15Y Forward (Refinitiv),Active
+US $ TO GBP 15M FWD (RFV),TDGB15M,2011/6/30,2011,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 15 Month Forward (Refinitiv),Active
+USD/BRL DECEMBER 2012 FOREC 'DEAD',BRUS3FO,2011/7/1,2011,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL December 2012 Forec 'Dead',Dead
+USD TO BITCOIN (BITSTAMP),BTCTOU$,2011/8/18,2011,Exchange Rates,United States Dollar,Bitcoin,Refinitiv,USD to Bitcoin (Bitstamp),Active
+USD/BRL 2016 FORECAST,BRUSF16,2011/12/30,2011,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2016 Forecast,Active
+USD/BRL DECEMBER 2013 FOREC 'DEAD',BRUS4FO,2012/6/29,2012,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL December 2013 Forec 'Dead',Dead
+USD/BRL 2017 FORECAST,BRUSF17,2012/12/28,2012,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2017 Forecast,Active
+USD/BRL DECEMBER 2014 FOREC 'DEAD',BRUS5FO,2013/6/28,2013,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL December 2014 Forec 'Dead',Dead
+USD/BRL 2018 FORECAST,BRUSF18,2014/1/6,2014,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL 2018 Forecast,Active
+USD/BRL DECEMBER 2015 FOREC 'DEAD',BRUS6FO,2014/6/30,2014,Exchange Rates,United States Dollar,United States Dollar,Banco Central do Brasil,USD / BRL December 2015 Forec 'Dead',Dead
+US $ TO EURO 30M FWD (RFV),TDEU30M,2014/9/29,2014,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro 30M Forward (Refinitiv),Active
+US $ TO GBP 30M FWD (RFV),TDGB30M,2014/9/29,2014,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 30M Forward (Refinitiv),Active
+US $ TO EURO (LARGE) FX CROSS RATE,TREUUSL,2015/11/30,2015,Exchange Rates,United States Dollar,Euro,Refinitiv,United States Dollar to Euro (Large) FX Cross Rate,Active
+US $ TO GBP 12Y FWD (RFV),TDGB12Y,2016/2/3,2016,Exchange Rates,United States Dollar,United Kingdom Pound,Refinitiv,United States Dollar to GBP 12Y Forward (Refinitiv),Active
+USD TO CAD (BOFC),BCCAUSD,2017/1/3,2017,Exchange Rates,United States Dollar,Canadian Dollar,Bank of Canada,USD to Canadian Dollar (Bofc),Active
+US $ TO RIPPLE (BITSTAMP),XRUSDSP,2017/6/16,2017,Exchange Rates,United States Dollar,Ripple,Refinitiv,United States Dollar to Ripple (Bitstamp),Active
+US $ TO LITECOIN (BITSTAMP),LTUSDSP,2017/8/16,2017,Exchange Rates,United States Dollar,Litecoin,Refinitiv,United States Dollar to Litecoin (Bitstamp),Active
+US $ TO ETHEREUM (BITSTAMP),ETUSDSP,2017/9/4,2017,Exchange Rates,United States Dollar,Ether,Refinitiv,United States Dollar to Ethereum (Bitstamp),Active
+US $ TO BITCOIN CASH (BITSTAMP),BCUSDSP,2018/2/12,2018,Exchange Rates,United States Dollar,Bitcoin Cash,Refinitiv,United States Dollar to Bitcoin Cash (Bitstamp),Active

@@ -1,0 +1,778 @@
+﻿"",BBEX3.D.CAD.XDR.DA.AC.000,BBEX3.D.CAD.XDR.DA.AC.000_FLAGS,BBEX3.D.CHF.XDR.DA.AC.000,BBEX3.D.CHF.XDR.DA.AC.000_FLAGS,BBEX3.D.CNY.XDR.DA.AC.000,BBEX3.D.CNY.XDR.DA.AC.000_FLAGS,BBEX3.D.DKK.XDR.DA.AC.000,BBEX3.D.DKK.XDR.DA.AC.000_FLAGS,BBEX3.D.EUR.XDR.DA.AC.000,BBEX3.D.EUR.XDR.DA.AC.000_FLAGS,BBEX3.D.GBP.XDR.DA.AC.000,BBEX3.D.GBP.XDR.DA.AC.000_FLAGS,BBEX3.D.JPY.XDR.DA.AC.000,BBEX3.D.JPY.XDR.DA.AC.000_FLAGS,BBEX3.D.NOK.XDR.DA.AC.000,BBEX3.D.NOK.XDR.DA.AC.000_FLAGS,BBEX3.D.SEK.XDR.DA.AC.000,BBEX3.D.SEK.XDR.DA.AC.000_FLAGS,BBEX3.D.USD.XDR.DA.AC.000,BBEX3.D.USD.XDR.DA.AC.000_FLAGS
+"",Value of the special drawing right / XDR 1 = CAD ...,,Value of the special drawing right / XDR 1 = CHF ...,,Value of the special drawing right / XDR 1 = CNY ...,,Value of the special drawing right / XDR 1 = DKK ...,,Value of the special drawing right / XDR 1 = EUR ...,,Value of the special drawing right / XDR 1 = GBP ...,,Value of the special drawing right / XDR 1 = JPY ...,,Value of the special drawing right / XDR 1 = NOK ...,,Value of the special drawing right / XDR 1 = SEK ...,,Value of the special drawing right / XDR 1 = USD ...,
+unit,CAD,,CHF,,CNY,,DKK,,EUR,,GBP,,JPY,,NOK,,SEK,,USD,
+unit multiplier,one,,one,,one,,one,,one,,one,,one,,one,,one,,one,
+last update,2022-02-11 13:36:59,,2022-02-11 13:37:00,,2022-02-11 13:37:02,,2022-02-11 13:37:03,,2022-02-11 13:38:29,,2022-02-11 13:38:30,,2022-02-11 13:39:57,,2022-02-11 13:41:27,,2022-02-11 13:43:56,,2022-02-11 13:45:23,
+2020-01-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-02,1.79813,,.,No value available,9.64255,,9.23907,,1.23651,,1.048630,,.,No value available,12.16820,,12.91870,,1.384030,
+2020-01-03,1.79400,,1.34488,,9.63317,,9.26020,,1.23914,,1.057880,,150.725,,12.18270,,12.99340,,1.381270,
+2020-01-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-06,1.79630,,1.34217,,9.66081,,9.24616,,1.23724,,1.052810,,149.646,,12.18540,,.,No value available,1.384970,
+2020-01-07,1.80086,,1.34342,,9.61455,,9.25986,,1.23910,,1.052920,,150.116,,12.21110,,13.02680,,1.384320,
+2020-01-08,1.79957,,1.34305,,9.58690,,9.28850,,1.24294,,1.053950,,148.956,,12.24390,,13.04120,,1.381520,
+2020-01-09,1.80408,,1.34344,,9.55694,,9.27833,,1.24156,,1.059710,,150.655,,12.24980,,13.04040,,1.379370,
+2020-01-10,1.80023,,1.34552,,9.56224,,9.29428,,1.24369,,1.055100,,151.097,,12.28090,,13.10510,,1.379380,
+2020-01-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-13,1.80066,,1.34125,,9.52163,,9.26947,,1.24036,,1.064260,,.,No value available,12.27390,,13.11990,,1.380030,
+2020-01-14,1.80337,,1.33575,,9.50299,,9.28247,,1.24212,,1.062180,,151.979,,12.28710,,13.07930,,1.380620,
+2020-01-15,1.80280,,1.33380,,9.51339,,9.26518,,1.23987,,1.061680,,151.864,,12.25230,,13.08920,,1.381460,
+2020-01-16,1.80328,,1.33086,,9.52127,,9.24907,,1.23767,,1.058380,,151.962,,12.26010,,13.07030,,1.382350,
+2020-01-17,1.80336,,1.33443,,9.46835,,9.28807,,1.24290,,1.058920,,152.144,,12.29110,,13.10160,,1.380610,
+2020-01-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-21,1.80286,,1.33486,,9.52798,,9.27558,,1.24130,,1.056430,,151.767,,12.33360,,13.15380,,1.379700,
+2020-01-22,1.80879,,1.33991,,9.51819,,9.29437,,1.24375,,1.052770,,151.533,,12.38660,,13.14300,,1.379070,
+2020-01-23,1.81321,,1.33614,,9.56160,,9.29593,,1.24389,,1.051210,,151.315,,12.39890,,13.11670,,1.379600,
+2020-01-24,1.80944,,.,No value available,.,No value available,9.32549,,1.24789,,1.052110,,150.856,,12.40090,,13.12740,,1.377050,
+2020-01-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-01-27,1.81416,,1.33392,,.,No value available,9.32818,,1.24829,,1.051930,,149.914,,12.52820,,13.18290,,1.376240,
+2020-01-28,1.81234,,1.33502,,.,No value available,9.33794,,1.24959,,1.056690,,149.866,,12.59070,,13.25120,,1.375170,
+2020-01-29,1.81449,,1.34072,,.,No value available,9.34029,,1.24991,,1.056500,,149.988,,12.56950,,13.22120,,1.375030,
+2020-01-30,1.81854,,1.33525,,.,No value available,9.32279,,1.24754,,1.052440,,149.905,,12.69220,,13.27440,,1.375910,
+2020-01-31,1.82212,,1.33378,,.,No value available,9.31064,,1.24588,,1.048990,,150.129,,12.69470,,13.30200,,1.376950,
+2020-02-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-03,1.82812,,1.32857,,9.66912,,9.29964,,1.24446,,1.054820,,149.444,,12.76680,,13.26810,,1.377110,
+2020-02-04,1.82751,,1.33306,,9.62547,,9.30960,,1.24579,,1.057630,,149.485,,12.70050,,13.25560,,1.376350,
+2020-02-05,1.82780,,1.33636,,9.62946,,9.32436,,1.24777,,1.053070,,150.512,,12.62420,,13.16250,,1.375420,
+2020-02-06,1.82546,,1.33867,,9.57387,,9.32827,,1.24835,,1.059600,,150.940,,12.64430,,13.17000,,1.373560,
+2020-02-07,1.82397,,1.33902,,9.57552,,9.33890,,1.24979,,1.060200,,150.647,,12.70690,,13.22070,,1.370890,
+2020-02-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-10,1.82611,,1.34062,,9.57341,,9.35541,,1.25199,,1.061030,,150.323,,12.66870,,13.23340,,1.371060,
+2020-02-11,1.82072,,1.33944,,9.55411,,9.38914,,1.25657,,1.059710,,.,No value available,12.68540,,13.23790,,1.369780,
+2020-02-12,1.81616,,1.33581,,9.55493,,9.38104,,1.25552,,1.055480,,150.524,,12.61100,,13.18190,,1.370270,
+2020-02-13,1.81353,,1.33887,,9.55128,,9.40690,,1.25893,,1.053710,,150.325,,12.64160,,13.19240,,1.368080,
+2020-02-14,1.81182,,1.34228,,9.54973,,9.42365,,1.26131,,1.049430,,150.221,,12.64570,,13.24120,,1.367510,
+2020-02-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-18,1.81224,,1.34080,,9.57103,,9.44064,,1.26378,,1.048200,,150.018,,12.74940,,13.31720,,1.366900,
+2020-02-19,1.80546,,1.34294,,9.54226,,9.43735,,1.26349,,1.050720,,150.171,,12.65730,,13.36470,,1.364570,
+2020-02-20,1.80470,,1.33813,,9.54526,,9.42418,,1.26193,,1.057820,,151.412,,12.67670,,13.35860,,1.361620,
+2020-02-21,1.80165,,1.33761,,9.58993,,9.42267,,1.26137,,1.052380,,152.658,,12.72380,,13.36290,,1.362410,
+2020-02-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-02-24,1.81025,,1.33632,,9.58837,,9.41336,,1.26016,,1.056450,,.,No value available,12.76890,,13.33130,,1.363240,
+2020-02-25,1.81350,,1.33517,,9.57781,,9.40982,,1.25967,,1.053170,,151.459,,12.79830,,13.27660,,1.365480,
+2020-02-26,1.81923,,1.33295,,9.60034,,9.39196,,1.25712,,1.057160,,150.807,,12.83690,,13.28670,,1.367120,
+2020-02-27,1.83001,,1.32960,,9.60523,,9.33498,,1.24924,,1.064350,,151.088,,12.85690,,13.25180,,1.369660,
+2020-02-28,1.84418,,1.32679,,9.61381,,9.34824,,1.25105,,1.066050,,150.237,,12.99700,,13.28640,,1.373280,
+2020-02-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-02,1.84173,,1.31938,,9.60071,,9.26535,,1.23984,,1.078650,,148.472,,12.89970,,13.12350,,1.378950,
+2020-03-03,1.84185,,1.32022,,9.62010,,9.26518,,1.23983,,1.078030,,149.300,,12.81090,,13.10410,,1.378320,
+2020-03-04,1.84992,,.,No value available,9.57717,,9.27859,,1.24168,,1.079490,,148.289,,12.79560,,.,No value available,1.381360,
+2020-03-05,1.85653,,1.31846,,9.60347,,9.24249,,1.23708,,1.070980,,148.509,,12.82980,,13.11780,,1.383920,
+2020-03-06,1.86882,,1.30195,,9.67651,,9.17549,,1.22835,,1.070220,,147.935,,12.89560,,13.10780,,1.392460,
+2020-03-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-09,1.90339,,1.29583,,9.71147,,9.12667,,1.22185,,1.068430,,142.915,,13.30590,,13.15000,,1.399760,
+2020-03-10,1.91370,,1.29929,,9.67820,,9.14219,,1.22362,,1.069120,,143.900,,13.26810,,13.14910,,1.393710,
+2020-03-11,1.91276,,1.30192,,9.67783,,9.17330,,1.22760,,1.077100,,146.119,,13.32660,,13.19300,,1.391610,
+2020-03-12,1.91579,,1.30224,,9.67595,,9.21617,,1.23331,,1.088790,,144.169,,14.02060,,13.25720,,1.386250,
+2020-03-13,1.91577,,1.30732,,9.62779,,9.27523,,1.24114,,1.101030,,144.817,,13.77230,,13.43920,,1.378160,
+2020-03-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-16,1.92513,,1.30061,,9.65764,,9.23421,,1.23567,,1.118390,,147.376,,14.18120,,13.28510,,1.378640,
+2020-03-17,1.93978,,1.31111,,9.58405,,9.31229,,1.24609,,1.129690,,145.850,,14.33780,,13.42310,,1.368450,
+2020-03-18,1.97834,,1.31132,,9.58231,,9.32775,,1.24817,,1.144630,,146.506,,14.60490,,13.58500,,1.364750,
+2020-03-19,1.95361,,1.32070,,9.54690,,9.32523,,1.24783,,1.167820,,146.707,,15.36890,,13.92060,,1.347790,
+2020-03-20,1.93324,,1.32664,,9.51665,,9.40982,,1.25983,,1.147460,,.,No value available,15.27100,,13.81830,,1.348900,
+2020-03-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-23,1.94910,,1.32959,,9.57057,,9.32436,,1.24815,,1.167180,,148.289,,15.29830,,14.04710,,1.345880,
+2020-03-24,1.96298,,1.32021,,9.59030,,9.32845,,1.24931,,1.153850,,149.618,,14.95980,,13.78760,,1.354620,
+2020-03-25,1.93454,,1.32599,,9.59831,,9.33019,,1.24932,,1.138200,,150.319,,14.71010,,13.60080,,1.352640,
+2020-03-26,1.91576,,1.32063,,9.66128,,9.25275,,1.23933,,1.136840,,150.707,,14.28620,,13.70940,,1.360910,
+2020-03-27,1.91961,,1.31420,,9.68636,,9.28203,,1.24413,,1.117810,,148.040,,14.50140,,13.59840,,1.365690,
+2020-03-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-03-30,1.94018,,1.31026,,9.71968,,9.27463,,1.24213,,1.104100,,147.405,,14.51900,,13.63910,,1.370570,
+2020-03-31,1.93624,,1.31758,,9.68007,,9.30215,,1.24571,,1.104160,,148.354,,14.33820,,13.75320,,1.364800,
+2020-04-01,1.94191,,1.31865,,9.70356,,9.32271,,1.24900,,1.103320,,146.945,,14.07430,,13.60960,,1.365910,
+2020-04-02,1.93633,,1.32023,,9.69058,,9.34903,,1.25219,,1.097290,,146.778,,14.06770,,13.65610,,1.365630,
+2020-04-03,1.92101,,1.32625,,9.63614,,9.40716,,1.25950,,1.107110,,146.840,,14.18550,,13.79070,,1.358370,
+2020-04-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-06,1.91875,,1.32847,,.,No value available,9.39708,,1.25866,,1.103340,,147.978,,14.33300,,13.75090,,1.358220,
+2020-04-07,1.90476,,1.32527,,9.61123,,9.34317,,1.25117,,1.108090,,148.257,,13.88120,,13.64200,,1.361900,
+2020-04-08,1.91170,,1.32303,,9.62223,,9.35279,,1.25305,,1.103170,,148.288,,14.02660,,13.75380,,1.362190,
+2020-04-09,1.90559,,1.32397,,9.61723,,.,No value available,1.25389,,1.095560,,148.469,,.,No value available,13.67760,,1.362600,
+2020-04-10,.,No value available,.,No value available,9.62242,,.,No value available,1.25821,,.,No value available,148.488,,.,No value available,.,No value available,1.367290,
+2020-04-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-13,1.90378,,.,No value available,9.62751,,.,No value available,.,No value available,.,No value available,147.893,,.,No value available,.,No value available,1.366090,
+2020-04-14,1.90270,,1.31865,,9.64785,,9.31480,,1.24825,,1.090530,,147.314,,14.12000,,13.62520,,1.368460,
+2020-04-15,1.92501,,1.32001,,9.65232,,9.35515,,1.25342,,1.092980,,146.460,,14.35210,,13.65570,,1.366610,
+2020-04-16,1.92744,,1.31933,,9.65969,,.,No value available,1.25353,,1.092530,,146.980,,14.30850,,13.70740,,1.364850,
+2020-04-17,1.91271,,1.32236,,9.64283,,.,No value available,1.25472,,1.094870,,147.068,,14.15890,,13.66180,,1.362620,
+2020-04-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-20,1.92114,,1.32063,,9.64562,,9.36672,,1.25586,,1.094200,,147.106,,14.15320,,13.64980,,1.363860,
+2020-04-21,1.93372,,1.32159,,9.65046,,9.37005,,1.25633,,1.103530,,146.768,,14.42810,,13.67640,,1.361490,
+2020-04-22,.,No value available,1.31954,,9.65167,,9.35602,,1.25434,,1.102380,,146.996,,14.64760,,13.74530,,1.363100,
+2020-04-23,.,No value available,1.32642,,9.62103,,9.41176,,1.26203,,1.100910,,146.550,,14.53410,,13.76450,,1.359460,
+2020-04-24,1.91582,,1.32625,,9.63011,,.,No value available,1.25898,,1.100440,,146.440,,14.45120,,13.72660,,1.359700,
+2020-04-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-04-27,1.91657,,1.32713,,9.65745,,9.37418,,1.25674,,1.095610,,146.719,,14.39130,,13.63990,,1.363820,
+2020-04-28,1.90925,,1.32895,,9.68007,,9.36426,,1.25576,,1.093330,,146.533,,14.16280,,13.64660,,1.365890,
+2020-04-29,1.89886,,1.32921,,9.65083,,9.38113,,1.25800,,1.100470,,.,No value available,14.18120,,13.43330,,1.363930,
+2020-04-30,1.90066,,1.32602,,9.63902,,9.37040,,1.25635,,1.092250,,145.631,,14.05100,,13.45400,,1.366400,
+2020-05-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,1.090930,,146.650,,.,No value available,.,No value available,1.369280,
+2020-05-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-04,1.92422,,1.31792,,.,No value available,9.31689,,1.24854,,1.101160,,.,No value available,14.14350,,13.53200,,1.366150,
+2020-05-05,1.91240,,1.32329,,.,No value available,9.37814,,1.25693,,1.094690,,.,No value available,14.04360,,13.40760,,1.362880,
+2020-05-06,1.92310,,1.32605,,9.65568,,9.40124,,1.25991,,1.100360,,.,No value available,13.97250,,13.36140,,1.361590,
+2020-05-07,1.90751,,1.32798,,9.64972,,9.41682,,1.26222,,1.100370,,144.625,,13.93550,,13.36020,,1.361050,
+2020-05-08,1.90022,,1.32384,,9.65232,,.,No value available,1.25770,,.,No value available,145.100,,13.92210,,13.34900,,1.363730,
+2020-05-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-11,1.90679,,1.32313,,9.63874,,9.37822,,1.25723,,1.104880,,145.527,,13.88740,,13.30870,,1.360830,
+2020-05-12,1.90855,,1.32168,,9.65605,,9.35331,,1.25418,,1.102710,,146.406,,13.86100,,13.41620,,1.361790,
+2020-05-13,1.91776,,1.32027,,9.66791,,9.34239,,1.25307,,1.108400,,146.111,,13.70610,,13.33560,,1.362720,
+2020-05-14,1.91444,,1.32381,,9.64357,,9.38879,,1.25901,,1.114170,,145.207,,13.92440,,13.36790,,1.358730,
+2020-05-15,1.91593,,1.32221,,9.64934,,9.38861,,1.25893,,1.114390,,146.026,,13.91980,,13.33480,,1.359390,
+2020-05-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-18,.,No value available,1.32041,,9.66361,,9.34763,,1.25391,,1.120190,,145.481,,13.75080,,13.33580,,1.358240,
+2020-05-19,1.89705,,1.32567,,9.70723,,9.29791,,1.24700,,1.114760,,146.651,,13.61140,,13.20370,,1.365470,
+2020-05-20,1.89658,,1.31915,,9.70525,,9.28988,,1.24588,,1.112700,,147.418,,13.55070,,13.20220,,1.365230,
+2020-05-21,1.90336,,.,No value available,9.69678,,.,No value available,1.24171,,1.116920,,147.147,,.,No value available,.,No value available,1.365890,
+2020-05-22,1.90866,,1.32367,,9.71676,,.,No value available,1.24896,,1.117610,,146.728,,13.62340,,13.18030,,1.361870,
+2020-05-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-26,1.88399,,1.32107,,9.73937,,9.27171,,1.24357,,1.108890,,147.059,,13.54790,,13.16180,,1.364820,
+2020-05-27,1.88368,,1.32473,,9.78732,,9.27592,,1.24371,,1.108110,,146.976,,13.46730,,13.16990,,1.366970,
+2020-05-28,1.87956,,.,No value available,9.77240,,9.24061,,1.23962,,1.115840,,147.303,,13.45640,,13.11730,,1.365560,
+2020-05-29,1.89160,,1.31940,,9.80488,,9.18400,,1.23206,,1.113290,,146.998,,13.29140,,12.99060,,1.372020,
+2020-05-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-05-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-01,1.86901,,.,No value available,9.75791,,.,No value available,1.23358,,1.107540,,147.752,,.,No value available,12.86080,,1.371250,
+2020-06-02,1.85947,,1.32337,,9.79307,,9.17819,,1.23130,,1.095430,,147.987,,13.15000,,12.89370,,1.375850,
+2020-06-03,1.85859,,1.32589,,9.78263,,9.16565,,1.22953,,1.093500,,149.538,,13.12850,,12.75620,,1.376330,
+2020-06-04,1.85807,,1.32065,,9.79403,,9.11610,,1.22270,,1.097440,,149.933,,12.96650,,12.83910,,1.375530,
+2020-06-05,1.85540,,1.32326,,9.79633,,.,No value available,1.21945,,1.093460,,150.778,,12.85340,,12.64370,,1.381640,
+2020-06-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-08,1.84642,,1.32876,,9.76267,,9.11494,,1.22257,,1.091730,,151.019,,12.78850,,12.68760,,1.379670,
+2020-06-09,1.85389,,1.31767,,9.78148,,9.11876,,1.22289,,1.092280,,149.300,,12.89150,,12.77520,,1.381130,
+2020-06-10,1.85694,,1.31199,,9.80527,,9.08926,,1.21917,,1.085950,,149.082,,12.84800,,12.73130,,1.386810,
+2020-06-11,1.87921,,1.30677,,9.80758,,9.10888,,1.22186,,1.093120,,148.223,,13.09830,,12.78470,,1.386560,
+2020-06-12,1.87972,,1.30907,,9.78474,,9.11810,,1.22307,,1.095660,,147.726,,13.26720,,12.85010,,1.382550,
+2020-06-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-15,1.87647,,1.31197,,9.78646,,9.13918,,1.22576,,1.102470,,147.894,,13.34780,,12.95690,,1.379350,
+2020-06-16,1.87598,,1.31041,,9.80056,,9.12350,,1.22362,,1.093860,,148.482,,13.14030,,12.83810,,1.383670,
+2020-06-17,1.87040,,1.31059,,9.78186,,9.15977,,1.22851,,1.097830,,148.114,,13.15120,,12.88000,,1.379860,
+2020-06-18,1.87582,,1.30944,,9.76992,,9.17095,,1.23008,,1.102770,,147.426,,13.17200,,12.88890,,1.380390,
+2020-06-19,1.87148,,1.30950,,9.74963,,9.16070,,1.22873,,1.112420,,147.272,,13.16400,,.,No value available,1.377400,
+2020-06-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-22,.,No value available,1.30893,,9.75068,,9.16011,,1.22884,,1.112640,,147.256,,13.26960,,12.98320,,1.377900,
+2020-06-23,1.86724,,.,No value available,9.76143,,9.09819,,1.22063,,1.109550,,148.028,,.,No value available,12.88500,,1.381510,
+2020-06-24,1.87999,,1.30649,,9.78426,,9.13960,,1.22630,,1.104760,,147.387,,13.23880,,12.85840,,1.383260,
+2020-06-25,1.87954,,1.30810,,.,No value available,9.16666,,1.22987,,1.107010,,147.525,,13.37450,,12.88930,,1.377450,
+2020-06-26,1.88502,,1.30591,,.,No value available,9.16061,,1.22924,,1.110400,,147.634,,13.38030,,.,No value available,1.378340,
+2020-06-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-06-29,.,No value available,1.30292,,9.76601,,9.11336,,1.22277,,1.120080,,147.939,,13.32970,,12.84620,,1.379770,
+2020-06-30,1.87480,,1.30760,,9.72356,,9.15566,,1.22852,,1.121140,,148.190,,13.40560,,12.86140,,1.375700,
+2020-07-01,.,No value available,1.30457,,9.72630,,9.16347,,1.22953,,1.110050,,148.297,,13.24650,,12.82940,,1.377070,
+2020-07-02,1.87596,,1.30293,,9.75277,,9.11552,,1.22347,,1.104070,,148.409,,13.07560,,12.79910,,1.380810,
+2020-07-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-07,1.87624,,1.30410,,9.69838,,9.11768,,1.22349,,1.105500,,148.243,,13.02130,,12.83420,,1.381320,
+2020-07-08,1.87122,,1.30127,,9.69970,,9.12317,,1.22470,,1.102850,,148.821,,13.09030,,12.75620,,1.382200,
+2020-07-09,1.87808,,1.30121,,9.68532,,9.10125,,1.22159,,1.096270,,148.639,,12.96990,,12.71220,,1.385520,
+2020-07-10,.,No value available,1.30347,,9.70243,,.,No value available,1.22779,,1.097600,,148.068,,.,No value available,12.79440,,1.384460,
+2020-07-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-13,1.87973,,1.30495,,9.69942,,9.10490,,1.22298,,1.099140,,148.015,,13.04310,,12.72180,,1.385520,
+2020-07-14,1.88667,,1.30200,,9.72280,,9.06865,,1.21813,,1.106600,,148.594,,13.04750,,12.73310,,1.385620,
+2020-07-15,1.88174,,1.30772,,9.72450,,9.04707,,1.21495,,1.101160,,149.160,,12.91180,,12.62500,,1.390380,
+2020-07-16,1.87892,,1.31232,,9.70883,,9.04969,,1.21550,,1.107070,,148.380,,12.90230,,12.61680,,1.387370,
+2020-07-17,1.88526,,1.30707,,9.72157,,9.04855,,1.21533,,1.106280,,148.971,,12.88180,,12.60500,,1.388880,
+2020-07-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-20,1.88304,,1.30511,,9.71827,,9.04584,,1.21455,,1.103150,,149.469,,12.88150,,12.54610,,1.390410,
+2020-07-21,1.86970,,1.30362,,9.72441,,9.04691,,1.21518,,1.094820,,149.092,,12.75130,,12.45620,,1.390530,
+2020-07-22,1.87313,,1.30149,,9.77488,,8.97424,,1.20554,,1.099510,,149.152,,12.69950,,12.40310,,1.395770,
+2020-07-23,1.86964,,1.29438,,9.76715,,8.98174,,1.20675,,1.098160,,.,No value available,12.80030,,12.37020,,1.396090,
+2020-07-24,1.87441,,1.29181,,9.80546,,8.95600,,1.20316,,1.096860,,.,No value available,12.86810,,12.39340,,1.396630,
+2020-07-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-07-27,1.87943,,1.29254,,9.83642,,8.89221,,1.19461,,1.091330,,148.663,,12.74450,,12.37110,,1.404860,
+2020-07-28,1.87962,,1.29105,,9.84940,,8.92825,,1.19957,,1.091130,,148.045,,12.82820,,12.32890,,1.405530,
+2020-07-29,1.87947,,1.29052,,9.84329,,8.92985,,1.19982,,1.085070,,147.628,,12.78690,,12.29870,,1.406790,
+2020-07-30,1.88996,,1.28668,,9.85134,,8.91782,,1.19821,,1.081190,,147.854,,12.84630,,12.34370,,1.407060,
+2020-07-31,1.89408,,1.28356,,9.87099,,8.87847,,1.19266,,1.075560,,147.736,,12.80000,,12.22810,,1.413070,
+2020-08-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-03,.,No value available,1.29062,,9.80565,,8.92674,,1.19876,,1.080120,,149.282,,12.84940,,12.34730,,1.405670,
+2020-08-04,1.88195,,1.28860,,9.83284,,8.90742,,1.19624,,1.079860,,149.351,,12.86780,,12.27140,,1.407380,
+2020-08-05,1.87258,,1.28526,,9.81528,,8.87508,,1.19115,,1.075920,,149.106,,12.69590,,12.29240,,1.411990,
+2020-08-06,1.87794,,1.28363,,9.81441,,8.88762,,1.19297,,1.072650,,149.097,,12.70980,,12.26400,,1.412840,
+2020-08-07,1.88740,,1.28945,,9.82077,,8.89308,,1.19398,,1.078900,,148.966,,12.70790,,12.28230,,1.410930,
+2020-08-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-10,1.87862,,1.29185,,9.80046,,8.90718,,1.19594,,1.080070,,.,No value available,12.71170,,12.30910,,1.406780,
+2020-08-11,1.87355,,1.28545,,9.80094,,8.90892,,1.19633,,1.076970,,149.647,,12.64020,,12.32830,,1.409640,
+2020-08-12,1.86607,,1.28558,,9.78139,,8.90750,,1.19610,,1.079410,,150.085,,12.61440,,12.32840,,1.407930,
+2020-08-13,1.86505,,1.28438,,9.79854,,8.88115,,1.19251,,1.077130,,150.507,,12.53900,,12.24660,,1.411100,
+2020-08-14,1.86782,,1.28330,,9.79432,,8.88676,,1.19333,,1.075720,,150.779,,12.57800,,12.27860,,1.409680,
+2020-08-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-17,1.86455,,1.28155,,9.79921,,8.86997,,1.19108,,1.078810,,150.398,,12.52060,,12.26010,,1.411790,
+2020-08-18,1.86436,,1.28162,,9.80584,,8.85395,,1.18899,,1.075690,,149.701,,12.48560,,12.27120,,1.415610,
+2020-08-19,1.86797,,1.28060,,9.81085,,8.84885,,1.18851,,1.072880,,149.199,,12.53340,,12.26810,,1.418240,
+2020-08-20,1.86392,,1.28716,,9.77250,,8.87508,,1.19207,,1.075980,,149.862,,12.64400,,12.29210,,1.412600,
+2020-08-21,.,No value available,1.28653,,9.75572,,8.92865,,1.19942,,1.073300,,149.164,,12.70340,,12.32580,,1.411600,
+2020-08-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-24,1.86570,,1.28489,,9.76782,,8.87571,,1.19242,,1.076970,,149.445,,12.66210,,12.39430,,1.412660,
+2020-08-25,1.86258,,1.28386,,9.75562,,8.89308,,1.19493,,1.075240,,149.639,,12.62900,,12.38020,,1.411690,
+2020-08-26,1.85771,,1.28345,,9.73947,,8.91687,,1.19787,,1.073650,,150.326,,12.65000,,12.38600,,1.412170,
+2020-08-27,1.85424,,1.28472,,9.71072,,8.90369,,1.19627,,1.070870,,149.593,,12.58220,,12.32070,,1.412320,
+2020-08-28,1.85767,,1.28130,,9.74051,,8.86140,,1.19042,,1.066180,,151.271,,12.46370,,12.28200,,1.418390,
+2020-08-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-08-31,1.85055,,1.28376,,9.72819,,8.84603,,1.18837,,.,No value available,149.511,,12.42440,,12.26210,,1.418910,
+2020-09-01,1.85843,,1.28709,,9.70638,,8.83962,,1.18757,,1.056940,,150.710,,12.39560,,12.26960,,1.423540,
+2020-09-02,1.85191,,1.29033,,9.67399,,8.89134,,1.19488,,1.060490,,150.242,,12.43390,,12.34000,,1.417250,
+2020-09-03,1.85531,,1.28888,,9.65941,,8.90432,,1.19681,,1.066850,,150.187,,12.60420,,12.34760,,1.413790,
+2020-09-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-08,1.86220,,1.29504,,9.64367,,8.91321,,1.19790,,1.080750,,150.066,,12.78320,,12.38690,,1.411720,
+2020-09-09,1.85604,,1.29463,,9.64748,,8.90440,,1.19678,,1.089780,,149.281,,12.82350,,12.43220,,1.408970,
+2020-09-10,1.86008,,1.28448,,9.66856,,8.87406,,1.19269,,1.085340,,150.084,,12.74630,,12.36650,,1.413220,
+2020-09-11,.,No value available,1.28452,,9.65475,,8.86407,,1.19138,,1.100830,,149.911,,12.75110,,12.36390,,1.412260,
+2020-09-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-14,1.86281,,1.28191,,9.65652,,8.85747,,1.19055,,1.097830,,150.085,,12.73090,,12.38560,,1.413900,
+2020-09-15,1.86657,,1.28277,,9.60781,,8.86250,,1.19126,,1.097110,,149.711,,12.74200,,12.40920,,1.416640,
+2020-09-16,1.86570,,1.28366,,9.58212,,8.88092,,1.19373,,1.092730,,149.165,,12.72620,,12.43870,,1.416840,
+2020-09-17,1.86649,,1.28823,,9.56956,,8.91719,,1.19862,,1.091100,,148.542,,12.85380,,12.48230,,1.414010,
+2020-09-18,1.86798,,1.28864,,9.57588,,8.90750,,1.19719,,1.091270,,148.492,,12.87440,,12.43550,,1.416640,
+2020-09-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-21,1.87868,,1.29125,,9.56727,,8.92164,,1.19902,,1.098890,,.,No value available,13.05010,,12.39150,,1.413290,
+2020-09-22,1.87919,,1.29108,,9.59481,,8.94951,,1.20261,,1.098130,,.,No value available,13.17200,,12.54300,,1.411870,
+2020-09-23,1.88048,,1.29577,,9.56050,,8.96146,,1.20403,,1.106330,,147.997,,13.23680,,12.57490,,1.407750,
+2020-09-24,1.87787,,1.29909,,9.57790,,8.97400,,1.20577,,1.100930,,148.037,,13.38690,,12.69380,,1.404120,
+2020-09-25,1.88007,,1.30199,,9.56453,,8.98295,,1.20634,,1.105000,,148.107,,13.44410,,12.76040,,1.403460,
+2020-09-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-09-28,1.88174,,1.30258,,9.59849,,8.97465,,1.20531,,1.090210,,148.241,,13.32830,,12.81810,,1.406590,
+2020-09-29,1.88448,,1.29814,,9.59803,,8.95464,,1.20259,,1.093920,,148.425,,13.29380,,12.72180,,1.407280,
+2020-09-30,1.87756,,1.29778,,9.58359,,8.95207,,1.20223,,1.096880,,148.907,,13.34580,,12.65170,,1.407570,
+2020-10-01,1.87487,,1.29507,,.,No value available,8.93232,,1.20024,,1.098840,,148.867,,13.09140,,12.60950,,1.410520,
+2020-10-02,1.87682,,1.29868,,.,No value available,8.94542,,1.20212,,1.092150,,148.848,,13.10780,,12.58190,,1.410080,
+2020-10-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-05,1.87347,,1.29395,,.,No value available,8.92642,,1.19979,,1.090490,,149.070,,13.06040,,12.58340,,1.411910,
+2020-10-06,1.87526,,1.29292,,.,No value available,8.91345,,1.19792,,1.092380,,149.278,,13.00970,,12.57100,,1.412940,
+2020-10-07,1.87335,,1.29476,,.,No value available,8.92276,,1.19897,,1.096880,,149.092,,13.10620,,12.61830,,1.411190,
+2020-10-08,1.86601,,1.29591,,.,No value available,8.92889,,1.19975,,1.094150,,149.620,,13.08190,,12.51630,,1.411510,
+2020-10-09,1.85821,,1.29075,,9.49947,,8.92554,,1.19932,,1.093580,,149.890,,13.02730,,12.51990,,1.414600,
+2020-10-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-13,1.85789,,1.28856,,9.54973,,8.93336,,1.20020,,1.083420,,149.064,,12.95290,,12.47560,,1.414670,
+2020-10-14,1.85483,,1.29142,,9.51384,,8.94334,,1.20144,,1.090070,,148.835,,13.00170,,12.47090,,1.411700,
+2020-10-15,1.86743,,1.28977,,9.49541,,8.98077,,1.20663,,1.089510,,148.548,,13.23410,,12.75940,,1.411520,
+2020-10-16,1.86188,,1.29056,,9.45796,,8.94598,,1.20209,,1.095020,,148.546,,13.17130,,12.50520,,1.411370,
+2020-10-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-19,1.86237,,1.28888,,9.48020,,8.93200,,1.20037,,1.088560,,149.089,,13.14040,,12.49690,,1.414640,
+2020-10-20,1.86017,,1.28497,,9.46333,,8.92268,,1.19887,,1.092910,,149.473,,13.15140,,12.51440,,1.415870,
+2020-10-21,1.86359,,1.28336,,9.44760,,8.91902,,1.19828,,1.086690,,149.448,,13.09890,,12.39070,,1.420200,
+2020-10-22,1.86441,,1.28751,,9.45680,,8.92993,,1.20012,,1.082830,,148.492,,13.12040,,12.39380,,1.418670,
+2020-10-23,1.86536,,1.28403,,9.47149,,8.90932,,1.19737,,1.085740,,148.661,,13.07270,,12.44270,,1.419610,
+2020-10-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-10-26,1.87088,,1.28514,,9.49091,,8.92284,,1.19911,,1.085580,,148.639,,13.12610,,12.43840,,1.417230,
+2020-10-27,1.86620,,1.28723,,9.51348,,8.91488,,1.19815,,1.086240,,148.556,,12.98770,,12.40970,,1.417650,
+2020-10-28,1.87982,,1.28819,,9.48605,,8.96990,,1.20507,,1.091010,,147.282,,13.21880,,12.39890,,1.413190,
+2020-10-29,1.88486,,1.28851,,9.46853,,8.98319,,1.20642,,1.091010,,147.398,,13.45090,,12.51150,,1.411990,
+2020-10-30,1.88002,,1.29370,,9.45555,,8.98610,,1.20674,,1.087220,,147.629,,13.38760,,12.58220,,1.411640,
+2020-10-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-02,1.86887,,1.29314,,9.44180,,9.00795,,1.20986,,1.092220,,147.654,,13.44480,,12.58880,,1.409720,
+2020-11-03,1.85718,,1.29233,,9.45546,,8.99022,,1.20735,,1.087770,,.,No value available,13.29330,,12.54560,,1.412840,
+2020-11-04,1.85693,,1.28931,,9.49217,,8.97964,,1.20587,,1.085400,,148.266,,13.21430,,12.53890,,1.413400,
+2020-11-05,1.85277,,1.28797,,9.42694,,8.91742,,1.19750,,1.085970,,148.040,,12.99300,,12.42910,,1.419640,
+2020-11-06,1.85717,,1.28217,,9.43281,,8.93855,,1.19993,,1.084740,,147.687,,13.10350,,12.39370,,1.424310,
+2020-11-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-09,1.84809,,1.28348,,9.36014,,8.93041,,1.19911,,1.082010,,147.235,,12.84260,,12.28990,,1.424900,
+2020-11-10,1.84844,,1.30031,,9.39091,,8.95263,,1.20259,,1.070580,,149.244,,12.82180,,12.24080,,1.420020,
+2020-11-11,.,No value available,1.30225,,9.37040,,8.97094,,1.20526,,1.068780,,149.100,,12.86890,,12.24470,,1.418110,
+2020-11-12,1.86227,,1.29797,,9.41026,,8.96138,,1.20353,,1.078460,,149.402,,12.95700,,12.25340,,1.419090,
+2020-11-13,1.86663,,1.29942,,9.39417,,8.94879,,1.20170,,1.078230,,148.967,,12.99320,,12.27530,,1.419820,
+2020-11-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-16,1.86008,,1.29915,,9.35034,,8.94983,,1.20164,,1.076560,,148.807,,12.89480,,12.28780,,1.421540,
+2020-11-17,1.86636,,1.29729,,9.35716,,8.93455,,1.19959,,1.074080,,148.921,,12.91760,,12.27700,,1.425360,
+2020-11-18,1.86228,,1.29809,,9.32784,,8.95103,,1.20123,,1.073630,,148.364,,12.86690,,12.24260,,1.425620,
+2020-11-19,.,No value available,1.29819,,9.36102,,8.96146,,1.20292,,1.073700,,147.795,,12.85920,,12.29440,,1.423290,
+2020-11-20,.,No value available,1.29922,,9.37040,,8.95103,,1.20166,,1.073600,,148.069,,12.81120,,12.26440,,1.425520,
+2020-11-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-23,1.86766,,1.29610,,9.38183,,8.93368,,1.19961,,1.067770,,.,No value available,12.82420,,12.27510,,1.427660,
+2020-11-24,1.85659,,1.30052,,9.37128,,8.93551,,1.20062,,1.068060,,148.949,,12.81880,,12.23660,,1.424530,
+2020-11-25,1.85328,,1.30078,,9.37576,,8.92077,,1.19872,,1.069340,,148.941,,12.64500,,12.15000,,1.425270,
+2020-11-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-11-30,1.85411,,1.29166,,9.41673,,8.88289,,1.19373,,1.070790,,148.544,,12.60700,,12.12900,,1.430090,
+2020-12-01,1.85084,,1.29439,,9.37726,,8.88841,,1.19402,,1.072340,,148.988,,12.66000,,12.17980,,1.429000,
+2020-12-02,1.85218,,1.28775,,9.40230,,8.83447,,1.18683,,1.073120,,149.418,,12.69930,,12.19960,,1.432030,
+2020-12-03,1.85052,,1.28207,,9.42223,,8.80173,,1.18240,,1.068920,,150.067,,12.65990,,12.17190,,1.436740,
+2020-12-04,1.84243,,1.28090,,9.40256,,8.81034,,1.18372,,1.068870,,149.398,,12.61820,,12.14980,,1.439290,
+2020-12-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-07,1.83664,,1.27923,,9.37471,,8.80553,,1.18302,,1.082390,,149.330,,12.57880,,12.19650,,1.434760,
+2020-12-08,1.83874,,1.27763,,9.38324,,8.82130,,1.18509,,1.078320,,149.376,,12.59550,,12.08240,,1.435620,
+2020-12-09,1.83982,,1.27701,,9.38553,,8.83283,,1.18674,,1.067750,,149.666,,12.55130,,12.14100,,1.437030,
+2020-12-10,1.82539,,1.27458,,9.39241,,8.80584,,1.18323,,1.081550,,149.469,,12.66050,,12.14560,,1.433480,
+2020-12-11,1.83167,,1.27517,,9.37928,,8.80398,,1.18287,,1.088120,,149.199,,12.65280,,12.13470,,1.434460,
+2020-12-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-14,1.83525,,1.27426,,9.40858,,8.80305,,1.18288,,1.091270,,149.631,,12.51870,,12.10680,,1.438620,
+2020-12-15,1.82940,,1.27384,,9.41877,,8.81585,,1.18450,,1.074800,,149.694,,12.57230,,12.10250,,1.437980,
+2020-12-16,1.83887,,1.27349,,9.43254,,8.80297,,1.18296,,1.065480,,149.526,,12.51430,,12.03260,,1.441910,
+2020-12-17,1.83712,,1.27629,,9.43779,,8.77578,,1.17957,,1.061470,,149.073,,12.38740,,11.99820,,1.444500,
+2020-12-18,1.84467,,1.27503,,9.44644,,8.76263,,1.17789,,1.067000,,149.090,,12.38700,,11.92940,,1.443970,
+2020-12-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-21,1.84647,,1.27682,,9.41168,,8.78326,,1.18053,,1.082690,,148.563,,12.57470,,11.98820,,1.437060,
+2020-12-22,1.86134,,1.27639,,9.44367,,8.76601,,1.17821,,1.075640,,149.147,,12.48170,,11.93190,,1.442010,
+2020-12-23,1.85161,,1.28162,,9.41203,,8.80553,,1.18385,,1.073230,,149.255,,12.57700,,11.96140,,1.440270,
+2020-12-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2020-12-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-04,1.84734,,1.27471,,9.37102,,8.76370,,1.17826,,1.059830,,149.341,,12.30570,,11.86280,,1.448780,
+2021-01-05,1.83992,,1.27362,,9.35760,,8.77755,,1.17998,,1.065340,,149.342,,12.35600,,11.89410,,1.447960,
+2021-01-06,1.84019,,1.27131,,9.36382,,8.74707,,1.17578,,1.062890,,149.130,,12.20570,,.,No value available,1.450680,
+2021-01-07,1.83650,,1.27718,,9.33297,,8.75833,,1.17731,,1.065400,,148.848,,.,No value available,11.83320,,1.445260,
+2021-01-08,1.83609,,1.27782,,9.34649,,8.77347,,1.17973,,1.063330,,150.052,,12.13510,,11.88250,,1.445170,
+2021-01-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-11,1.84177,,1.28195,,9.33045,,8.80646,,1.18411,,1.067910,,.,No value available,12.27690,,11.90140,,1.440240,
+2021-01-12,1.83658,,1.28212,,9.31047,,8.81360,,1.18486,,1.060390,,150.157,,12.29470,,11.93430,,1.440910,
+2021-01-13,1.83302,,1.28189,,9.31793,,8.81850,,1.18542,,1.054880,,149.511,,12.25610,,11.91230,,1.442190,
+2021-01-14,1.82435,,1.28248,,9.32097,,8.84635,,1.18914,,1.056320,,149.852,,12.26110,,12.00780,,1.441720,
+2021-01-15,1.83320,,1.27843,,9.31810,,8.83900,,1.18815,,1.056050,,149.557,,12.25400,,12.01340,,1.440400,
+2021-01-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-19,1.83370,,1.27855,,9.34562,,8.82940,,1.18686,,1.057700,,149.749,,12.27480,,12.03450,,1.439900,
+2021-01-20,1.82290,,1.28148,,9.31255,,8.85355,,1.19027,,1.053160,,149.681,,12.28720,,12.02450,,1.440350,
+2021-01-21,1.82148,,1.27880,,9.32323,,8.82683,,1.18649,,1.051560,,149.345,,12.16300,,12.02330,,1.442530,
+2021-01-22,1.83423,,1.27629,,9.33995,,8.82753,,1.18643,,1.055310,,149.410,,12.25670,,11.95480,,1.442460,
+2021-01-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-25,1.83651,,1.27776,,9.33541,,8.82776,,1.18644,,1.053150,,149.683,,12.27700,,11.92040,,1.441760,
+2021-01-26,1.83054,,1.28067,,9.33454,,8.82870,,1.18681,,1.054040,,149.518,,12.32770,,11.97050,,1.441140,
+2021-01-27,1.84025,,1.27968,,9.31350,,8.84447,,1.18913,,1.050240,,149.352,,12.43290,,11.97170,,1.440510,
+2021-01-28,1.84292,,1.28105,,9.32758,,8.84877,,1.18986,,1.054350,,150.023,,12.51790,,12.04600,,1.438660,
+2021-01-29,1.84135,,1.28080,,9.30960,,8.82924,,1.18721,,1.050300,,150.535,,12.27940,,12.05140,,1.440800,
+2021-01-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-01-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-01,1.84447,,1.28756,,9.29195,,8.85230,,1.19025,,1.049120,,150.561,,12.36550,,12.04360,,1.438300,
+2021-02-02,1.84053,,1.28965,,9.27644,,8.86674,,1.19221,,1.050210,,150.625,,12.33490,,12.05920,,1.435890,
+2021-02-03,1.83431,,1.28988,,9.26750,,8.88107,,1.19411,,1.052750,,150.699,,12.36370,,12.05750,,1.434960,
+2021-02-04,1.83858,,1.29315,,9.25866,,8.88518,,1.19478,,1.053590,,150.520,,12.35160,,12.07630,,1.433250,
+2021-02-05,1.83126,,1.29487,,9.28143,,.,No value available,1.19607,,1.047040,,151.265,,.,No value available,12.10780,,1.433250,
+2021-02-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-08,1.83100,,1.29310,,9.27102,,8.87887,,1.19396,,1.049290,,151.485,,12.26500,,12.05090,,1.435740,
+2021-02-09,1.83292,,1.28754,,9.29385,,8.85434,,1.19059,,1.046040,,151.199,,12.21390,,12.07790,,1.441080,
+2021-02-10,1.82997,,1.28490,,9.28428,,8.84455,,1.18922,,1.042410,,150.865,,12.16340,,11.95340,,1.442170,
+2021-02-11,1.82983,,1.28409,,.,No value available,8.83221,,1.18745,,1.043250,,.,No value available,12.18260,,12.00480,,1.442400,
+2021-02-12,1.83133,,1.28608,,.,No value available,8.84838,,1.18991,,1.045310,,151.062,,12.23830,,12.01180,,1.440750,
+2021-02-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-16,1.83180,,1.28207,,.,No value available,8.84463,,1.18931,,1.037080,,152.318,,12.12360,,11.94240,,1.444180,
+2021-02-17,1.82831,,1.28789,,.,No value available,8.86902,,1.19259,,1.037630,,152.671,,12.17790,,11.95880,,1.438260,
+2021-02-18,1.82755,,1.29128,,9.30847,,8.85818,,1.19122,,1.032390,,152.181,,12.17160,,11.97180,,1.439470,
+2021-02-19,1.82010,,1.29026,,9.32384,,8.83986,,1.18866,,1.030730,,152.531,,12.13570,,11.97580,,1.442920,
+2021-02-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-22,1.81940,,1.29557,,9.33036,,8.84126,,1.18889,,1.028730,,152.153,,12.26760,,11.97690,,1.442480,
+2021-02-23,1.81984,,1.30001,,9.32966,,8.84314,,1.18914,,1.024890,,.,No value available,12.27070,,11.96970,,1.443970,
+2021-02-24,1.81282,,1.31079,,9.33254,,8.84525,,1.18945,,1.022040,,152.417,,12.18990,,11.95830,,1.444710,
+2021-02-25,1.81265,,1.31060,,9.33219,,8.79987,,1.18336,,1.023380,,153.418,,12.10280,,11.93860,,1.446650,
+2021-02-26,1.82572,,1.30405,,9.30691,,8.82979,,1.18742,,1.033590,,152.894,,12.35050,,11.95900,,1.439270,
+2021-02-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-02-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-01,1.81902,,1.31136,,9.28660,,8.86360,,1.19199,,1.030640,,152.981,,12.34910,,12.11560,,1.436710,
+2021-03-02,.,No value available,1.31700,,9.29420,,8.87666,,1.19373,,1.030990,,153.417,,12.24230,,12.14940,,1.435810,
+2021-03-03,1.81538,,1.31917,,9.28402,,8.87075,,1.19293,,1.030170,,153.569,,12.22170,,12.05730,,1.437240,
+2021-03-04,1.81440,,1.32710,,9.28755,,8.87201,,1.19311,,1.029870,,153.687,,12.24070,,12.10480,,1.435790,
+2021-03-05,.,No value available,1.32619,,9.25343,,8.90052,,1.19690,,1.034240,,154.145,,12.22160,,12.19470,,1.428860,
+2021-03-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-08,1.80458,,1.33113,,9.29887,,8.93280,,1.20126,,1.030370,,154.444,,12.22710,,12.19500,,1.425420,
+2021-03-09,1.80365,,1.32929,,9.30752,,8.92538,,1.20019,,1.029060,,155.755,,12.10260,,12.20060,,1.427510,
+2021-03-10,1.80316,,1.32922,,9.28574,,8.92291,,1.19988,,1.028840,,155.260,,12.09630,,12.16550,,1.426890,
+2021-03-11,1.79825,,1.32439,,9.29990,,8.89490,,1.19610,,1.025770,,155.344,,12.06980,,12.09490,,1.431610,
+2021-03-12,1.78427,,1.32974,,9.28238,,8.90068,,1.19687,,1.028490,,155.319,,12.07190,,12.13200,,1.428220,
+2021-03-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-15,1.78274,,1.32734,,9.29238,,8.91139,,1.19839,,1.027020,,155.775,,12.10220,,12.16760,,1.428480,
+2021-03-16,1.78033,,1.32256,,9.29428,,8.91250,,1.19857,,1.031020,,156.077,,12.10880,,12.16980,,1.429410,
+2021-03-17,1.77897,,1.32463,,9.28031,,8.91281,,1.19860,,1.026970,,155.747,,12.13140,,12.15840,,1.427170,
+2021-03-18,1.78117,,1.32630,,9.29688,,8.92499,,1.20025,,1.024500,,155.784,,12.12950,,12.12220,,1.429740,
+2021-03-19,1.78562,,1.32522,,9.28367,,8.92929,,1.20075,,1.026430,,155.760,,12.24980,,12.13900,,1.427810,
+2021-03-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-22,1.78814,,1.32135,,9.30172,,8.91011,,1.19825,,1.030080,,155.621,,12.14930,,12.23810,,1.429030,
+2021-03-23,1.79182,,1.32589,,9.28772,,8.92586,,1.20036,,1.035340,,155.262,,12.21750,,12.20580,,1.426380,
+2021-03-24,1.78819,,1.33110,,9.28824,,8.95143,,1.20380,,1.038060,,154.633,,12.22600,,12.26630,,1.423490,
+2021-03-25,1.79172,,1.32972,,9.28954,,8.95520,,1.20431,,1.037500,,154.754,,12.24220,,12.24860,,1.421330,
+2021-03-26,1.78648,,1.33638,,9.29325,,8.96282,,1.20531,,1.030890,,155.216,,12.20470,,12.28000,,1.420100,
+2021-03-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-03-29,1.78855,,1.33466,,9.31116,,8.96162,,1.20516,,1.026900,,155.720,,12.14050,,12.29620,,1.420160,
+2021-03-30,1.78967,,1.33471,,9.31177,,8.97473,,1.20679,,1.030310,,155.829,,12.14190,,12.34340,,1.416890,
+2021-03-31,1.78214,,1.33650,,9.29731,,8.98949,,1.20871,,1.029650,,156.885,,12.08160,,12.36360,,1.417210,
+2021-04-01,1.77998,,1.34019,,9.30917,,.,No value available,1.20604,,1.028400,,156.947,,.,No value available,12.38640,,1.416620,
+2021-04-02,.,No value available,.,No value available,9.30631,,.,No value available,.,No value available,1.026110,,156.911,,.,No value available,.,No value available,1.418340,
+2021-04-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-05,1.77657,,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,156.849,,.,No value available,.,No value available,1.418420,
+2021-04-06,1.78439,,1.33364,,9.30233,,8.94662,,1.20285,,1.027260,,156.686,,12.12090,,12.37120,,1.420800,
+2021-04-07,1.79785,,1.32392,,9.32175,,8.91671,,1.19905,,1.031370,,156.416,,12.05460,,12.28900,,1.424950,
+2021-04-08,1.79022,,1.32164,,9.31966,,8.91536,,1.19867,,1.035680,,156.308,,12.08020,,12.24090,,1.423180,
+2021-04-09,.,No value available,1.31796,,9.33506,,8.90520,,1.19738,,1.037800,,155.554,,12.10910,,12.18100,,1.423440,
+2021-04-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-12,1.78945,,1.31640,,9.34274,,8.90575,,1.19751,,1.035800,,156.422,,12.08770,,12.21630,,1.425520,
+2021-04-13,1.78835,,1.31818,,9.32975,,8.90615,,1.19748,,1.037260,,156.071,,12.17540,,12.21510,,1.424520,
+2021-04-14,1.78962,,1.31676,,9.33576,,8.87642,,1.19352,,1.037890,,155.387,,12.02410,,12.12100,,1.427930,
+2021-04-15,1.79003,,1.31960,,9.33306,,8.87619,,1.19348,,1.037920,,155.546,,11.98650,,12.06780,,1.428600,
+2021-04-16,1.78799,,1.31400,,9.32436,,8.87288,,1.19310,,1.037090,,155.660,,11.95250,,12.07390,,1.430050,
+2021-04-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-19,1.79564,,1.30991,,9.33323,,8.86273,,1.19180,,1.030450,,155.812,,11.88620,,12.09190,,1.434340,
+2021-04-20,1.80400,,1.31346,,9.31958,,8.85481,,1.19072,,1.027080,,155.245,,11.90300,,12.01350,,1.434930,
+2021-04-21,1.79504,,1.31585,,9.31116,,8.87760,,1.19380,,1.028660,,154.907,,11.98850,,12.10570,,1.433390,
+2021-04-22,1.79370,,1.31313,,9.30804,,8.85873,,1.19123,,1.032340,,155.019,,11.96890,,12.05190,,1.434960,
+2021-04-23,1.79252,,1.31328,,9.32140,,8.84549,,1.18952,,1.033390,,154.867,,11.94640,,12.06580,,1.435280,
+2021-04-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-04-26,1.78369,,1.31420,,9.32262,,8.84259,,1.18914,,1.033790,,155.031,,11.93390,,12.03100,,1.437070,
+2021-04-27,1.78138,,1.31194,,9.31237,,8.83525,,1.18816,,1.032460,,155.474,,11.89030,,12.04640,,1.436250,
+2021-04-28,1.77274,,1.31231,,9.30501,,8.83822,,1.18857,,1.034590,,156.257,,11.86130,,12.04220,,1.434610,
+2021-04-29,1.76727,,1.30756,,9.29878,,8.81453,,1.18538,,1.031190,,.,No value available,11.75240,,11.99810,,1.437740,
+2021-04-30,1.76411,,1.30596,,9.29861,,8.80375,,1.18853,,1.032190,,156.451,,11.82980,,12.04000,,1.435990,
+2021-05-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-03,1.76049,,1.30764,,.,No value available,8.85246,,1.19042,,.,No value available,.,No value available,11.92330,,12.11240,,1.433740,
+2021-05-04,1.76337,,1.30975,,.,No value available,8.85747,,1.19115,,1.031730,,.,No value available,11.92620,,12.11270,,1.431890,
+2021-05-05,1.75806,,1.30902,,.,No value available,8.87351,,1.19332,,1.029630,,.,No value available,11.91500,,12.17920,,1.432580,
+2021-05-06,1.74908,,1.30292,,9.28436,,8.83978,,1.18878,,1.033020,,156.701,,11.95410,,12.14570,,1.433670,
+2021-05-07,1.74530,,1.30517,,9.27756,,8.85340,,1.19061,,1.032020,,156.684,,11.92090,,12.07420,,1.435750,
+2021-05-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-10,.,No value available,1.29810,,9.27162,,8.81414,,1.18531,,1.023130,,157.021,,11.85410,,12.00880,,1.442410,
+2021-05-11,1.74429,,1.30094,,9.26758,,8.81104,,1.18491,,1.020840,,157.038,,11.88700,,12.04350,,1.442040,
+2021-05-12,.,No value available,1.30265,,9.27833,,8.83884,,1.18866,,1.018470,,156.790,,11.91790,,11.98990,,1.440420,
+2021-05-13,.,No value available,1.29853,,9.26655,,.,No value available,1.18854,,1.023940,,157.386,,.,No value available,.,No value available,1.435870,
+2021-05-14,1.74212,,1.30159,,9.25300,,.,No value available,1.18675,,1.022390,,157.681,,11.87630,,12.05830,,1.438700,
+2021-05-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-17,1.74098,,1.29741,,9.28023,,8.82511,,1.18677,,1.022340,,157.699,,.,No value available,12.02950,,1.441090,
+2021-05-18,1.74033,,1.29719,,9.28203,,8.78665,,1.18158,,1.017640,,157.699,,11.83060,,11.98600,,1.444130,
+2021-05-19,1.74648,,1.30106,,9.28281,,8.78889,,1.18193,,1.019120,,157.314,,11.94440,,11.96070,,1.443380,
+2021-05-20,1.74137,,1.30004,,9.28393,,8.79183,,1.18227,,1.020970,,157.589,,12.03260,,12.01880,,1.442730,
+2021-05-21,.,No value available,1.29578,,9.29869,,8.81609,,1.18557,,1.016410,,157.300,,12.02410,,11.99910,,1.444980,
+2021-05-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-24,.,No value available,.,No value available,9.28462,,.,No value available,1.18230,,1.022030,,157.334,,.,No value available,12.00090,,1.443820,
+2021-05-25,1.74355,,1.29446,,9.26389,,8.76808,,1.17913,,1.021320,,157.378,,12.02310,,11.95410,,1.446090,
+2021-05-26,1.75160,,1.29403,,9.24787,,8.79507,,1.18277,,1.020570,,157.369,,12.03820,,11.97960,,1.446410,
+2021-05-27,.,No value available,1.29738,,9.21175,,8.80716,,1.18435,,1.022770,,157.758,,12.07480,,12.00460,,1.444670,
+2021-05-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-05-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-01,1.73982,,1.29937,,9.20819,,8.79028,,1.18203,,1.018990,,158.086,,11.95180,,11.95430,,1.445030,
+2021-06-02,1.73830,,1.30077,,9.21447,,8.80181,,1.18360,,1.021190,,158.109,,12.00080,,11.93010,,1.442330,
+2021-06-03,1.74683,,1.29861,,9.23148,,8.80700,,1.18430,,1.017810,,158.200,,12.02070,,11.96050,,1.443300,
+2021-06-04,1.73866,,1.30155,,9.21829,,8.83065,,1.18743,,1.019130,,158.628,,12.05950,,12.00230,,1.438810,
+2021-06-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-07,1.74096,,1.29718,,9.22118,,8.81788,,1.18568,,1.019140,,157.974,,11.91400,,11.95090,,1.442030,
+2021-06-08,1.74540,,1.29321,,9.22594,,8.80762,,1.18440,,1.020110,,157.846,,11.90080,,11.93280,,1.442840,
+2021-06-09,1.74636,,1.29313,,9.23046,,8.80483,,1.18398,,1.018670,,158.031,,11.90120,,11.94600,,1.443870,
+2021-06-10,.,No value available,1.29202,,9.21600,,8.80972,,1.18468,,1.023180,,158.097,,11.97930,,11.94030,,1.442230,
+2021-06-11,1.75183,,1.29253,,9.21336,,8.84408,,1.18934,,1.018380,,157.763,,11.99180,,11.89380,,1.442070,
+2021-06-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-14,.,No value available,1.29289,,.,No value available,8.83869,,1.18863,,1.020430,,158.032,,11.98470,,11.97500,,1.439670,
+2021-06-15,.,No value available,1.29403,,9.21311,,8.83876,,1.18861,,1.021770,,158.424,,11.98400,,11.95700,,1.439170,
+2021-06-16,1.75512,,.,No value available,9.21014,,8.83072,,1.18747,,1.019830,,158.510,,12.01810,,12.00150,,1.439690,
+2021-06-17,1.76391,,1.30760,,9.18890,,8.90472,,1.19738,,1.024820,,158.196,,12.21000,,12.15800,,1.429310,
+2021-06-18,1.77434,,1.31265,,9.20446,,8.92969,,1.20082,,1.027680,,157.575,,12.35250,,12.23200,,1.428730,
+2021-06-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-21,1.76634,,1.31444,,9.23012,,8.92483,,1.20016,,1.028250,,157.310,,12.32240,,12.31150,,1.427110,
+2021-06-22,1.76256,,1.31271,,9.23284,,8.91822,,1.19932,,1.027570,,157.455,,12.25690,,12.19020,,1.426480,
+2021-06-23,1.75527,,1.31170,,9.25720,,8.88881,,1.19535,,1.022880,,158.213,,12.15960,,12.11400,,1.428560,
+2021-06-24,1.75979,,1.31241,,9.25258,,8.90195,,1.19711,,1.025230,,158.690,,12.17940,,12.10490,,1.428870,
+2021-06-25,1.75673,,1.30997,,9.21871,,8.89197,,1.19576,,1.027970,,158.582,,12.12020,,.,No value available,1.428930,
+2021-06-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-06-28,1.76218,,1.31167,,9.22416,,8.92045,,1.19949,,1.026960,,158.132,,12.20640,,12.10140,,1.428600,
+2021-06-29,1.76694,,1.31400,,9.21167,,8.92499,,1.20019,,1.030960,,157.689,,12.22920,,12.17110,,1.426790,
+2021-06-30,1.76791,,1.31645,,9.21311,,8.92554,,1.20029,,1.028940,,157.620,,12.20900,,12.13930,,1.426420,
+2021-07-01,.,No value available,1.31727,,9.20217,,8.90980,,1.19819,,1.032540,,158.184,,12.23410,,12.18770,,1.423930,
+2021-07-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-06,1.77258,,1.31434,,9.20031,,8.94638,,1.20309,,1.028460,,157.889,,12.28960,,12.14560,,1.424220,
+2021-07-07,1.77549,,1.31472,,9.20132,,8.94550,,1.20297,,1.029540,,157.268,,12.32750,,12.21710,,1.423240,
+2021-07-08,1.78530,,1.30573,,9.22577,,8.94358,,1.20264,,1.033830,,157.402,,12.52400,,12.29240,,1.423680,
+2021-07-09,1.77739,,1.30291,,9.24009,,8.93463,,1.20142,,1.031680,,156.569,,12.41730,,12.25540,,1.424650,
+2021-07-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-12,1.77674,,1.30538,,9.22450,,8.94039,,1.20208,,1.028330,,156.945,,12.41500,,12.23250,,1.424700,
+2021-07-13,1.78308,,1.30482,,9.21073,,8.94815,,1.20303,,1.028260,,157.277,,12.40150,,12.22080,,1.424870,
+2021-07-14,1.77803,,1.30795,,9.21328,,8.95857,,1.20451,,1.026340,,157.429,,12.44490,,12.30790,,1.422760,
+2021-07-15,1.79098,,1.30370,,9.20276,,8.97223,,1.20635,,1.026650,,156.575,,12.52230,,12.30730,,1.424580,
+2021-07-16,1.79157,,1.30893,,9.20353,,8.96628,,1.20545,,1.030510,,156.338,,12.52190,,12.34550,,1.422670,
+2021-07-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-19,1.81263,,1.30865,,9.21031,,8.98045,,1.20743,,1.036680,,156.089,,12.72390,,12.37790,,1.420670,
+2021-07-20,1.80872,,1.30632,,9.21209,,8.97529,,1.20665,,1.043310,,155.567,,12.81110,,12.35870,,1.420830,
+2021-07-21,1.78746,,1.30897,,9.19075,,8.97183,,1.20613,,1.043710,,156.142,,12.76190,,12.39700,,1.419860,
+2021-07-22,1.78701,,1.30617,,9.19388,,8.98255,,1.20763,,1.033270,,.,No value available,12.53470,,12.36140,,1.421990,
+2021-07-23,1.78588,,1.30849,,9.19912,,8.97731,,1.20692,,1.033920,,.,No value available,12.55980,,12.33790,,1.420190,
+2021-07-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-07-26,1.78401,,1.30506,,9.21701,,8.97006,,1.20610,,1.031360,,156.948,,12.57600,,12.31720,,1.421630,
+2021-07-27,1.78759,,1.30332,,9.24684,,8.94975,,1.20339,,1.030460,,156.688,,12.56620,,12.29840,,1.421210,
+2021-07-28,1.78794,,1.30140,,9.25378,,8.96258,,1.20508,,1.025180,,156.313,,12.63270,,12.28470,,1.422840,
+2021-07-29,1.77723,,1.29752,,9.22731,,.,No value available,1.20230,,1.022490,,156.667,,.,No value available,12.25520,,1.427490,
+2021-07-30,1.78053,,1.29325,,9.22526,,8.93711,,1.20156,,1.022890,,156.450,,12.54490,,12.22770,,1.428770,
+2021-07-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-02,.,No value available,1.29186,,9.22526,,8.93543,,1.20130,,1.027240,,156.551,,12.55540,,12.25990,,1.427870,
+2021-08-03,1.79193,,1.28935,,9.23438,,8.93895,,1.20186,,1.025050,,156.125,,12.54060,,12.26360,,1.428410,
+2021-08-04,1.79050,,1.29146,,9.21973,,8.94879,,1.20333,,1.024820,,155.629,,12.58080,,12.25590,,1.427260,
+2021-08-05,1.78277,,1.29282,,9.21812,,8.95247,,1.20384,,1.025050,,156.422,,12.56940,,12.26910,,1.426560,
+2021-08-06,1.78744,,1.29372,,9.20734,,8.97127,,1.20628,,1.023910,,156.483,,12.57300,,12.27580,,1.424250,
+2021-08-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-09,1.78607,,1.30327,,9.20598,,8.98852,,1.20863,,1.024040,,.,No value available,12.67660,,12.31500,,1.421470,
+2021-08-10,1.78039,,1.30846,,9.20141,,9.00804,,1.21120,,1.024290,,156.643,,12.67880,,12.36700,,1.419770,
+2021-08-11,1.77394,,1.30989,,9.19980,,9.00293,,1.21051,,1.026540,,156.982,,12.65560,,12.38180,,1.418470,
+2021-08-12,1.77806,,1.30976,,9.19836,,8.99742,,1.20979,,1.025320,,156.716,,12.55220,,12.33490,,1.420180,
+2021-08-13,1.77743,,1.30949,,9.20387,,8.97843,,1.20727,,1.028940,,156.878,,12.52580,,12.34060,,1.420350,
+2021-08-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-16,.,No value available,1.30039,,9.21948,,.,No value available,1.20891,,1.026790,,155.819,,.,No value available,.,No value available,1.423130,
+2021-08-17,.,No value available,1.29577,,9.21583,,.,No value available,1.20837,,1.030950,,155.413,,.,No value available,.,No value available,1.421890,
+2021-08-18,1.79213,,1.29876,,9.19549,,9.00155,,1.21040,,1.031810,,155.474,,12.61470,,12.38760,,1.418950,
+2021-08-19,1.81336,,1.30027,,9.20378,,9.01364,,1.21202,,1.035630,,155.905,,12.78070,,12.42790,,1.417580,
+2021-08-20,1.82069,,1.29825,,9.20471,,9.02413,,1.21345,,1.039700,,155.586,,12.86250,,12.49330,,1.416220,
+2021-08-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-23,1.79891,,1.30003,,9.20632,,9.00252,,1.21051,,1.037200,,155.805,,12.69460,,12.46440,,1.418470,
+2021-08-24,1.79001,,1.29686,,9.19608,,8.99378,,1.20932,,1.034870,,155.830,,12.57730,,12.36220,,1.419740,
+2021-08-25,1.79210,,1.29760,,9.19599,,8.99896,,1.21009,,1.035030,,155.990,,12.56830,,12.34050,,1.420160,
+2021-08-26,1.79782,,1.30108,,9.21217,,8.98118,,1.20769,,1.034420,,156.320,,12.51350,,12.35510,,1.421090,
+2021-08-27,1.79429,,1.30336,,9.19921,,8.97892,,1.20746,,1.036030,,156.210,,12.50620,,12.36190,,1.420090,
+2021-08-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-08-30,1.79291,,1.30133,,9.20056,,8.96411,,1.20549,,.,No value available,156.117,,12.34370,,12.30000,,1.422600,
+2021-08-31,1.79698,,1.30170,,9.20073,,8.94943,,1.20353,,1.034390,,156.483,,12.34820,,12.23780,,1.424260,
+2021-09-01,1.79428,,1.30447,,9.20039,,8.95600,,1.20440,,1.034260,,156.927,,12.36110,,12.29440,,1.423240,
+2021-09-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-07,1.79973,,1.30313,,9.20954,,8.94095,,1.20235,,1.033960,,156.573,,12.38300,,12.19130,,1.425980,
+2021-09-08,1.80421,,1.31082,,9.19811,,8.94895,,1.20346,,1.034020,,156.951,,12.35350,,12.23540,,1.423330,
+2021-09-09,1.80283,,1.30987,,9.19921,,8.94943,,1.20350,,1.031500,,157.003,,12.35380,,12.28680,,1.424710,
+2021-09-10,1.80073,,1.30845,,9.18156,,8.95303,,1.20399,,1.027670,,156.507,,12.28400,,12.25550,,1.425640,
+2021-09-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-13,.,No value available,.,No value available,9.17920,,.,No value available,1.20756,,1.028680,,156.419,,.,No value available,.,No value available,1.422510,
+2021-09-14,1.80306,,1.31338,,9.17507,,8.96379,,1.20544,,1.026830,,156.751,,12.26470,,12.22550,,1.424110,
+2021-09-15,1.80403,,1.30700,,9.17903,,8.96813,,1.20602,,1.031390,,156.347,,12.23120,,12.25450,,1.426000,
+2021-09-16,1.80361,,1.31577,,9.17145,,8.99596,,1.20979,,1.029420,,155.684,,12.25440,,12.24060,,1.423070,
+2021-09-17,1.80965,,1.31936,,9.17869,,8.97980,,1.20761,,1.031370,,156.198,,12.22200,,12.24920,,1.422570,
+2021-09-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-20,1.81998,,1.32022,,.,No value available,9.00844,,1.21148,,1.036010,,.,No value available,12.40920,,12.36530,,1.418760,
+2021-09-21,1.81734,,1.31271,,.,No value available,8.99370,,1.20948,,1.037320,,155.526,,12.31590,,12.31520,,1.419680,
+2021-09-22,1.81069,,1.30883,,9.18181,,8.99936,,1.21023,,1.040600,,155.036,,12.25580,,12.30380,,1.419480,
+2021-09-23,1.79547,,1.31194,,9.17355,,9.00730,,1.21127,,1.037130,,.,No value available,12.21690,,12.29880,,1.419010,
+2021-09-24,1.79934,,1.30942,,9.17027,,9.00439,,1.21089,,1.036170,,156.662,,12.21670,,12.25390,,1.419040,
+2021-09-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-09-27,1.79158,,1.31324,,9.15877,,9.01193,,1.21194,,1.034830,,157.084,,12.19880,,12.28880,,1.417720,
+2021-09-28,1.79465,,1.31372,,9.13776,,9.01218,,1.21197,,1.040540,,157.145,,12.24340,,12.34930,,1.415340,
+2021-09-29,1.80099,,1.31240,,9.14311,,9.01925,,1.21292,,1.046680,,157.794,,12.30260,,12.34290,,1.413540,
+2021-09-30,.,No value available,1.31934,,9.10606,,9.04781,,1.21675,,1.048660,,157.667,,12.36820,,12.38550,,1.408870,
+2021-10-01,1.78634,,1.31660,,.,No value available,9.05084,,1.21696,,1.044680,,157.261,,12.19450,,12.39330,,1.411680,
+2021-10-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-04,1.77834,,1.31174,,.,No value available,9.03326,,1.21458,,1.039910,,156.832,,12.11790,,12.37360,,1.413290,
+2021-10-05,1.77644,,1.30998,,.,No value available,9.05649,,1.21761,,1.036860,,156.694,,12.07330,,12.34920,,1.412680,
+2021-10-06,1.77779,,1.31019,,.,No value available,9.08529,,1.22119,,1.038450,,157.328,,12.11780,,12.37700,,1.409490,
+2021-10-07,1.77185,,1.30652,,.,No value available,9.07911,,1.22032,,1.037870,,157.150,,12.12850,,12.39000,,1.410930,
+2021-10-08,1.76104,,1.31062,,9.09753,,9.07482,,1.21952,,1.035190,,157.622,,12.05560,,12.41000,,1.410870,
+2021-10-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-12,1.75575,,1.30804,,9.09761,,9.07326,,1.21938,,1.034850,,159.893,,12.02410,,12.34900,,1.408990,
+2021-10-13,1.75398,,1.30706,,9.08612,,9.07005,,1.21898,,1.034490,,159.937,,12.01360,,12.36160,,1.409380,
+2021-10-14,1.74741,,1.29940,,9.09099,,9.05797,,1.21737,,1.030230,,160.137,,11.92140,,12.22950,,1.412390,
+2021-10-15,1.74777,,1.30395,,9.07647,,9.05428,,1.21693,,1.027160,,160.800,,11.88030,,12.17750,,1.411880,
+2021-10-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-18,1.74626,,1.30585,,9.07869,,9.04756,,1.21606,,1.027910,,161.249,,11.87400,,12.20100,,1.411120,
+2021-10-19,1.74962,,1.30135,,9.06331,,9.03906,,1.21484,,1.024040,,161.610,,11.82530,,12.18760,,1.415890,
+2021-10-20,1.74318,,1.30487,,9.03971,,9.05084,,1.21645,,1.027460,,161.961,,11.85250,,12.18930,,1.413890,
+2021-10-21,1.74739,,1.29989,,9.05354,,9.04593,,1.21576,,1.024980,,161.652,,11.80080,,12.15670,,1.414780,
+2021-10-22,1.74852,,1.29700,,9.04372,,9.05281,,1.21669,,1.026370,,161.339,,.,No value available,12.13760,,1.415010,
+2021-10-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-25,1.75095,,1.30010,,9.02535,,9.06947,,1.21904,,1.027130,,160.838,,11.83670,,12.12700,,1.414460,
+2021-10-26,1.75095,,1.30027,,9.03106,,9.05920,,1.21776,,1.023140,,161.216,,11.79130,,12.19170,,1.414800,
+2021-10-27,1.74557,,1.29900,,9.01925,,9.04552,,1.21589,,1.030040,,161.237,,11.83890,,12.15260,,1.412500,
+2021-10-28,1.74553,,1.29823,,9.03865,,9.07029,,1.21927,,1.027180,,160.573,,11.88400,,12.13600,,1.413500,
+2021-10-29,1.75281,,1.28948,,9.04486,,9.04159,,1.21544,,1.026830,,160.858,,11.85000,,12.05830,,1.415380,
+2021-10-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-10-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-01,1.74490,,1.28815,,9.03334,,9.06536,,1.21854,,1.031490,,161.003,,11.86460,,12.11660,,1.410820,
+2021-11-02,1.75181,,1.28893,,9.03800,,9.05559,,1.21718,,1.034340,,161.143,,11.91860,,12.03610,,1.412290,
+2021-11-03,1.75284,,.,No value available,9.03367,,9.06881,,1.21925,,1.033950,,.,No value available,12.02300,,12.08020,,1.411650,
+2021-11-04,1.75471,,.,No value available,9.01413,,9.06175,,1.21835,,1.037210,,160.896,,12.01170,,12.08450,,1.409510,
+2021-11-05,1.75258,,1.29023,,9.00779,,9.08777,,1.22187,,1.047030,,160.128,,12.08160,,12.08810,,1.407470,
+2021-11-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-08,1.75561,,1.29058,,9.02242,,9.05937,,1.21793,,1.043350,,160.189,,12.02640,,12.11120,,1.410240,
+2021-11-09,1.75710,,1.29129,,9.02772,,9.06857,,1.21927,,1.040160,,159.859,,12.01660,,12.07660,,1.411550,
+2021-11-10,1.75507,,1.28846,,9.01055,,9.06988,,1.21947,,1.043740,,159.058,,12.05420,,12.11620,,1.409470,
+2021-11-11,.,No value available,.,No value available,8.99661,,9.11644,,1.22579,,1.048400,,160.072,,12.22050,,12.25890,,1.404750,
+2021-11-12,1.76463,,1.29605,,8.97779,,9.12342,,1.22677,,1.048570,,160.439,,12.20740,,12.26350,,1.404400,
+2021-11-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-15,1.75855,,1.29226,,8.96531,,9.13067,,1.22766,,1.045340,,160.134,,12.17500,,12.27630,,1.404930,
+2021-11-16,1.75849,,1.29953,,8.93935,,9.16632,,1.23257,,1.041970,,160.002,,12.18560,,12.31230,,1.401190,
+2021-11-17,1.76246,,1.30201,,8.93735,,9.19599,,1.23659,,1.040050,,160.713,,12.22930,,12.42910,,1.399330,
+2021-11-18,1.76707,,1.29816,,8.93368,,9.18147,,1.23470,,1.038600,,159.925,,12.28810,,12.40750,,1.400760,
+2021-11-19,1.76758,,1.29586,,8.92754,,9.22739,,1.24081,,1.039630,,159.892,,12.46810,,12.44710,,1.398520,
+2021-11-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-22,1.77222,,1.29653,,8.92092,,9.21625,,1.23927,,1.040000,,159.458,,12.48130,,12.51350,,1.397650,
+2021-11-23,1.77232,,1.30131,,8.90385,,9.21209,,1.23880,,1.044140,,.,No value available,12.47590,,12.54300,,1.394760,
+2021-11-24,1.76705,,1.30476,,8.90535,,9.25052,,1.24389,,1.042290,,160.564,,12.47130,,12.61640,,1.393900,
+2021-11-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-11-29,.,No value available,1.29158,,8.92618,,9.22033,,1.23984,,1.047850,,158.957,,12.66370,,12.79460,,1.398040,
+2021-11-30,1.79190,,1.28712,,8.92530,,9.16792,,1.23277,,1.049950,,159.411,,12.67230,,12.64690,,1.400800,
+2021-12-01,1.78800,,1.28810,,8.90924,,9.19836,,1.23696,,1.050440,,158.703,,12.64110,,12.63820,,1.399500,
+2021-12-02,1.79476,,1.28742,,8.92937,,9.18468,,1.23513,,1.050730,,158.202,,12.71710,,12.71640,,1.400510,
+2021-12-03,1.79186,,1.28621,,8.90813,,9.21107,,1.23867,,1.054340,,158.222,,12.74280,,12.73300,,1.398580,
+2021-12-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-06,1.78663,,1.28950,,8.90869,,9.21031,,1.23858,,1.052740,,158.042,,12.75030,,12.77420,,1.397990,
+2021-12-07,1.76762,,1.29172,,8.89079,,9.22416,,1.24043,,1.053520,,158.751,,12.63990,,12.65890,,1.396230,
+2021-12-08,1.76630,,1.29168,,8.87989,,9.19523,,1.23654,,1.057420,,158.551,,12.48410,,12.68160,,1.397170,
+2021-12-09,1.77521,,1.28954,,8.86698,,9.18957,,1.23579,,1.060140,,159.000,,12.54940,,12.66620,,1.397800,
+2021-12-10,1.77481,,1.29104,,8.88857,,9.20836,,1.23831,,1.057620,,158.357,,12.54850,,12.65820,,1.395950,
+2021-12-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-13,.,No value available,.,No value available,8.88897,,.,No value available,1.23862,,1.053400,,158.619,,.,No value available,.,No value available,1.396910,
+2021-12-14,.,No value available,1.28587,,8.89981,,9.19701,,1.23678,,1.055530,,158.960,,12.67400,,12.72630,,1.398680,
+2021-12-15,.,No value available,.,No value available,8.88865,,.,No value available,1.24004,,1.053190,,158.898,,.,No value available,.,No value available,1.396540,
+2021-12-16,1.78667,,1.29346,,8.89941,,9.16935,,1.23307,,1.048300,,159.532,,12.51050,,12.67820,,1.397810,
+2021-12-17,1.79652,,1.28606,,8.91170,,9.17911,,1.23434,,1.052540,,159.220,,12.56350,,12.64220,,1.398500,
+2021-12-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-20,1.80644,,1.28922,,8.90282,,9.20751,,1.23817,,1.057300,,158.548,,12.61880,,12.76450,,1.395790,
+2021-12-21,1.80568,,1.28823,,8.90004,,9.19616,,1.23668,,1.054490,,158.750,,12.55080,,12.75360,,1.396830,
+2021-12-22,1.79808,,1.28982,,8.90797,,9.19667,,1.23675,,1.049680,,159.556,,12.44330,,12.78990,,1.397650,
+2021-12-23,.,No value available,1.28791,,8.91599,,9.20217,,1.23748,,1.041830,,159.848,,12.38880,,12.75930,,1.399590,
+2021-12-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2021-12-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-03,.,No value available,1.27784,,.,No value available,9.17726,,1.23380,,.,No value available,.,No value available,12.33960,,12.67950,,1.400980,
+2022-01-04,1.77475,,1.28302,,8.90321,,9.20946,,1.23820,,1.034840,,161.191,,12.39910,,12.70260,,1.396560,
+2022-01-05,1.77928,,1.28035,,8.91528,,9.19456,,1.23610,,1.033260,,162.580,,12.32040,,12.68680,,1.399140,
+2022-01-06,1.78171,,1.28346,,8.91369,,9.19413,,1.23589,,1.033020,,162.271,,12.40220,,.,No value available,1.398410,
+2022-01-07,1.77093,,1.28933,,8.91115,,9.20488,,1.23754,,1.031790,,162.035,,12.41110,,12.75630,,1.398180,
+2022-01-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-10,1.77499,,1.29068,,8.92124,,9.20031,,1.23691,,1.030620,,.,No value available,12.40040,,12.73040,,1.399940,
+2022-01-11,1.76531,,1.29731,,8.92403,,9.19135,,1.23534,,1.030900,,161.491,,12.37370,,12.70720,,1.400380,
+2022-01-12,1.75373,,1.29469,,8.92212,,9.17490,,1.23295,,1.028170,,161.677,,12.23950,,12.67130,,1.401860,
+2022-01-13,1.75698,,1.28361,,8.95167,,9.13559,,1.22776,,1.025420,,161.371,,12.19570,,12.54390,,1.407390,
+2022-01-14,1.76621,,1.28316,,8.93455,,9.15240,,1.22993,,1.025940,,160.501,,12.28240,,12.56480,,1.407900,
+2022-01-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-18,1.75856,,1.28429,,8.91337,,9.19008,,1.23480,,1.031980,,160.768,,12.30320,,12.68890,,1.403600,
+2022-01-19,1.75167,,1.28451,,8.90797,,9.19802,,1.23599,,1.028710,,160.836,,12.28170,,12.81020,,1.402230,
+2022-01-20,1.74935,,1.28382,,8.89458,,9.20548,,1.23690,,1.030720,,160.266,,12.31680,,12.77100,,1.402390,
+2022-01-21,1.75884,,1.28026,,8.89039,,9.19591,,1.23548,,1.034130,,159.592,,12.41940,,12.87100,,1.402020,
+2022-01-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-24,1.77299,,1.27819,,8.87028,,9.22433,,1.23931,,1.038640,,159.466,,12.59600,,12.89220,,1.400910,
+2022-01-25,1.76665,,1.28718,,8.85355,,9.24112,,1.24146,,1.040370,,159.444,,12.58660,,12.97240,,1.398880,
+2022-01-26,1.76450,,1.28845,,8.85105,,9.23728,,1.24123,,1.035950,,159.303,,12.42650,,12.96010,,1.399730,
+2022-01-27,1.76957,,1.29551,,8.85504,,9.28384,,1.24735,,1.039930,,159.626,,12.46140,,13.02790,,1.392040,
+2022-01-28,1.77624,,1.29595,,8.85089,,9.29385,,1.24863,,1.038710,,160.546,,12.51880,,13.12420,,1.390730,
+2022-01-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-01-31,1.77021,,1.29986,,.,No value available,9.28428,,1.24756,,1.038330,,160.653,,12.48620,,13.05640,,1.391780,
+2022-02-01,1.77457,,1.28752,,.,No value available,9.23788,,1.24153,,1.035910,,160.975,,12.37030,,12.98260,,1.397960,
+2022-02-02,1.77568,,1.28774,,.,No value available,9.20158,,1.23705,,1.032590,,160.662,,12.27500,,12.91250,,1.400710,
+2022-02-03,.,No value available,1.29089,,.,No value available,.,No value available,1.23975,,1.028700,,160.137,,12.34110,,12.88300,,1.399180,
+2022-02-04,1.79456,,1.29795,,.,No value available,9.13275,,1.22698,,1.036260,,161.761,,.,No value available,12.80130,,1.406620,
+2022-02-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-02-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-02-07,1.78220,,1.29718,,8.92881,,9.13476,,1.22708,,1.039550,,161.856,,12.35150,,12.84830,,1.404630,
+2022-02-08,1.78390,,1.29543,,8.94278,,9.15885,,1.23041,,1.036360,,161.827,,,,12.82500,,1.403650,
+2022-02-09,1.78029,,1.29661,,8.93272,,9.13960,,1.22782,,1.034040,,162.206,,,,12.82050,,1.404010,
+2022-02-10,1.78046,,1.29856,,8.92562,,9.13167,,1.22731,,1.034660,,162.280,,,,12.81550,,1.403920,
+"","Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",

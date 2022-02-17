@@ -1,0 +1,183 @@
+Code,Name,Country_Name,Country_Code
+XDR,Special Drawing Right ,SDR,1
+USD,United States Dollar ,United States,111
+GBP,United Kingdom Pound ,United Kingdom,112
+ATS,Austrian Schilling ,Austria,122
+BEF,Belgian Franc ,Belgium,124
+DKK,Danish Krone ,Denmark,128
+FRF,French Franc ,France,132
+XPF,C.F.P. Franc ,France,132
+DEM,German Mark ,Germany,134
+ITL,Italian Lira ,Italy,136
+LUF,Luxembourg Franc ,Luxembourg,137
+NLG,Dutch Guilder ,Netherlands,138
+NOK,Norwegian Krone ,Norway,142
+SEK,Swedish Krona ,Sweden,144
+CHF,Swiss Franc ,Switzerland,146
+CAD,Canadian Dollar ,Canada,156
+JPY,Japanese Yen ,Japan,158
+EUR,Euro ,Euro area,163
+XEU,European Currency Unit ,European Union,163
+FIM,Finnish Markka ,Finland,172
+GRD,Greek Drachma ,Greece,174
+ISK,Icelandic Krona ,Iceland,176
+IEP,Irish Pound ,Ireland,178
+MTL,Maltese Lira ,Malta,181
+PTE,Portuguese Escudo ,Portugal,182
+ESP,Spanish Peseta ,Spain,184
+TRY,Turkish Lira ,Turkey,186
+YUM,Yugoslavia New Dinar ,Yugoslavia,188
+AUD,Australian Dollar ,Australia,193
+NZD,New Zealand Dollar ,New Zealand,196
+ZAR,South African Rand ,South Africa,199
+ARS,Argentine Peso ,Argentina,213
+BOB,Bolivian Boliviano ,Bolivia,218
+BRL,Brazilian Real ,Brazil,223
+CLP,Chilean Peso ,Chile,228
+COP,Colombian Peso ,Colombia,233
+CRC,Costa Rican Colon ,Costa Rica,238
+DOP,Dominican Peso ,Dominican,243
+ECS,Ecuadorian Sucre ,Ecuador,248
+SVC,Salvadoran Colon ,El Salvador,253
+GTQ,Guatemalan Quetzal ,Guatemala,258
+HTG,Haitian Gourde ,Haiti,263
+HNL,Honduran Lempira ,Honduras,268
+MXN,Mexican Peso ,Mexico,273
+MXV,Mexican Unidad de Inversion ,Mexico,273
+NIO,Nicaraguan Gold Cordoba ,Nicaragua,278
+PAB,Panamanian Balboa ,Panama,283
+PYG,Paraguayan Guarani ,Paraguay,288
+PEN,Peruvian Sol ,Peru,293
+UYU,Uruguayan Peso ,Uruguay,298
+VEB,Venezuelan Bolivar ,Venezuela,299
+VEF,Venezuelan Bolivar Fuerte ,Venezuela,299
+VES,Venezuelan Bolivar Soberano ,Venezuela,299
+XCD,East Caribbean Dollar ,Eastern Caribbean Currency Union (ECCU),309
+BSD,Bahamian Dollar ,"Bahamas, The",313
+AWG,Aruban Guilder ,"Aruba, Kingdom of the Netherlands",314
+BBD,Barbadian Dollar ,Barbados,316
+BMD,Bermudian Dollar ,Bermuda,319
+GYD,Guyanese Dollar ,Guyana,336
+BZD,Belizian Dollar ,Belize,339
+JMD,Jamaican Dollar ,Jamaica,343
+ANG,Netherlands Antillean Guilder ,Netherlands Antilles,353
+SRD,Surinamese Dollar ,Suriname,366
+SRG,Surinamese Guilder ,Suriname,366
+TTD,Trinidad & Tobago Dollar ,Trinidad and Tobago,369
+KYD,Cayman Islands Dollar ,Cayman Islands,377
+BHD,Bahraini Dinar ,"Bahrain, Kingdom of",419
+CYP,Cyprian Pound ,Cyprus,423
+IRR,Iranian Rial ,"Iran, Islamic Rep. of",429
+IQD,Iraqi Dinar ,Iraq,433
+ILS,Israeli Sheqel ,Israel,436
+JOD,Jordanian Dinar ,Jordan,439
+KWD,Kuwaiti Dinar ,Kuwait,443
+LBP,Lebanese Pound ,Lebanon,446
+OMR,Omani Rial ,Oman,449
+QAR,Qatari Riyal ,Qatar,453
+SAR,Saudi Arabian Riyal ,Saudi Arabia,456
+SYP,Syrian Pound ,Syrian Arab Rep.,463
+AED,United Arab Emirates Dirham ,United Arab Emirates,466
+EGP,Egyptian Pound ,Egypt,469
+YER,Yemeni Rial ,"Yemen, Rep. of",474
+AFN,Afghan Afghani ,"Afghanistan, Islamic Rep. of",512
+BDT,Bangladeshi Taka ,Bangladesh,513
+BTN,Bhutanese Ngultrum ,Bhutan,514
+BND,Brunei Darassalam Dollar ,Brunei Darussalam,516
+MMK,Myanmar Kyat ,Myanmar,518
+KHR,Cambodian Riel ,Cambodia,522
+LKR,Sri Lankan Rupee ,Sri Lanka,524
+TWD,Taiwanese Dollar ,Taiwan,528
+HKD,Hong Kong Dollar ,Hong Kong,532
+INR,Indian Rupee ,India,534
+IDR,Indonesian Rupiah ,Indonesia,536
+KRW,South Korean Won ,Korea,542
+LAK,Laotian Kip ,Lao People's Dem. Rep.,544
+MOP,Macao Pataca ,Macao,546
+MYR,Malaysian Ringgit ,Malaysia,548
+MVR,Maldivian Rufiyaa ,Maldives,556
+NPR,Nepalese Rupee ,Nepal,558
+PKR,Pakistani Rupee ,Pakistan,564
+PHP,Philippine Peso ,Philippine,566
+SGD,Singaporean Dollar ,Singapore,576
+THB,Thai Baht ,Thailand,578
+VND,Vietnamese Dong ,Vietnam,582
+DJF,Djiboutian Franc ,Djibouti,611
+DZD,Algerian Dinar ,Algeria,612
+AOA,Angolan Kwanza ,Angola,614
+BWP,Botswana Pula ,Botswana,616
+BIF,Burundian Franc ,Burundi,618
+CVE,Cape Verdean Escudo ,Cape Verde?,624
+XAF,Central African CFA Franc (BEAC),Central African Rep.,626
+KMF,Comoran Franc ,"Comoros, Union of the",632
+CDF,Congo (DRC) Francs,"Congo, Dem. Rep. of the",636
+ERN,Eritrean Nakfa ,"Eritrea, The State of",643
+ETB,Ethiopian Birr ,"Ethiopia, The Federal Dem. Rep. of",644
+GAD,Gambian Dalasi ,"Gambia, The",648
+GHC,Ghanaian Cedi ,Ghana,652
+GNF,Guinean Franc ,Guinea,656
+KES,Kenyan Shilling ,Kenya,664
+LSL,Lesotho Loti ,"Lesotho, Kingdom of",666
+LRD,Liberian Dollar ,Liberia,668
+LYD,Libyan Dinar ,Libya,672
+MGA,Malagasy Ariary ,"Madagascar, Rep. of",674
+MWK,Malawian Kwacha ,Malawi,676
+MRU,Mauritanian Ouguiya ,"Mauritania, Islamic Rep. of",682
+MRO,Mauritanian Ouguiya Old ,"Mauritania, Islamic Rep. of",682
+MUR,Mauritian Rupee ,Mauritius,684
+MAD,Moroccan Dirham ,Morocco,686
+MZN,Mozambican Metical ,"Mozambique, Rep. of",688
+NGN,Nigerian Naira ,Nigeria,694
+ZWL,Zimbabwean Dollar ,Zimbabwe,698
+RWF,Rwandan Franc ,Rwanda,714
+STN,Sao Tome and Principe Dobra ,"Sao Tome and Principe, Dem. Rep. of",716
+STD,Sao Tome and Principe Dobra Old ,"Sao Tome and Principe, Dem. Rep. of",716
+SCR,Seychelles Rupee ,Seychelles,718
+SLL,Sierra Leonean Leone ,Sierra Leone,724
+SOS,Somali Shilling ,Somalia,726
+NAD,Namibian Dollar ,Namibia,728
+SDD,Sudanese Dinar ,Sudan,732
+SSP,South Sudanese Pound ,"South Sudan, Rep. of",733
+SZL,Swazi Lilangeni ,"Eswatini, Kingdom of",734
+TZS,Tanzanian Shilling ,"Tanzania, United Rep. of",738
+TND,Tunisian Dinar ,Tunisia,744
+UGX,Ugandan Shilling ,Uganda,746
+ZMW,Zambian Kwacha ,Zambia,754
+SBD,Solomon Islands Dollar ,Solomon Islands,813
+FJD,Fijian Dollar ,"Fiji, Rep. of",819
+GIP,Gibraltarian Pound ,Gibraltar,823
+VUV,Vanuatuan Vatu ,Vanuatu,846
+PGK,Papua New Guinean Kina ,Papua New Guinea,853
+WST,Samoan Tala ,Samoa,862
+TOP,Tongan Pa'anga ,Tonga,866
+AMA,Armenian Dram ,"Armenia, Rep. of",911
+AZN,Azerbaijanian Manat ,"Azerbaijan, Rep. of",912
+BYR,Belarusian Ruble New ,"Belarus, Rep. of",913
+BYB,Belarusian Ruble Old ,"Belarus, Rep. of",913
+ALL,Albanian Lek ,Albania,914
+GEL,Georgian Lari ,Georgia,915
+KZT,Kazakh Tenge ,"Kazakhstan, Rep. of",916
+KGS,Kyrgyz Som ,Kyrgyz Rep.,917
+BGN,Bulgarian Lev ,Bulgaria,918
+MDL,Moldovan Leu ,"Moldova, Rep. of",921
+RUB,Russian Federation Ruble ,Russia,922
+TJS,Tajik Somoni ,"Tajikistan, Rep. of",923
+CNY,Chinese Yuan Renminbi ,China,924
+TMT,Turkmenian Manat ,Turkmenistan,925
+UAH,Ukrainian Hryvnia ,Ukraine,926
+UZS,Uzbek Som-Coupon ,"Uzbekistan, Rep. of",927
+CUC,Cuban Peso ,Cuba,928
+CZK,Czech Koruna ,Czech Republic,935
+SKK,Slovak Koruna ,Slovak Republic,936
+EEK,Estonian Kroon ,"Estonia, Rep. of",939
+LVL,Latvian Lat ,Latvia,941
+RSD,Serbian Dinar ,"Serbia, Rep. of",942
+HUF,Hungarian Forint ,Hungary,944
+LTL,Lithuanian Lita ,Lithuania,946
+MNT,Mongolian Tugrik ,Mongolia,948
+HRK,Croatian Kuna ,"Croatia, Rep. of",960
+SIT,Slovenian Tolar ,"Slovenia, Rep. of",961
+MKD,North Macedonian Denar ,"North Macedonia, Republic of",962
+BAM,Bosnia-Herzegovina Convertible Mark ,Bosnia and Herzegovina,963
+PLN,Polish Zloty ,Poland,964
+RON,Romanian Leu ,Romania,968

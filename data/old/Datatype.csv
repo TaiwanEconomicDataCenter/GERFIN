@@ -1,0 +1,25 @@
+Name,Symbol,Type,Source,Currency,Full Name,Activity
+Exchange Rate - Bid,EB,Time Series,Datastream,N,Exchange Rate - Bid,Active
+Exchange Rate - Middle,ER,Time Series,Datastream,N,Exchange Rate - Middle,Active
+Exchange Rate - Offered,EO,Time Series,Datastream,N,Exchange Rate - Offered,Active
+"Exchange Rate, middle unpadded",ER#S,Time Series,Datastream,N,"Exchange Rate, middle unpadded",Active
+Default (Not applicable for Advance for Office),DEFT,Time Series,Datastream,Y,Default (Not applicable for Advance for Office),Active
+Exchange Rate - Intraday High,EH,Time Series,Datastream,N,Exchange Rate - Intraday High,Active
+Exchange Rate - Intraday Low,EL,Time Series,Datastream,N,Exchange Rate - Intraday Low,Active
+% Change From Weak Currency,CW,Time Series,Datastream,N,% Change From Weak Currency,Active
+Base Date,BDATE,Static,Datastream,N,Base Date,Active
+Currency,SICUR,Static,Datastream,N,Currency,Active
+Default Datatype (Mainframe),DEF,Static,Datastream,Y,Default Datatype (Mainframe),Active
+Divergence Indicator,DG,Time Series,Datastream,N,Divergence Indicator,Active
+ER: Currency Change % [CR],CR,Time Series,Datastream,N,ER: Currency Change % [CR],Active
+ER: Divergence Change % [DC],DC,Time Series,Datastream,N,ER: Divergence Change % [DC],Active
+ER: Index - Other Than TW [EX],EX,Time Series,Datastream,N,ER: Index - Other Than TW [EX],Active
+Expanded Name (DFO and Charting only),DS.EXPNAME,Static,Datastream,N,Expanded Name (DFO and Charting only),Active
+From Currency (DFO and Charting only),DS.FROMCURR,Static,Datastream,N,From Currency (DFO and Charting only),Active
+Mnemonic,MNEM,Static,Datastream,N,Mnemonic,Active
+Name,NAME,Static,Datastream,N,Name,Active
+Source (DFO and Charting only),DS.SRCE,Static,Datastream,N,Source (DFO and Charting only),Active
+Time - Latest Value,TIME,Static,Datastream,N,Time - Latest Value,Active
+To Currency (DFO and Charting only),DS.TOCURR,Static,Datastream,N,To Currency (DFO and Charting only),Active
+Trade Weighted,TW,Time Series,Datastream,N,Trade Weighted,Active
+Type Of Instrument,TYPE,Static,Datastream,N,Type Of Instrument,Active
