@@ -88,6 +88,22 @@ def CURRENCY_CODE(code):
         return 'not_exists'
 
 FREQNAME = {'D':'daily'}
+table_num_dict = {}
+code_num_dict = {}
+if data_processing:
+    find_unknown = bool(int(input('Check if new items exist (1/0): ')))
+    if find_unknown == False:
+        dealing_start_year = int(input("Dealing with data from year: "))
+        start_year = dealing_start_year-2
+    sys.stdout.write("\n\n")
+    logging.info('Data Processing\n')
+    main_file = pd.DataFrame()
+    merge_file = pd.DataFrame()
+    snl = 1
+    for f in FREQNAME:
+        table_num_dict[f] = 1
+        code_num_dict[f] = 1
+
 FREQLIST = {}
 FREQLIST['D'] = pd.date_range(start = str(start_year)+'-01-01', end = update).strftime('%Y-%m-%d').tolist()
 FREQLIST['D'].reverse()
@@ -102,22 +118,6 @@ for f in FREQNAME:
     DB_name_dict[f] = []
 DB_TABLE = 'DB_'
 DB_CODE = 'data'
-table_num_dict = {}
-code_num_dict = {}
-
-if data_processing:
-    find_unknown = bool(int(input('Check if new items exist (1/0): ')))
-    if find_unknown == False:
-        dealing_start_year = int(input("Dealing with data from year: "))
-        start_year = dealing_start_year-2
-    sys.stdout.write("\n\n")
-    logging.info('Data Processing\n')
-    main_file = pd.DataFrame()
-    merge_file = pd.DataFrame()
-    snl = 1
-    for f in FREQNAME:
-        table_num_dict[f] = 1
-        code_num_dict[f] = 1
 
 merge_file_loaded = False
 if excel_suffix == 'mysql':

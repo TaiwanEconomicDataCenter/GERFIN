@@ -1,93 +1,38 @@
-﻿2022-02-22 10:02:41 AM excel_suffix: UP
+﻿2022-02-22 11:00:02 AM excel_suffix: mysql
 
-2022-02-22 10:02:41 AM merging: False
+2022-02-22 11:00:02 AM merging: False
 
-2022-02-22 10:02:41 AM updating: False
+2022-02-22 11:00:02 AM updating: False
 
-2022-02-22 10:02:41 AM find_unknown: False
+2022-02-22 11:00:02 AM find_unknown: False
 
-2022-02-22 10:02:41 AM dealing_start_year: 1957
+2022-02-22 11:00:02 AM dealing_start_year: 1957
 
-2022-02-22 10:02:45 AM Data Processing
+2022-02-22 11:02:22 AM Process: File Updating
 
-2022-02-22 10:02:45 AM 
+2022-02-22 11:02:22 AM Reading main key: GERFIN_keyUP.xlsx, Time: 139 s
 
-2022-02-22 10:02:45 AM ====== WebDriver manager ======
-2022-02-22 10:02:46 AM Current google-chrome version is 98.0.4758
-2022-02-22 10:02:46 AM Get LATEST chromedriver version for 98.0.4758 google-chrome
-2022-02-22 10:02:48 AM Trying to download new driver from https://chromedriver.storage.googleapis.com/98.0.4758.102/chromedriver_win32.zip
-2022-02-22 10:02:53 AM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\98.0.4758.102]
-2022-02-22 10:02:57 AM Reading file: GERFIN_1 Time: 15 s
+2022-02-22 11:02:23 AM Reading main database: GERFIN_database_1UP, Time: 140 s
 
-2022-02-22 10:02:57 AM Present File Exists. Reading Data From Default Path.
+2022-02-22 11:02:33 AM Reading main database: GERFIN_database_2UP, Time: 150 s
 
-2022-02-22 10:03:07 AM Reading file: GERFIN_2 Time: 25 s
+2022-02-22 11:02:43 AM Reading main database: GERFIN_database_3UP, Time: 160 s
 
-2022-02-22 10:03:07 AM Present File Exists. Reading Data From Default Path.
+2022-02-22 11:02:50 AM Updating file: 0 s
 
-2022-02-22 10:03:11 AM Reading file: GERFIN_3 Time: 29 s
+2022-02-22 11:09:59 AM updated: 99
 
-2022-02-22 10:03:11 AM Present File Exists. Reading Data From Default Path.
+2022-02-22 11:13:41 AM      databank              name   db_table  db_code                                             desc_e  ...                  quote   snl                             source                                form_e   form_c
+0       EIKON   D001SPEDRAWEB.d  DB_D_0001  data001  Exchange Rates: SDR per United States Dollar (...  ...  Special Drawing Right     1                         WM/Reuters      Exchange Rate - Bid, Time Series      NaN
+1       EIKON   D001SPEDRAWEO.d  DB_D_0001  data002  Exchange Rates: SDR per United States Dollar (...  ...  Special Drawing Right     2                         WM/Reuters  Exchange Rate - Offered, Time Series      NaN
+2       EIKON   D001SPEDRAWER.d  DB_D_0001  data003  Exchange Rates: SDR per United States Dollar (...  ...  Special Drawing Right     3                         WM/Reuters   Exchange Rate - Middle, Time Series      NaN
+3      GERFIN  D111REXEURDECB.D  DB_D_0001  data004  Exchange Rate: United States Dollar per Euro (...  ...              US dollar     4  Official ECB & EUROSTAT Reference                 Spot Midpoint eop (D)      NaN
+4      GERFIN   D111REXEURECB.D  DB_D_0001  data005  Exchange Rate: Euro (prior to Dec 1998 ECU) pe...  ...                   Euro     5  Official ECB & EUROSTAT Reference                 Spot Midpoint eop (D)      NaN
+...       ...               ...        ...      ...                                                ...  ...                    ...   ...                                ...                                   ...      ...
+3279    EIKON   D968USRONONEO.d  DB_D_0017  data096  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3280                         WM/Reuters  Exchange Rate - Offered, Time Series  Forward
+3280    EIKON   D968USRONONER.d  DB_D_0017  data097  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3281                         WM/Reuters   Exchange Rate - Middle, Time Series  Forward
+3281    EIKON   D968USRONTNEB.d  DB_D_0017  data098  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3282                         WM/Reuters      Exchange Rate - Bid, Time Series  Forward
+3282    EIKON   D968USRONTNEO.d  DB_D_0017  data099  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3283                         WM/Reuters  Exchange Rate - Offered, Time Series  Forward
+3283    EIKON   D968USRONTNER.d  DB_D_0017  data100  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3284                         WM/Reuters   Exchange Rate - Middle, Time Series  Forward
 
-2022-02-22 10:03:19 AM Reading file: GERFIN_4 Time: 37 s
-
-2022-02-22 10:03:19 AM Present File Exists. Reading Data From Default Path.
-
-2022-02-22 10:03:21 AM Reading file: EIKON_1 Time: 39 s
-
-2022-02-22 10:04:17 AM Reading sheet: Australian Dollar  Time: 95 s
-
-2022-02-22 10:04:27 AM Reading sheet: Botswana Pula  Time: 105 s
-
-2022-02-22 10:04:28 AM Reading sheet: Euro  Time: 106 s
-
-2022-02-22 10:04:41 AM Reading sheet: Irish Pound  Time: 119 s
-
-2022-02-22 10:04:49 AM Reading sheet: New Zealand Dollar  Time: 127 s
-
-2022-02-22 10:04:57 AM Reading sheet: Swiss Franc  Time: 135 s
-
-2022-02-22 10:04:58 AM Reading sheet: United Kingdom Pound  Time: 136 s
-
-2022-02-22 10:05:10 AM Reading sheet: United States Dollar  Time: 148 s
-
-2022-02-22 10:05:12 AM Reading sheet: Albanian Lek  Time: 150 s
-
-2022-02-22 10:05:13 AM Reading sheet: Algerian Dinar  Time: 151 s
-
-2022-02-22 10:05:14 AM Reading sheet: Angolan Kwanza  Time: 152 s
-
-2022-02-22 10:05:15 AM Reading sheet: Argentine Peso  Time: 153 s
-
-2022-02-22 10:05:23 AM Reading sheet: Aruban Guilder  Time: 161 s
-
-2022-02-22 10:05:24 AM Reading sheet: Austrian Schilling  Time: 162 s
-
-2022-02-22 10:05:32 AM Reading sheet: Azerbaijanian Manat  Time: 170 s
-
-2022-02-22 10:05:32 AM Reading sheet: Bahamian Dollar  Time: 170 s
-
-2022-02-22 10:05:33 AM Reading sheet: Bahraini Dinar  Time: 171 s
-
-2022-02-22 10:05:40 AM Reading sheet: Bangladeshi Taka  Time: 178 s
-
-2022-02-22 10:05:41 AM Reading sheet: Barbadian Dollar  Time: 179 s
-
-2022-02-22 10:05:41 AM Reading sheet: Belarusian Ruble New  Time: 179 s
-
-2022-02-22 10:05:42 AM Reading sheet: Belarusian Ruble Old  Time: 180 s
-
-2022-02-22 10:05:43 AM Reading sheet: Belgian Franc  Time: 181 s
-
-2022-02-22 10:05:52 AM Reading sheet: Belizian Dollar  Time: 190 s
-
-2022-02-22 10:05:53 AM Reading sheet: Bermudian Dollar  Time: 191 s
-
-2022-02-22 10:05:54 AM Reading sheet: Bhutanese Ngultrum  Time: 192 s
-
-2022-02-22 10:05:54 AM Reading sheet: Bolivian Boliviano  Time: 192 s
-
-2022-02-22 10:05:55 AM Reading sheet: Bosnia-Herzegovina Convertible Mark  Time: 193 s
-
-2022-02-22 10:05:56 AM Reading sheet: Brazilian Real  Time: 194 s
-
+[3284 rows x 15 columns]
