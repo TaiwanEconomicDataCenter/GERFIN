@@ -24,12 +24,14 @@ from selenium.common.exceptions import UnexpectedAlertPresentException
 import webdriver_manager
 from webdriver_manager.chrome import ChromeDriverManager
 sys.path.append('../TO_DB')
-from TO_DB import SELECT_DF_KEY
+from TO_DB import SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 
 ENCODING = 'utf-8-sig'
 data_path = "./data/"
 out_path = "./output/"
-excel_suffix = input('Output file suffix (If test identity press 0): ')
+excel_suffix = input('Output file suffix or mysql (If test identity press 0): ')
+if excel_suffix.lower().strip() == 'mysql':
+    excel_suffix = 'mysql'
 
 def ERROR(error_text, waiting=False):
     if waiting == True:

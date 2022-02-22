@@ -12,7 +12,7 @@ import webdriver_manager
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime, date
 import GERFIN_concat as CCT
-from GERFIN_concat import ERROR, MERGE, NEW_KEYS, CONCATE, UPDATE, readFile, readExcelFile, PRESENT, GERFIN_WEB, SELECT_DF_KEY
+from GERFIN_concat import ERROR, MERGE, NEW_KEYS, CONCATE, UPDATE, readFile, readExcelFile, PRESENT, GERFIN_WEB, SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 import GERFIN_test as test
 from GERFIN_test import GERFIN_identity
 FORMAT = '%(asctime)s %(message)s'
@@ -35,8 +35,6 @@ merging = False
 updating = False
 data_processing = bool(int(input('Processing data (1/0): ')))
 excel_suffix = CCT.excel_suffix
-with open(out_path+'TOT_name.txt','r',encoding='ANSI') as f:
-    DF_suffix = f.read()
 #main_file = readExcelFile(out_path+NAME+'key'+main_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=NAME+'key')
 #merge_file = readExcelFile(out_path+NAME+'key'+merge_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=NAME+'key')
 LOG = ['excel_suffix', 'merging', 'updating', 'find_unknown','dealing_start_year']
@@ -122,10 +120,14 @@ if data_processing:
         code_num_dict[f] = 1
 
 merge_file_loaded = False
+if excel_suffix == 'mysql':
+    df_key = SELECT_DF_KEY(databank)
+    DATA_BASE_dict = SELECT_DATABASES(databank)
+    merge_file_loaded = True
 while data_processing == False:
     while True:
         try:
-            merging = bool(int(input('Merging data file = 1/Updating TOT file = 0: ')))
+            merging = bool(int(input('Merging data file = 1/Updating data file = 0: ')))
             updating = not merging
             if merge_file_loaded == False:
                 merge_suf = input('Be Merged(Original) data suffix: ')
@@ -181,7 +183,7 @@ while data_processing == False:
             merge_database = readExcelFile(out_path+NAME+'database'+merge_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
     #if merge_file.empty == False and merging == True and updating == False:
     if merging:
-        logging.info('Merging File: '+out_path+NAME+'key'+merge_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+        logging.info('Merging File, Time: '+str(int(time.time() - tStart))+' s'+'\n')
         snl = int(merge_file['snl'][merge_file.shape[0]-1]+1)
         for f in FREQNAME:
             table_num_dict[f], code_num_dict[f] = MERGE(merge_file, DB_TABLE, DB_CODE, f)
@@ -227,13 +229,10 @@ while data_processing == False:
         break
 
 #print(GERFIN_t.head(10))
-if updating == False and DF_suffix != merge_suf:
-    logging.info('Reading file: '+NAME+'key'+DF_suffix+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-    DF_KEY = readExcelFile(out_path+NAME+'key'+DF_suffix+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_=NAME+'key')
+if updating == False:
+    DF_KEY = SELECT_DF_KEY(databank)
     DF_KEY = DF_KEY.set_index('name')
-elif updating == False and DF_suffix == merge_suf:
-    DF_KEY = merge_file
-    DF_KEY = DF_KEY.set_index('name')
+    #print(DF_KEY)
 
 def GERFIN_DATA(i, name, GERFIN_t, code_num, table_num, KEY_DATA, DATA_BASE, db_table_t, DB_name, snl, freqlist, frequency, source, AREMOS_key=None, AREMOS_key2=None):
     freqlen = len(freqlist)
@@ -665,58 +664,46 @@ for key in DATA_BASE_dict.keys():
     DB_name.append(key)
 
 print('Time: ', int(time.time() - tStart),'s'+'\n')
-df_key.to_excel(out_path+NAME+"key"+excel_suffix+".xlsx", sheet_name=NAME+'key')
-database_num = int(((len(DB_name)-1)/maximum))+1
-for d in range(1, database_num+1):
-    if database_num > 1:
-        with pd.ExcelWriter(out_path+NAME+"database_"+str(d)+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
-            logging.info('Outputing file: '+NAME+"database_"+str(d))
-            if maximum*d > len(DB_name):
-                for db in range(maximum*(d-1), len(DB_name)):
-                    sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
-                    sys.stdout.flush()
-                    #if updating == True:
-                    if DATA_BASE_dict[DB_name[db]].empty == False:
-                        DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
-                    """else:
-                        for f in FREQNAME:
-                            if DB_name[db] in DATA_BASE_dict[f].keys() and DATA_BASE_dict[f][DB_name[db]].empty == False:
-                                DATA_BASE_dict[f][DB_name[db]].to_excel(writer, sheet_name = DB_name[db])"""
-                writer.save()
-                sys.stdout.write("\n")
-            else:
-                for db in range(maximum*(d-1), maximum*d):
-                    sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
-                    sys.stdout.flush()
-                    #if updating == True:
-                    if DATA_BASE_dict[DB_name[db]].empty == False:
-                        DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
-                    """else:
-                        for f in FREQNAME:
-                            if DB_name[db] in DATA_BASE_dict[f].keys() and DATA_BASE_dict[f][DB_name[db]].empty == False:
-                                DATA_BASE_dict[f][DB_name[db]].to_excel(writer, sheet_name = DB_name[db])"""
-                writer.save()
-                sys.stdout.write("\n")
-    else:
-        with pd.ExcelWriter(out_path+NAME+"database"+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
-            #if updating == True:
-            for key in DATA_BASE_dict:
-                sys.stdout.write("\rOutputing sheet: "+str(d))
-                sys.stdout.flush()
-                if DATA_BASE_dict[key].empty == False:
-                    DATA_BASE_dict[key].to_excel(writer, sheet_name = key)
-            """else:
-                for f in FREQNAME:
-                    for key in DATA_BASE_dict[f]:
-                        sys.stdout.write("\rOutputing sheet: "+str(key))
+if excel_suffix == 'mysql':
+    INSERT_TABLES(databank, df_key, DATA_BASE_dict)
+else:
+    df_key.to_excel(out_path+NAME+"key"+excel_suffix+".xlsx", sheet_name=NAME+'key')
+    database_num = int(((len(DB_name)-1)/maximum))+1
+    for d in range(1, database_num+1):
+        if database_num > 1:
+            with pd.ExcelWriter(out_path+NAME+"database_"+str(d)+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
+                logging.info('Outputing file: '+NAME+"database_"+str(d))
+                if maximum*d > len(DB_name):
+                    for db in range(maximum*(d-1), len(DB_name)):
+                        sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
                         sys.stdout.flush()
-                        if DATA_BASE_dict[f][key].empty == False:
-                            DATA_BASE_dict[f][key].to_excel(writer, sheet_name = key)"""
-sys.stdout.write("\n")
-logging.info('\ndatabase_num = '+str(database_num))
-if database_num > 1:
-    with open(out_path+NAME+'database_num'+excel_suffix+'.txt','w', encoding=ENCODING) as f:    #用with一次性完成open、close檔案
-        f.write(str(database_num))
+                        #if updating == True:
+                        if DATA_BASE_dict[DB_name[db]].empty == False:
+                            DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
+                    writer.save()
+                    sys.stdout.write("\n")
+                else:
+                    for db in range(maximum*(d-1), maximum*d):
+                        sys.stdout.write("\rOutputing sheet: "+str(DB_name[db])+'  Time: '+str(int(time.time() - tStart))+'s')
+                        sys.stdout.flush()
+                        #if updating == True:
+                        if DATA_BASE_dict[DB_name[db]].empty == False:
+                            DATA_BASE_dict[DB_name[db]].to_excel(writer, sheet_name = DB_name[db])
+                    writer.save()
+                    sys.stdout.write("\n")
+        else:
+            with pd.ExcelWriter(out_path+NAME+"database"+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
+                #if updating == True:
+                for key in DATA_BASE_dict:
+                    sys.stdout.write("\rOutputing sheet: "+str(d))
+                    sys.stdout.flush()
+                    if DATA_BASE_dict[key].empty == False:
+                        DATA_BASE_dict[key].to_excel(writer, sheet_name = key)
+    sys.stdout.write("\n")
+    logging.info('\ndatabase_num = '+str(database_num))
+    if database_num > 1:
+        with open(out_path+NAME+'database_num'+excel_suffix+'.txt','w', encoding=ENCODING) as f:    #用with一次性完成open、close檔案
+            f.write(str(database_num))
 
 print('Time: ', int(time.time() - tStart),'s'+'\n')
 if updating == False:

@@ -6,10 +6,12 @@ import numpy as np
 from datetime import datetime, date
 from dateutil.relativedelta import relativedelta
 import GERFIN_concat as CCT
-from GERFIN_concat import ERROR, readExcelFile
+from GERFIN_concat import ERROR, readExcelFile, SELECT_DF_KEY
 
 ENCODING = CCT.ENCODING
 data_path = "./output/"
+# with open(out_path+'TOT_name.txt','r',encoding='ANSI') as f:
+#     DF_suffix = f.read()
 
 if CCT.excel_suffix != "0":
     local = False
@@ -147,7 +149,9 @@ if local == True:
     styr = int(input('Dealing Start Year of Main data: '))
     logging.info('Reading file: '+NAME+'_key'+main_suf+'\n')
     df_key = readExcelFile(data_path+NAME+'_key'+main_suf+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_=NAME+'_key')
-    logging.info('Reading TOT file: '+NAME+'_key'+DF_suffix+'\n')
-    DF_KEY = readExcelFile(data_path+NAME+'_key'+DF_suffix+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_=NAME+'_key')
+    logging.info('Reading file from DB: gerfin_key'+'\n')
+    DF_KEY = SELECT_DF_KEY('GERFIN')
+    #logging.info('Reading TOT file: '+NAME+'_key'+DF_suffix+'\n')
+    #DF_KEY = readExcelFile(data_path+NAME+'_key'+DF_suffix+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_=NAME+'_key')
     DF_KEY = DF_KEY.set_index('name') 
     unknown_list, toolong_list, update_list, unfound_list = GERFIN_identity(data_path, df_key, DF_KEY, checkDESC=checkDESC, start_year=styr)
