@@ -76,7 +76,7 @@ def GERFIN_identity(data_path, df_key, DF_KEY, checkNotFound=False, checkDESC=Tr
                 if str(df_key.loc[ind, check]).strip().lower() != str(DF_KEY.loc[ind, check]).strip().lower():
                     if check == 'start' and (str(DF_KEY.loc[ind, check]).strip() == 'Nan' or str(df_key.loc[ind, check]).strip() < str(DF_KEY.loc[ind, check]).strip()):
                         continue
-                    elif str(DF_KEY.loc[ind, check]).strip() == 'nan' and str(df_key.loc[ind, check]).strip() == '':
+                    elif (str(DF_KEY.loc[ind, check]).strip() == 'nan' or str(DF_KEY.loc[ind, check]).strip() == 'None') and (str(df_key.loc[ind, check]).strip() == '' or str(df_key.loc[ind, check]).strip() == 'nan'):
                         continue
                     elif checkDESC == False and (check == 'desc_e' or check == 'old_name' or check == 'form_e' or check == 'form_c'):
                         continue
@@ -143,8 +143,8 @@ def GERFIN_identity(data_path, df_key, DF_KEY, checkNotFound=False, checkDESC=Tr
 
 if local == True:
     NAME = 'GERFIN'#input('Bank (EIKON/GERFIN): ')
-    with open(data_path+'TOT_name.txt','r',encoding='ANSI') as f:
-        DF_suffix = f.read()
+    # with open(data_path+'TOT_name.txt','r',encoding='ANSI') as f:
+    #     DF_suffix = f.read()
     main_suf = input('Main data suffix: ')
     styr = int(input('Dealing Start Year of Main data: '))
     logging.info('Reading file: '+NAME+'_key'+main_suf+'\n')

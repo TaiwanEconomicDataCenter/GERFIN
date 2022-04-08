@@ -508,7 +508,8 @@ for g in range(start_file,last_file+1):
             GERFIN_t = readFile(data_path+NAME+str(g)+'.csv', header_=[0,1,2], index_col_=0, skiprows_=[3,4], skipfooter_=1)
         else:
             chrome.set_window_size(1080, 1020)
-            url = 'https://www.bundesbank.de/dynamic/action/en/statistics/time-series-databases/time-series-databases/759784/759784?listId=www_s331_xdrd'
+            #url = 'https://www.bundesbank.de/dynamic/action/en/statistics/time-series-databases/time-series-databases/759784/759784?listId=www_s331_xdrd'
+            url = 'https://www.bundesbank.de/dynamic/action/en/statistics/time-series-databases/time-series-databases/759784/759784?listId=www_sdks_xdrd'
             GERFIN_t = GERFIN_WEB(chrome, g, file_name=NAME+str(g), url=url, header=[0,1,2], index_col=0, skiprows=[3,4], csv=True, start_year=dealing_start_year)
         if GERFIN_t.index[0] > GERFIN_t.index[1]:
             GERFIN_t = GERFIN_t[::-1]

@@ -240,12 +240,16 @@ def GERFIN_WEB(chrome, g, file_name, url, header=None, index_col=0, skiprows=Non
                 email = open(data_path+'email.txt','r',encoding='ANSI').read()
                 password = open(data_path+'password.txt','r',encoding='ANSI').read()
                 try:
-                    WebDriverWait(chrome, 5).until(EC.visibility_of_element_located((By.ID, 'eml'))).send_keys(email)
+                    WebDriverWait(chrome, 10).until(EC.visibility_of_element_located((By.ID, 'eml'))).send_keys(email)
                     WebDriverWait(chrome, 5).until(EC.visibility_of_element_located((By.ID, 'pw'))).send_keys(password)
+                    time.sleep(1)
                     WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/input[@type="submit"]'))).click()
+                    time.sleep(2)
                 except TimeoutException:
                     time.sleep(0)
+                chrome.refresh()
                 WebDriverWait(chrome, 10).until(EC.visibility_of_element_located((By.ID, 'content-table')))
+                time.sleep(2)
                 link_found, link_meassage = GERFIN_WEB_LINK(chrome, url, keyword='GERFIN', text_match=True)
                 time.sleep(2)
                 link_found, link_meassage = GERFIN_WEB_LINK(chrome, url, keyword='download')
