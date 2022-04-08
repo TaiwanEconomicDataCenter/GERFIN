@@ -529,11 +529,11 @@ def UPDATE(original_file, updated_file, key_list, NAME, data_path, orig_suf, up_
                 original_file.loc[ind, c] = updated_file.loc[ind, c]
             if updated_file.loc[ind, 'last'] == 'Nan':
                 continue
-            elif (original_file.loc[ind, 'last'] == 'Nan' and updated_file.loc[ind, 'last'] != 'Nan') or updated_file.loc[ind, 'last'] > original_file.loc[ind, 'last']:
+            elif ((original_file.loc[ind, 'last'] == 'Nan' or str(original_file.loc[ind, 'last']) == 'None') and updated_file.loc[ind, 'last'] != 'Nan') or updated_file.loc[ind, 'last'] > original_file.loc[ind, 'last']:
                 updated+=1
             if updated_file.loc[ind, 'last'] != 'Nan':
                 original_file.loc[ind, 'last'] = updated_file.loc[ind, 'last']
-            if updated_file.loc[ind, 'start'] != 'Nan' and (original_file.loc[ind, 'start'] == 'Nan' or updated_file.loc[ind, 'start'] < original_file.loc[ind, 'start']):
+            if updated_file.loc[ind, 'start'] != 'Nan' and (original_file.loc[ind, 'start'] == 'Nan' or str(original_file.loc[ind, 'start']) == 'None' or updated_file.loc[ind, 'start'] < original_file.loc[ind, 'start']):
                 original_file.loc[ind, 'start'] = updated_file.loc[ind, 'start']
             for period in updated_database[updated_file.loc[ind, 'db_table']].index:
                 if updated_file.loc[ind, 'db_table'][3] == 'W' and type(period) != str:
