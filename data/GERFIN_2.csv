@@ -2,7 +2,7 @@
 "",Value of the special drawing right / XDR 1 = CAD ...,,Value of the special drawing right / XDR 1 = CHF ...,,Value of the special drawing right / XDR 1 = CNY ...,,Value of the special drawing right / XDR 1 = DKK ...,,Value of the special drawing right / XDR 1 = EUR ...,,Value of the special drawing right / XDR 1 = GBP ...,,Value of the special drawing right / XDR 1 = JPY ...,,Value of the special drawing right / XDR 1 = NOK ...,,Value of the special drawing right / XDR 1 = SEK ...,,Value of the special drawing right / XDR 1 = USD ...,
 unit,CAD,,CHF,,CNY,,DKK,,EUR,,GBP,,JPY,,NOK,,SEK,,USD,
 unit multiplier,one,,one,,one,,one,,one,,one,,one,,one,,one,,one,
-last update,2022-04-07 13:43:22,,2022-04-07 13:43:32,,2022-04-07 13:43:50,,2022-04-07 13:44:07,,2022-04-07 13:46:25,,2022-04-07 13:46:33,,2022-04-07 13:49:19,,2022-04-07 13:53:02,,2022-04-07 13:57:57,,2022-04-07 14:00:55,
+last update,2022-04-08 13:51:57,,2022-04-08 13:52:07,,2022-04-08 13:52:22,,2022-04-08 13:52:39,,2022-04-08 13:54:59,,2022-04-08 13:55:08,,2022-04-08 13:57:53,,2022-04-08 14:01:35,,2022-04-08 14:06:30,,2022-04-08 14:09:25,
 1974-07-01,,,,,,,,,,,,,,,,,,,1.206010,
 1974-07-02,,,,,,,,,,,,,,,,,,,1.206380,
 1974-07-03,,,,,,,,,,,,,,,,,,,1.208670,
@@ -17449,5 +17449,6 @@ last update,2022-04-07 13:43:22,,2022-04-07 13:43:32,,2022-04-07 13:43:50,,2022-
 2022-04-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
 2022-04-04,1.71984,,.,No value available,.,No value available,9.30726,,1.25123,,1.051410,,168.583,,11.94790,,12.91480,,1.376970,
 2022-04-05,1.71343,,1.27423,,.,No value available,9.33114,,1.25457,,1.048160,,168.645,,11.96840,,12.93550,,1.376130,
-2022-04-06,,,1.28141,,8.73660,,,,1.25677,,1.049320,,170.224,,,,12.95050,,1.372770,
+2022-04-06,1.71720,,1.28141,,8.73660,,.,No value available,1.25677,,1.049320,,170.224,,.,No value available,12.95050,,1.372770,
+2022-04-07,,,1.28051,,8.73012,,9.34911,,1.25696,,1.049650,,169.647,,12.01590,,12.98950,,1.372100,
 "","Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",
