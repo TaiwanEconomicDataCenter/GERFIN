@@ -190,14 +190,17 @@ def GERFIN_WEB(chrome, g, file_name, url, header=None, index_col=0, skiprows=Non
         try:
             chrome.execute_script("window.scrollTo(0,"+str(y)+")")
             if g == 1 or g == 4:
+                #選取頻率
                 WebDriverWait(chrome, 15).until(EC.element_to_be_clickable((By.XPATH, './/div[select[@name="FREQ.18"]]/div/ul'))).click()
                 for d in range(DOWN):
                     ActionChains(chrome).send_keys(Keys.DOWN).perform()
-                ActionChains(chrome).send_keys(Keys.ENTER).click(chrome.find_element_by_xpath('.//div[select[@name="FREQ.18"]]/div/ul/li/input')).perform()
+                ActionChains(chrome).send_keys(Keys.ENTER).click(chrome.find_element_by_xpath('.//div[select[@name="FREQ.18"]]/div/ul/li/input')).perform() #確認選取
+                #檢查是否有沒選到的頻率或是選到不該選的頻率
                 WebDriverWait(chrome, 15).until(EC.visibility_of_element_located((By.XPATH, './/div[select[@name="FREQ.18"]]/div/ul/li[@class="select2-search-choice"]/div')))
                 if chrome.find_element_by_xpath('.//div[select[@name="FREQ.18"]]/div/ul/li[@class="select2-search-choice"]/div').text != 'D':
                     chrome.refresh()
                     raise FileNotFoundError
+                #讀取資料表
                 sys.stdout.write("\rWaiting for Download...")
                 sys.stdout.flush()
                 chrome.find_element_by_xpath('.//a[@class="dataTable"]').click()
