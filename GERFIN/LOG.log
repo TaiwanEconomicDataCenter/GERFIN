@@ -1,686 +1,686 @@
-﻿2022-04-11 03:09:19 PM excel_suffix: test
+﻿2022-05-04 05:31:32 PM excel_suffix: NEW20220504
 
-2022-04-11 03:09:19 PM merging: False
+2022-05-04 05:31:32 PM merging: False
 
-2022-04-11 03:09:19 PM updating: False
+2022-05-04 05:31:32 PM updating: False
 
-2022-04-11 03:09:19 PM find_unknown: False
+2022-05-04 05:31:32 PM find_unknown: False
 
-2022-04-11 03:09:19 PM dealing_start_year: 1957
+2022-05-04 05:31:32 PM dealing_start_year: 1957
 
-2022-04-11 03:09:21 PM Data Processing
+2022-05-04 05:31:33 PM Data Processing
 
-2022-04-11 03:09:22 PM 
+2022-05-04 05:31:33 PM 
 
-2022-04-11 03:09:22 PM ====== WebDriver manager ======
-2022-04-11 03:09:22 PM Current google-chrome version is 100.0.4896
-2022-04-11 03:09:22 PM Get LATEST chromedriver version for 100.0.4896 google-chrome
-2022-04-11 03:09:22 PM Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
-2022-04-11 03:09:25 PM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\100.0.4896.60]
-2022-04-11 03:09:28 PM Reading file: GERFIN_1 Time: 8 s
+2022-05-04 05:31:33 PM ====== WebDriver manager ======
+2022-05-04 05:31:34 PM Current google-chrome version is 100.0.4896
+2022-05-04 05:31:34 PM Get LATEST chromedriver version for 100.0.4896 google-chrome
+2022-05-04 05:31:34 PM Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+2022-05-04 05:31:36 PM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+2022-05-04 05:31:38 PM Reading file: GERFIN_1 Time: 5 s
 
-2022-04-11 03:09:28 PM Downloading file: GERFIN_1
+2022-05-04 05:31:38 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-11 03:10:28 PM Total New Items Found: 0 Time: 68 s
+2022-05-04 05:31:38 PM Total New Items Found: 0 Time: 6 s
 
-2022-04-11 03:10:28 PM Reading file: GERFIN_2 Time: 68 s
+2022-05-04 05:31:38 PM Reading file: GERFIN_2 Time: 6 s
 
-2022-04-11 03:10:29 PM Downloading file: GERFIN_2
+2022-05-04 05:31:38 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-11 03:11:04 PM Total New Items Found: 0 Time: 105 s
+2022-05-04 05:31:38 PM Total New Items Found: 0 Time: 6 s
 
-2022-04-11 03:11:04 PM Reading file: GERFIN_3 Time: 105 s
+2022-05-04 05:31:38 PM Reading file: GERFIN_3 Time: 6 s
 
-2022-04-11 03:11:04 PM Downloading file: GERFIN_3
+2022-05-04 05:31:38 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-11 03:11:39 PM Total New Items Found: 0 Time: 139 s
+2022-05-04 05:31:39 PM Total New Items Found: 0 Time: 7 s
 
-2022-04-11 03:11:39 PM Reading file: GERFIN_4 Time: 139 s
+2022-05-04 05:31:39 PM Reading file: GERFIN_4 Time: 7 s
 
-2022-04-11 03:11:39 PM Downloading file: GERFIN_4
+2022-05-04 05:31:39 PM Present File Exists. Reading Data From Default Path.
 
-2022-04-11 03:11:55 PM Total New Items Found: 0 Time: 156 s
+2022-05-04 05:31:39 PM Total New Items Found: 0 Time: 7 s
 
-2022-04-11 03:11:57 PM Reading file: EIKON_1 Time: 158 s
+2022-05-04 05:31:42 PM Reading file: EIKON_1 Time: 9 s
 
-2022-04-11 03:12:50 PM Reading sheet: Australian Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Australian Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Botswana Pula  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Botswana Pula  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Euro  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Euro  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Irish Pound  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Irish Pound  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: New Zealand Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: New Zealand Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Swiss Franc  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Swiss Franc  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: United Kingdom Pound  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: United Kingdom Pound  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: United States Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: United States Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Albanian Lek  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Albanian Lek  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Algerian Dinar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Algerian Dinar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Angolan Kwanza  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Angolan Kwanza  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Argentine Peso  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Argentine Peso  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Aruban Guilder  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Aruban Guilder  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Austrian Schilling  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Austrian Schilling  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Azerbaijanian Manat  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Azerbaijanian Manat  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bahamian Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bahamian Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bahraini Dinar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bahraini Dinar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bangladeshi Taka  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bangladeshi Taka  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Barbadian Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Barbadian Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Belarusian Ruble New  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Belarusian Ruble New  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Belarusian Ruble Old  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Belarusian Ruble Old  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Belgian Franc  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Belgian Franc  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Belizian Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Belizian Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bermudian Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bermudian Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bhutanese Ngultrum  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bhutanese Ngultrum  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bolivian Boliviano  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bolivian Boliviano  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bosnia-Herzegovina Convertible Mark  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bosnia-Herzegovina Convertible Mark  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Brazilian Real  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Brazilian Real  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Brunei Darassalam Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Brunei Darassalam Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Bulgarian Lev  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Bulgarian Lev  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Burundian Franc  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Burundian Franc  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: C.F.P. Franc  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: C.F.P. Franc  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Canadian Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Canadian Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Cayman Islands Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Cayman Islands Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Central African CFA Franc (BEAC) Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Central African CFA Franc (BEAC) Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Chilean Peso  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Chilean Peso  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Chinese Yuan Renminbi  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Chinese Yuan Renminbi  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Colombian Peso  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Colombian Peso  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Comoran Franc  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Comoran Franc  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Congo (DRC) Francs Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Congo (DRC) Francs Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Costa Rican Colon  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Costa Rican Colon  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Croatian Kuna  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Croatian Kuna  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Cuban Peso  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Cuban Peso  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Cyprian Pound  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Cyprian Pound  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Czech Koruna  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Czech Koruna  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Danish Krone  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Danish Krone  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Dominican Peso  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Dominican Peso  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Dutch Guilder  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Dutch Guilder  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: East Caribbean Dollar  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: East Caribbean Dollar  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Ecuadorian Sucre  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Ecuadorian Sucre  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Egyptian Pound  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Egyptian Pound  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Estonian Kroon  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Estonian Kroon  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading sheet: Ethiopian Birr  Time: 210 s
+2022-05-04 05:32:35 PM Reading sheet: Ethiopian Birr  Time: 62 s
 
-2022-04-11 03:12:50 PM Total New Items Found: 0 Time: 210 s
+2022-05-04 05:32:35 PM Total New Items Found: 0 Time: 62 s
 
-2022-04-11 03:12:50 PM Reading file: EIKON_2 Time: 210 s
+2022-05-04 05:32:35 PM Reading file: EIKON_2 Time: 62 s
 
-2022-04-11 03:13:44 PM Reading sheet: Botswana Pula  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Botswana Pula  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Fijian Dollar  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Fijian Dollar  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Finnish Markka  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Finnish Markka  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: French Franc  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: French Franc  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Gambian Dalasi  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Gambian Dalasi  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Georgian Lari  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Georgian Lari  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: German Mark  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: German Mark  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Ghanaian Cedi  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Ghanaian Cedi  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Greek Drachma  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Greek Drachma  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Guatemalan Quetzal  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Guatemalan Quetzal  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Guinean Franc  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Guinean Franc  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Haitian Gourde  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Haitian Gourde  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Honduran Lempira  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Honduran Lempira  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Hong Kong Dollar  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Hong Kong Dollar  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Hungarian Forint  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Hungarian Forint  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Icelandic Krona  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Icelandic Krona  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Indian Rupee  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Indian Rupee  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Indonesian Rupiah  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Indonesian Rupiah  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Iranian Rial  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Iranian Rial  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Israeli Sheqel  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Israeli Sheqel  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Italian Lira  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Italian Lira  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Jamaican Dollar  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Jamaican Dollar  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Japanese Yen  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Japanese Yen  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Jordanian Dinar  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Jordanian Dinar  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Kazakh Tenge  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Kazakh Tenge  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Kenyan Shilling  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Kenyan Shilling  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Kuwaiti Dinar  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Kuwaiti Dinar  Time: 117 s
 
-2022-04-11 03:13:44 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:44 PM Reading sheet: Kyrgyz Som  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Kyrgyz Som  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Latvian Lat  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Latvian Lat  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Lebanese Pound  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Lebanese Pound  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Lesotho Loti  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Lesotho Loti  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Lithuanian Lita  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Lithuanian Lita  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Luxembourg Franc  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Luxembourg Franc  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Macao Pataca  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Macao Pataca  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Malagasy Ariary  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Malagasy Ariary  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Malawian Kwacha  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Malawian Kwacha  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Malaysian Ringgit  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Malaysian Ringgit  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Maldivian Rufiyaa  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Maldivian Rufiyaa  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Maltese Lira  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Maltese Lira  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Mauritanian Ouguiya  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Mauritanian Ouguiya  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Mauritanian Ouguiya Old  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Mauritanian Ouguiya Old  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Mauritian Rupee  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Mauritian Rupee  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Mexican Peso  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Mexican Peso  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Moldovan Leu  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Moldovan Leu  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Mongolian Tugrik  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Mongolian Tugrik  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Moroccan Dirham  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Moroccan Dirham  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Mozambican Metical  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Mozambican Metical  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Namibian Dollar  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Namibian Dollar  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Nepalese Rupee  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Nepalese Rupee  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Netherlands Antillean Guilder  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Netherlands Antillean Guilder  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Nicaraguan Gold Cordoba  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Nicaraguan Gold Cordoba  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Nigerian Naira  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Nigerian Naira  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: North Macedonian Denar  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: North Macedonian Denar  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Norwegian Krone  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Norwegian Krone  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading sheet: Omani Rial  Time: 265 s
+2022-05-04 05:33:29 PM Reading sheet: Omani Rial  Time: 117 s
 
-2022-04-11 03:13:45 PM Total New Items Found: 0 Time: 265 s
+2022-05-04 05:33:29 PM Total New Items Found: 0 Time: 117 s
 
-2022-04-11 03:13:45 PM Reading file: EIKON_3 Time: 265 s
+2022-05-04 05:33:29 PM Reading file: EIKON_3 Time: 117 s
 
-2022-04-11 03:14:43 PM Reading sheet: Pakistani Rupee  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Pakistani Rupee  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Panamanian Balboa  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Panamanian Balboa  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Papua New Guinean Kina  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Papua New Guinean Kina  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Paraguayan Guarani  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Paraguayan Guarani  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Peruvian Sol  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Peruvian Sol  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Philippine Peso  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Philippine Peso  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Polish Zloty  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Polish Zloty  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Portuguese Escudo  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Portuguese Escudo  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Qatari Riyal  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Qatari Riyal  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Romanian Leu  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Romanian Leu  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Russian Federation Ruble  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Russian Federation Ruble  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Rwandan Franc  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Rwandan Franc  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Salvadoran Colon  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Salvadoran Colon  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Saudi Arabian Riyal  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Saudi Arabian Riyal  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Serbian Dinar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Serbian Dinar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Seychelles Rupee  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Seychelles Rupee  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Sierra Leonean Leone  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Sierra Leonean Leone  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Singaporean Dollar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Singaporean Dollar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Slovak Koruna  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Slovak Koruna  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Slovenian Tolar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Slovenian Tolar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: South African Rand  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: South African Rand  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: South Korean Won  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: South Korean Won  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Spanish Peseta  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Spanish Peseta  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Special Drawing Right  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Special Drawing Right  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Sri Lankan Rupee  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Sri Lankan Rupee  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Sudanese Dinar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Sudanese Dinar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Surinamese Dollar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Surinamese Dollar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Surinamese Guilder  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Surinamese Guilder  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Swazi Lilangeni  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Swazi Lilangeni  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Swedish Krona  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Swedish Krona  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Swiss Franc  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Swiss Franc  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Taiwanese Dollar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Taiwanese Dollar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Tanzanian Shilling  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Tanzanian Shilling  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Thai Baht  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Thai Baht  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Trinidad & Tobago Dollar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Trinidad & Tobago Dollar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Tunisian Dinar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Tunisian Dinar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Turkish Lira  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Turkish Lira  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Ugandan Shilling  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Ugandan Shilling  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Ukrainian Hryvnia  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Ukrainian Hryvnia  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: United Arab Emirates Dirham  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: United Arab Emirates Dirham  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: United States Dollar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: United States Dollar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Uruguayan Peso  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Uruguayan Peso  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Uzbek Som-Coupon  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Uzbek Som-Coupon  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Vanuatuan Vatu  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Vanuatuan Vatu  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Venezuelan Bolivar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Venezuelan Bolivar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Venezuelan Bolivar Fuerte  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Venezuelan Bolivar Fuerte  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Venezuelan Bolivar Soberano  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Venezuelan Bolivar Soberano  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Vietnamese Dong  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Vietnamese Dong  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Yemeni Rial  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Yemeni Rial  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Zambian Kwacha  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Zambian Kwacha  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM Reading sheet: Zimbabwean Dollar  Time: 323 s
+2022-05-04 05:34:26 PM Reading sheet: Zimbabwean Dollar  Time: 174 s
 
-2022-04-11 03:14:43 PM Total New Items Found: 0 Time: 323 s
+2022-05-04 05:34:26 PM Total New Items Found: 0 Time: 174 s
 
-2022-04-11 03:14:43 PM = ! = No new items were found.
+2022-05-04 05:34:26 PM = ! = No new items were found.

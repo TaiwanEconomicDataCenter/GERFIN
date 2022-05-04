@@ -15,6 +15,7 @@ import GERFIN_concat as CCT
 from GERFIN_concat import ERROR, MERGE, NEW_KEYS, CONCATE, UPDATE, readFile, readExcelFile, PRESENT, GERFIN_WEB, SELECT_DF_KEY, SELECT_DATABASES, INSERT_TABLES
 import GERFIN_test as test
 from GERFIN_test import GERFIN_identity
+from pandas.errors import ParserError
 FORMAT = '%(asctime)s %(message)s'
 logging.basicConfig(level=logging.INFO, format=FORMAT, handlers=[logging.FileHandler("LOG.log", 'w', CCT.ENCODING)], datefmt='%Y-%m-%d %I:%M:%S %p')
 
@@ -312,7 +313,11 @@ def GERFIN_DATA(i, name, GERFIN_t, code_num, table_num, KEY_DATA, DATA_BASE, db_
         if found == True:
             ERROR('start not found: '+str(name))                
     if found == False:
-        ERROR(str(GERFIN_t.columns[i]))
+        logging.debug('Data Not Found: '+str(GERFIN_t.columns[i]))
+        start = 'Nan'
+        last = 'Nan'
+        start2 = start
+        last2 = last
     if new_table == True:
         db_table_t = db_table_t2
 
@@ -465,21 +470,30 @@ for g in range(start_file,last_file+1):
     if g == 1 or g == 4:
         file_path = data_path+NAME+str(g)+'.csv'
         if PRESENT(file_path):
-            GERFIN_t = readFile(data_path+NAME+str(g)+'.csv', header_=[0], index_col_=0)
+            try:
+                GERFIN_t = readFile(data_path+NAME+str(g)+'.csv', header_=[0], index_col_=0)
+            except ParserError:
+                skip = [0,1]
+                GERFIN_t = readFile(data_path+NAME+str(g)+'.csv', header_=[0], index_col_=0, skiprows_=skip)
         else:
             if g == 1:
                 url = 'https://sdw.ecb.europa.eu/browse.do?node=9691296'
             elif g == 4:
                 url = 'https://sdw.ecb.europa.eu/browse.do?node=9691297'
-            GERFIN_t = GERFIN_WEB(chrome, g, file_name=NAME+str(g), url=url, header=[0], index_col=0, skiprows=[1,2,3,4], output=True, start_year=dealing_start_year)
+            # skip = [1,2,3,4]
+            skip = None
+            GERFIN_t = GERFIN_WEB(chrome, g, file_name=NAME+str(g), url=url, header=[0], index_col=0, skiprows=skip, output=True, start_year=dealing_start_year)
         
         if str(GERFIN_t.index[0]).find('/') >= 0:
             new_index = []
             for ind in GERFIN_t.index:
                 new_index.append(pd.to_datetime(ind))
             GERFIN_t = GERFIN_t.reindex(new_index)
-        if GERFIN_t.index[0] > GERFIN_t.index[1]:
+        if GERFIN_t.index[10] > GERFIN_t.index[11]:
             GERFIN_t = GERFIN_t[::-1]
+        if str(GERFIN_t.index[10]).strip()[:4] < str(dealing_start_year) and str(GERFIN_t.index[-10]).strip()[:4] < str(dealing_start_year):
+            logging.info('Data not in range\n')
+            continue
         
         nG = GERFIN_t.shape[1]
         #print(GERFIN_t)        

@@ -2,7 +2,7 @@
 "",Value of the special drawing right / XDR 1 = CAD ...,,Value of the special drawing right / XDR 1 = CHF ...,,Value of the special drawing right / XDR 1 = CNY ...,,Value of the special drawing right / XDR 1 = DKK ...,,Value of the special drawing right / XDR 1 = EUR ...,,Value of the special drawing right / XDR 1 = GBP ...,,Value of the special drawing right / XDR 1 = JPY ...,,Value of the special drawing right / XDR 1 = NOK ...,,Value of the special drawing right / XDR 1 = SEK ...,,Value of the special drawing right / XDR 1 = USD ...,
 unit,CAD,,CHF,,CNY,,DKK,,EUR,,GBP,,JPY,,NOK,,SEK,,USD,
 unit multiplier,one,,one,,one,,one,,one,,one,,one,,one,,one,,one,
-last update,2022-04-08 13:51:57,,2022-04-08 13:52:07,,2022-04-08 13:52:22,,2022-04-08 13:52:39,,2022-04-08 13:54:59,,2022-04-08 13:55:08,,2022-04-08 13:57:53,,2022-04-08 14:01:35,,2022-04-08 14:06:30,,2022-04-08 14:09:25,
+last update,2022-05-03 13:12:50,,2022-05-03 13:12:51,,2022-05-03 13:12:53,,2022-05-03 13:12:54,,2022-05-03 13:14:18,,2022-05-03 13:14:18,,2022-05-03 13:15:42,,2022-05-03 13:17:08,,2022-05-03 13:19:34,,2022-05-03 13:20:57,
 1974-07-01,,,,,,,,,,,,,,,,,,,1.206010,
 1974-07-02,,,,,,,,,,,,,,,,,,,1.206380,
 1974-07-03,,,,,,,,,,,,,,,,,,,1.208670,
@@ -17450,5 +17450,30 @@ last update,2022-04-08 13:51:57,,2022-04-08 13:52:07,,2022-04-08 13:52:22,,2022-
 2022-04-04,1.71984,,.,No value available,.,No value available,9.30726,,1.25123,,1.051410,,168.583,,11.94790,,12.91480,,1.376970,
 2022-04-05,1.71343,,1.27423,,.,No value available,9.33114,,1.25457,,1.048160,,168.645,,11.96840,,12.93550,,1.376130,
 2022-04-06,1.71720,,1.28141,,8.73660,,.,No value available,1.25677,,1.049320,,170.224,,.,No value available,12.95050,,1.372770,
-2022-04-07,,,1.28051,,8.73012,,9.34911,,1.25696,,1.049650,,169.647,,12.01590,,12.98950,,1.372100,
+2022-04-07,1.72665,,1.28051,,8.73012,,9.34911,,1.25696,,1.049650,,169.647,,12.01590,,12.98950,,1.372100,
+2022-04-08,.,No value available,1.28160,,8.72433,,9.38950,,1.26251,,1.051380,,170.030,,12.00400,,12.99290,,1.371210,
+2022-04-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-04-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-04-11,1.73023,,1.28050,,8.73301,,9.35427,,1.25772,,1.050830,,171.364,,12.00840,,12.94960,,1.370910,
+2022-04-12,1.72710,,1.27667,,8.71817,,9.37444,,1.26035,,1.051760,,171.834,,12.02320,,13.03200,,1.368870,
+2022-04-13,1.72339,,1.27624,,8.70148,,9.39161,,1.26271,,1.051260,,171.697,,12.08330,,13.03240,,1.367010,
+2022-04-14,1.72832,,1.28208,,8.73553,,.,No value available,1.26087,,1.044530,,171.858,,.,No value available,12.95160,,1.371570,
+2022-04-15,.,No value available,.,No value available,8.70769,,.,No value available,.,No value available,.,No value available,172.713,,.,No value available,.,No value available,1.366400,
+2022-04-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-04-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-04-18,1.72331,,.,No value available,8.70299,,.,No value available,.,No value available,.,No value available,172.960,,.,No value available,.,No value available,1.365760,
+2022-04-19,1.72124,,1.29346,,8.69497,,9.38897,,1.26212,,1.046610,,173.624,,12.01900,,13.05790,,1.363470,
+2022-04-20,1.70743,,1.29396,,8.76294,,9.38298,,1.26106,,1.045850,,176.725,,12.03590,,12.96500,,1.365720,
+2022-04-21,1.71205,,1.29548,,8.80894,,9.33864,,1.25514,,1.045860,,175.291,,12.02280,,12.83540,,1.366470,
+2022-04-22,1.72758,,1.29888,,8.80468,,9.35497,,1.25736,,1.053640,,174.921,,12.10270,,12.97010,,1.360090,
+2022-04-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-04-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-04-25,1.72663,,1.29741,,8.86556,,9.36900,,1.25942,,1.064770,,174.287,,12.21870,,12.99430,,1.353370,
+2022-04-26,1.73186,,1.29643,,8.87012,,9.43218,,1.26788,,1.064360,,172.685,,12.41790,,13.19180,,1.353330,
+2022-04-27,1.73007,,1.30066,,8.84502,,9.48263,,1.27437,,1.071480,,172.117,,12.46820,,13.30560,,1.348670,
+2022-04-28,1.71901,,1.30356,,8.85300,,9.51077,,1.27796,,1.074870,,174.058,,12.65050,,13.12860,,1.339940,
+2022-04-29,1.71963,,1.30471,,8.85442,,9.49109,,1.27543,,1.069500,,174.625,,12.43860,,13.12930,,1.344300,
+2022-04-30,,,.,No value available,,,.,No value available,.,No value available,,,.,No value available,.,No value available,.,No value available,.,No value available
+2022-05-01,,,.,No value available,,,.,No value available,.,No value available,,,.,No value available,.,No value available,.,No value available,.,No value available
+2022-05-02,,,1.30562,,,,9.48416,,1.27491,,,,174.517,,12.65320,,13.20020,,1.341710,
 "","Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",
