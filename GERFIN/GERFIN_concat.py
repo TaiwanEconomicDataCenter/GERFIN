@@ -235,7 +235,7 @@ def GERFIN_WEB(chrome, g, file_name, url, header=None, index_col=0, skiprows=Non
                         break
                 chrome.execute_script("window.scrollTo(0,200)")
                 WebDriverWait(chrome, 10).until(EC.visibility_of_element_located((By.XPATH, './/input[@name="its_from"]'))).send_keys(str(start_year))
-                chrome.refresh()
+                target = WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/label[contains(., "English")]'))).location_once_scrolled_into_view
                 WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/label[contains(., "English")]'))).click()
                 chrome.refresh()
                 chrome.execute_script("window.scrollTo(0,0)")
