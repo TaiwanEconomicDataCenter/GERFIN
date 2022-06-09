@@ -1,40 +1,28 @@
-﻿2022-05-27 09:31:16 AM excel_suffix: mysql
+﻿2022-06-09 09:56:44 AM excel_suffix: NEW
 
-2022-05-27 09:31:16 AM merging: False
+2022-06-09 09:56:44 AM merging: False
 
-2022-05-27 09:31:16 AM updating: False
+2022-06-09 09:56:44 AM updating: False
 
-2022-05-27 09:31:16 AM find_unknown: False
+2022-06-09 09:56:44 AM find_unknown: False
 
-2022-05-27 09:31:16 AM dealing_start_year: 1957
+2022-06-09 09:56:44 AM dealing_start_year: 1957
 
-2022-05-27 09:32:37 AM Process: File Updating
+2022-06-09 09:56:46 AM Data Processing
 
-2022-05-27 09:32:37 AM Reading main key: GERFIN_keyUP.xlsx, Time: 80 s
+2022-06-09 09:56:46 AM 
 
-2022-05-27 09:32:38 AM Reading main database: GERFIN_database_1UP, Time: 81 s
+2022-06-09 09:56:46 AM ====== WebDriver manager ======
+2022-06-09 09:56:46 AM Current google-chrome version is 102.0.5005
+2022-06-09 09:56:46 AM Get LATEST driver version for 102.0.5005
+2022-06-09 09:56:46 AM Driver [C:\Users\tedc8\.wdm\drivers\chromedriver\win32\102.0.5005.61\chromedriver.exe] found in cache
+2022-06-09 09:56:48 AM Reading file: GERFIN_1 Time: 4 s
 
-2022-05-27 09:32:49 AM Reading main database: GERFIN_database_2UP, Time: 92 s
+2022-06-09 09:56:48 AM Present File Exists. Reading Data From Default Path.
 
-2022-05-27 09:33:00 AM Reading main database: GERFIN_database_3UP, Time: 104 s
+2022-06-09 09:56:48 AM Total New Items Found: 0 Time: 4 s
 
-2022-05-27 09:33:10 AM Updating file: 0 s
+2022-06-09 09:56:48 AM Reading file: GERFIN_2 Time: 4 s
 
-2022-05-27 09:54:59 AM updated: 0
+2022-06-09 09:56:48 AM Downloading file: GERFIN_2
 
-2022-05-27 09:54:59 AM Time: 1308 s
-
-2022-05-27 09:57:43 AM      databank              name  ...                                form_e   form_c
-0       EIKON   D001SPEDRAWEB.d  ...      Exchange Rate - Bid, Time Series      NaN
-1       EIKON   D001SPEDRAWEO.d  ...  Exchange Rate - Offered, Time Series      NaN
-2       EIKON   D001SPEDRAWER.d  ...   Exchange Rate - Middle, Time Series      NaN
-3      GERFIN  D111REXEURDECB.D  ...                 Spot Midpoint eop (D)      NaN
-4      GERFIN   D111REXEURECB.D  ...                 Spot Midpoint eop (D)      NaN
-...       ...               ...  ...                                   ...      ...
-3279    EIKON   D968USRONONEO.d  ...  Exchange Rate - Offered, Time Series  Forward
-3280    EIKON   D968USRONONER.d  ...   Exchange Rate - Middle, Time Series  Forward
-3281    EIKON   D968USRONTNEB.d  ...      Exchange Rate - Bid, Time Series  Forward
-3282    EIKON   D968USRONTNEO.d  ...  Exchange Rate - Offered, Time Series  Forward
-3283    EIKON   D968USRONTNER.d  ...   Exchange Rate - Middle, Time Series  Forward
-
-[3284 rows x 15 columns]
