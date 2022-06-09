@@ -1,28 +1,45 @@
-﻿2022-06-09 09:56:44 AM excel_suffix: NEW
+﻿2022-06-09 12:24:25 PM excel_suffix: test
 
-2022-06-09 09:56:44 AM merging: False
+2022-06-09 12:24:25 PM merging: False
 
-2022-06-09 09:56:44 AM updating: False
+2022-06-09 12:24:25 PM updating: False
 
-2022-06-09 09:56:44 AM find_unknown: False
+2022-06-09 12:24:25 PM find_unknown: False
 
-2022-06-09 09:56:44 AM dealing_start_year: 1957
+2022-06-09 12:24:25 PM dealing_start_year: 1957
 
-2022-06-09 09:56:46 AM Data Processing
+2022-06-09 12:24:25 PM Data Processing
 
-2022-06-09 09:56:46 AM 
+2022-06-09 12:24:25 PM 
 
-2022-06-09 09:56:46 AM ====== WebDriver manager ======
-2022-06-09 09:56:46 AM Current google-chrome version is 102.0.5005
-2022-06-09 09:56:46 AM Get LATEST driver version for 102.0.5005
-2022-06-09 09:56:46 AM Driver [C:\Users\tedc8\.wdm\drivers\chromedriver\win32\102.0.5005.61\chromedriver.exe] found in cache
-2022-06-09 09:56:48 AM Reading file: GERFIN_1 Time: 4 s
+2022-06-09 12:24:25 PM ====== WebDriver manager ======
+2022-06-09 12:24:25 PM Current google-chrome version is 102.0.5005
+2022-06-09 12:24:25 PM Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-09 12:24:25 PM Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-09 12:24:28 PM Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-09 12:24:30 PM Reading file: GERFIN_1 Time: 5 s
 
-2022-06-09 09:56:48 AM Present File Exists. Reading Data From Default Path.
+2022-06-09 12:24:30 PM Present File Exists. Reading Data From Default Path.
 
-2022-06-09 09:56:48 AM Total New Items Found: 0 Time: 4 s
+2022-06-09 12:24:30 PM Total New Items Found: 0 Time: 5 s
 
-2022-06-09 09:56:48 AM Reading file: GERFIN_2 Time: 4 s
+2022-06-09 12:24:30 PM Reading file: GERFIN_2 Time: 5 s
 
-2022-06-09 09:56:48 AM Downloading file: GERFIN_2
+2022-06-09 12:24:31 PM Downloading file: GERFIN_2
+
+2022-06-09 12:25:05 PM Total New Items Found: 0 Time: 40 s
+
+2022-06-09 12:25:05 PM Reading file: GERFIN_3 Time: 40 s
+
+2022-06-09 12:25:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 12:25:06 PM Total New Items Found: 0 Time: 41 s
+
+2022-06-09 12:25:06 PM Reading file: GERFIN_4 Time: 41 s
+
+2022-06-09 12:25:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-06-09 12:25:06 PM Total New Items Found: 0 Time: 41 s
+
+2022-06-09 12:25:08 PM Reading file: EIKON_1 Time: 43 s
 
