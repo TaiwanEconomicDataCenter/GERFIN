@@ -20,6 +20,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 from selenium.common.exceptions import ElementClickInterceptedException
+from selenium.common.exceptions import JavascriptException
 from selenium.common.exceptions import UnexpectedAlertPresentException
 import webdriver_manager
 from webdriver_manager.chrome import ChromeDriverManager
@@ -234,7 +235,8 @@ def GERFIN_WEB(chrome, g, file_name, url, header=None, index_col=0, skiprows=Non
                         break
                 chrome.execute_script("window.scrollTo(0,200)")
                 WebDriverWait(chrome, 10).until(EC.visibility_of_element_located((By.XPATH, './/input[@name="its_from"]'))).send_keys(str(start_year))
-                chrome.find_element_by_xpath('.//span[text()="English"]').click()
+                chrome.refresh()
+                WebDriverWait(chrome, 5).until(EC.element_to_be_clickable((By.XPATH, './/label[contains(., "English")]'))).click()
                 chrome.refresh()
                 chrome.execute_script("window.scrollTo(0,0)")
                 chrome.find_element_by_xpath('.//input[@value="Go to download"]').click()
@@ -261,7 +263,7 @@ def GERFIN_WEB(chrome, g, file_name, url, header=None, index_col=0, skiprows=Non
             if link_found == False:
                 raise FileNotFoundError
         except (FileNotFoundError, TimeoutException, StaleElementReferenceException, ElementClickInterceptedException):
-            print(str(traceback.format_exc())[:1000])
+            print(str(traceback.format_exc())[:2000])
             if g == 1 or g == 4:
                 DOWN+=1
             else:
