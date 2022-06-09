@@ -1,4 +1,4 @@
-Data Source in SDW: https://sdw.ecb.europa.eu/browse.do?node=9691297
+Data Source in SDW: https://sdw.ecb.europa.eu/browseTable.do?org.apache.struts.taglib.html.TOKEN=a19f480ddfe55c6d8a39444f75ea0ee8&df=true&ec=&dc=&oc=&pb=&rc=&DATASET=0&removeItem=&removedItemList=&mergeFilter=&activeTab=EXR&showHide=&FREQ.18=D&MAX_DOWNLOAD_SERIES=500&SERIES_MAX_NUM=50&node=9691297
 ,EXR.D.ARS.EUR.SP00.A,EXR.D.DZD.EUR.SP00.A,EXR.D.MAD.EUR.SP00.A,EXR.D.TWD.EUR.SP00.A
 ,Argentine peso,Algerian dinar,Moroccan dirham,New Taiwan dollar
 Collection:,Average of observations through period (A),Average of observations through period (A),Average of observations through period (A),Average of observations through period (A)

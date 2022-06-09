@@ -1,40 +1,40 @@
-﻿2022-05-06 02:57:42 PM excel_suffix: mysql
+﻿2022-05-27 09:31:16 AM excel_suffix: mysql
 
-2022-05-06 02:57:42 PM merging: False
+2022-05-27 09:31:16 AM merging: False
 
-2022-05-06 02:57:42 PM updating: False
+2022-05-27 09:31:16 AM updating: False
 
-2022-05-06 02:57:42 PM find_unknown: False
+2022-05-27 09:31:16 AM find_unknown: False
 
-2022-05-06 02:57:42 PM dealing_start_year: 1957
+2022-05-27 09:31:16 AM dealing_start_year: 1957
 
-2022-05-06 02:59:16 PM Process: File Updating
+2022-05-27 09:32:37 AM Process: File Updating
 
-2022-05-06 02:59:16 PM Reading main key: GERFIN_keyUP.xlsx, Time: 94 s
+2022-05-27 09:32:37 AM Reading main key: GERFIN_keyUP.xlsx, Time: 80 s
 
-2022-05-06 02:59:17 PM Reading main database: GERFIN_database_1UP, Time: 95 s
+2022-05-27 09:32:38 AM Reading main database: GERFIN_database_1UP, Time: 81 s
 
-2022-05-06 02:59:33 PM Reading main database: GERFIN_database_2UP, Time: 111 s
+2022-05-27 09:32:49 AM Reading main database: GERFIN_database_2UP, Time: 92 s
 
-2022-05-06 02:59:50 PM Reading main database: GERFIN_database_3UP, Time: 128 s
+2022-05-27 09:33:00 AM Reading main database: GERFIN_database_3UP, Time: 104 s
 
-2022-05-06 03:00:02 PM Updating file: 0 s
+2022-05-27 09:33:10 AM Updating file: 0 s
 
-2022-05-06 03:32:53 PM updated: 97
+2022-05-27 09:54:59 AM updated: 0
 
-2022-05-06 03:32:53 PM Time: 1970 s
+2022-05-27 09:54:59 AM Time: 1308 s
 
-2022-05-06 03:42:04 PM      databank              name   db_table  db_code                                             desc_e  ...                  quote   snl                             source                                form_e   form_c
-0       EIKON   D001SPEDRAWEB.d  DB_D_0001  data001  Exchange Rates: SDR per United States Dollar (...  ...  Special Drawing Right     1                         WM/Reuters      Exchange Rate - Bid, Time Series      NaN
-1       EIKON   D001SPEDRAWEO.d  DB_D_0001  data002  Exchange Rates: SDR per United States Dollar (...  ...  Special Drawing Right     2                         WM/Reuters  Exchange Rate - Offered, Time Series      NaN
-2       EIKON   D001SPEDRAWER.d  DB_D_0001  data003  Exchange Rates: SDR per United States Dollar (...  ...  Special Drawing Right     3                         WM/Reuters   Exchange Rate - Middle, Time Series      NaN
-3      GERFIN  D111REXEURDECB.D  DB_D_0001  data004  Exchange Rate: United States Dollar per Euro (...  ...              US dollar     4  Official ECB & EUROSTAT Reference                 Spot Midpoint eop (D)      NaN
-4      GERFIN   D111REXEURECB.D  DB_D_0001  data005  Exchange Rate: Euro (prior to Dec 1998 ECU) pe...  ...                   Euro     5  Official ECB & EUROSTAT Reference                 Spot Midpoint eop (D)      NaN
-...       ...               ...        ...      ...                                                ...  ...                    ...   ...                                ...                                   ...      ...
-3279    EIKON   D968USRONONEO.d  DB_D_0017  data096  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3280                         WM/Reuters  Exchange Rate - Offered, Time Series  Forward
-3280    EIKON   D968USRONONER.d  DB_D_0017  data097  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3281                         WM/Reuters   Exchange Rate - Middle, Time Series  Forward
-3281    EIKON   D968USRONTNEB.d  DB_D_0017  data098  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3282                         WM/Reuters      Exchange Rate - Bid, Time Series  Forward
-3282    EIKON   D968USRONTNEO.d  DB_D_0017  data099  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3283                         WM/Reuters  Exchange Rate - Offered, Time Series  Forward
-3283    EIKON   D968USRONTNER.d  DB_D_0017  data100  Exchange Rates: New Romanian Leu per United St...  ...           Romanian Leu  3284                         WM/Reuters   Exchange Rate - Middle, Time Series  Forward
+2022-05-27 09:57:43 AM      databank              name  ...                                form_e   form_c
+0       EIKON   D001SPEDRAWEB.d  ...      Exchange Rate - Bid, Time Series      NaN
+1       EIKON   D001SPEDRAWEO.d  ...  Exchange Rate - Offered, Time Series      NaN
+2       EIKON   D001SPEDRAWER.d  ...   Exchange Rate - Middle, Time Series      NaN
+3      GERFIN  D111REXEURDECB.D  ...                 Spot Midpoint eop (D)      NaN
+4      GERFIN   D111REXEURECB.D  ...                 Spot Midpoint eop (D)      NaN
+...       ...               ...  ...                                   ...      ...
+3279    EIKON   D968USRONONEO.d  ...  Exchange Rate - Offered, Time Series  Forward
+3280    EIKON   D968USRONONER.d  ...   Exchange Rate - Middle, Time Series  Forward
+3281    EIKON   D968USRONTNEB.d  ...      Exchange Rate - Bid, Time Series  Forward
+3282    EIKON   D968USRONTNEO.d  ...  Exchange Rate - Offered, Time Series  Forward
+3283    EIKON   D968USRONTNER.d  ...   Exchange Rate - Middle, Time Series  Forward
 
 [3284 rows x 15 columns]
