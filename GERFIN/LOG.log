@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿2022-06-20 01:40:18 PM excel_suffix: test
 
 2022-06-20 01:40:18 PM merging: False
@@ -42,6 +43,29 @@
 2022-06-20 01:42:53 PM Total New Items Found: 0 Time: 155 s
 
 2022-06-20 01:42:56 PM Reading file: EIKON_1 Time: 157 s
+=======
+﻿2022-06-24 02:13:56 PM excel_suffix: mysql
+
+2022-06-24 02:13:56 PM merging: False
+
+2022-06-24 02:13:56 PM updating: False
+
+2022-06-24 02:13:56 PM find_unknown: False
+
+2022-06-24 02:13:56 PM dealing_start_year: 1957
+
+2022-06-24 02:22:23 PM Process: File Updating
+
+2022-06-24 02:22:23 PM Reading main key: GERFIN_keyUP.xlsx, Time: 507 s
+
+2022-06-24 02:22:24 PM Reading main database: GERFIN_database_1UP, Time: 508 s
+
+2022-06-24 02:22:37 PM Reading main database: GERFIN_database_2UP, Time: 521 s
+
+2022-06-24 02:22:51 PM Reading main database: GERFIN_database_3UP, Time: 534 s
+
+2022-06-24 02:23:01 PM Updating file: 0 s
+>>>>>>> Stashed changes
 
 2022-06-20 01:43:53 PM Reading sheet: Australian Dollar  Time: 214 s
 
