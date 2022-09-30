@@ -2,11 +2,7 @@
 "",Value of the special drawing right / XDR 1 = CAD ...,,Value of the special drawing right / XDR 1 = CHF ...,,Value of the special drawing right / XDR 1 = CNY ...,,Value of the special drawing right / XDR 1 = DKK ...,,Value of the special drawing right / XDR 1 = EUR ...,,Value of the special drawing right / XDR 1 = GBP ...,,Value of the special drawing right / XDR 1 = JPY ...,,Value of the special drawing right / XDR 1 = NOK ...,,Value of the special drawing right / XDR 1 = SEK ...,,Value of the special drawing right / XDR 1 = USD ...,
 unit,CAD,,CHF,,CNY,,DKK,,EUR,,GBP,,JPY,,NOK,,SEK,,USD,
 unit multiplier,one,,one,,one,,one,,one,,one,,one,,one,,one,,one,
-<<<<<<< Updated upstream
-last update,2022-06-17 13:24:28,,2022-06-17 13:24:39,,2022-06-17 13:24:57,,2022-06-17 13:25:16,,2022-06-17 13:28:15,,2022-06-17 13:28:25,,2022-06-17 13:31:51,,2022-06-17 13:36:41,,2022-06-17 13:43:11,,2022-06-17 13:47:09,
-=======
-last update,2022-06-22 13:20:04,,2022-06-22 13:20:05,,2022-06-22 13:20:08,,2022-06-22 13:20:10,,2022-06-22 13:21:41,,2022-06-22 13:21:42,,2022-06-22 13:23:19,,2022-06-22 13:24:56,,2022-06-22 13:27:47,,2022-06-22 13:29:28,
->>>>>>> Stashed changes
+last update,2022-09-27 13:07:17,,2022-09-27 13:07:18,,2022-09-27 13:07:20,,2022-09-27 13:07:22,,2022-09-27 13:08:48,,2022-09-27 13:08:49,,2022-09-27 13:10:22,,2022-09-27 13:11:55,,2022-09-27 13:14:25,,2022-09-27 13:15:55,
 1974-07-01,,,,,,,,,,,,,,,,,,,1.206010,
 1974-07-02,,,,,,,,,,,,,,,,,,,1.206380,
 1974-07-03,,,,,,,,,,,,,,,,,,,1.208670,
@@ -17519,14 +17515,6 @@ last update,2022-06-22 13:20:04,,2022-06-22 13:20:05,,2022-06-22 13:20:08,,2022-
 2022-06-08,1.68733,,1.31522,,8.98481,,9.32027,,1.25296,,1.073270,,178.825,,12.70450,,13.19560,,1.345560,
 2022-06-09,1.70236,,1.31642,,9.00309,,9.32314,,1.25326,,1.074230,,181.007,,12.76050,,13.23370,,1.346380,
 2022-06-10,1.71191,,1.31505,,8.96146,,9.42223,,1.26662,,1.076860,,179.806,,12.85560,,13.26100,,1.339830,
-<<<<<<< Updated upstream
-2022-06-11,,,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
-2022-06-12,,,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
-2022-06-13,,,1.32165,,8.96596,,9.47346,,1.27337,,1.091280,,179.726,,13.14400,,13.40300,,1.331300,
-2022-06-14,,,1.32144,,8.94775,,.,No value available,1.27173,,1.099800,,178.274,,.,No value available,13.46920,,1.329210,
-2022-06-15,,,1.32989,,8.94999,,9.49830,,1.27679,,1.101500,,179.782,,13.26170,,13.49930,,1.331820,
-2022-06-16,,,,,8.92459,,,,1.27822,,1.099870,,178.479,,13.36860,,13.65020,,1.329350,
-=======
 2022-06-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
 2022-06-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
 2022-06-13,.,No value available,1.32165,,8.96596,,9.47346,,1.27337,,1.091280,,179.726,,13.14400,,13.40300,,1.331300,
@@ -17538,5 +17526,101 @@ last update,2022-06-22 13:20:04,,2022-06-22 13:20:05,,2022-06-22 13:20:08,,2022-
 2022-06-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
 2022-06-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
 2022-06-21,1.72711,,1.29122,,8.94574,,9.41966,,1.26620,,1.087460,,180.592,,13.07780,,13.46150,,1.335840,
->>>>>>> Stashed changes
+2022-06-22,1.72578,,1.28707,,8.96186,,9.42809,,1.26744,,1.088640,,181.979,,13.31380,,13.55280,,1.333470,
+2022-06-23,1.73101,,1.28759,,8.94454,,9.45287,,1.27075,,1.091780,,180.275,,13.31100,,13.55980,,1.333400,
+2022-06-24,1.72784,,1.27874,,8.94550,,9.44465,,1.26947,,1.085690,,180.613,,13.24630,,.,No value available,1.335990,
+2022-06-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-06-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-06-27,1.72367,,1.28175,,8.94302,,9.41380,,1.26516,,1.089680,,180.032,,13.16780,,13.46920,,1.337530,
+2022-06-28,1.71904,,1.27752,,8.93559,,9.41327,,1.26533,,1.091670,,181.004,,13.07970,,13.43120,,1.336320,
+2022-06-29,1.71649,,1.26757,,8.93352,,9.42818,,1.26736,,1.096350,,181.419,,13.06200,,13.56240,,1.332880,
+2022-06-30,1.71098,,1.27374,,8.88920,,9.50959,,1.27831,,1.096520,,181.415,,13.22850,,13.56910,,1.327780,
+2022-07-01,.,No value available,1.27716,,8.91583,,9.48983,,1.27568,,1.103100,,180.839,,13.22250,,13.68530,,1.329890,
+2022-07-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-05,1.72536,,1.27688,,8.86328,,9.56755,,1.28604,,1.100670,,180.145,,13.22680,,13.74290,,1.323330,
+2022-07-06,1.72059,,1.28144,,8.84494,,9.64134,,1.29583,,1.106480,,178.930,,13.32150,,13.83490,,1.318760,
+2022-07-07,1.71270,,1.28321,,8.84956,,9.63958,,1.29556,,1.099990,,178.973,,13.33260,,13.89380,,1.318880,
+2022-07-08,.,No value available,1.28632,,8.83041,,9.64450,,1.29589,,1.098650,,179.140,,13.29970,,13.94440,,1.317010,
+2022-07-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-11,1.70936,,1.28905,,8.82200,,9.68973,,1.30213,,1.099590,,179.417,,13.41060,,13.93060,,1.314890,
+2022-07-12,1.70461,,1.29041,,8.82169,,9.70469,,1.30425,,1.105680,,179.629,,13.40170,,13.95360,,1.309730,
+2022-07-13,1.70243,,1.28240,,8.81655,,9.69829,,1.30325,,1.101120,,179.899,,13.34890,,13.91700,,1.311980,
+2022-07-14,1.71781,,1.28666,,8.81042,,9.72630,,1.30686,,1.105630,,180.437,,13.40010,,13.84710,,1.307510,
+2022-07-15,.,No value available,1.28260,,8.85755,,.,No value available,1.30163,,1.105880,,181.863,,.,No value available,.,No value available,1.309310,
+2022-07-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-18,1.70303,,1.28398,,8.86831,,9.66380,,1.29827,,1.097530,,.,No value available,13.31420,,13.68760,,1.315280,
+2022-07-19,1.70342,,1.27750,,8.90226,,9.59279,,1.28850,,1.097770,,182.460,,13.11190,,13.60810,,1.320070,
+2022-07-20,1.69609,,1.27733,,8.89000,,9.60984,,1.29075,,1.098720,,181.865,,13.07820,,13.42870,,1.316430,
+2022-07-21,1.69605,,1.27931,,8.89696,,9.60061,,1.28962,,1.099550,,182.100,,13.12190,,13.44180,,1.315280,
+2022-07-22,1.69371,,1.27002,,8.90385,,9.60966,,1.29088,,1.100390,,180.631,,13.10210,,13.48470,,1.315400,
+2022-07-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-25,1.69627,,1.27174,,8.91504,,9.59969,,1.28942,,1.095220,,180.292,,12.98490,,13.47340,,1.319850,
+2022-07-26,1.69502,,1.26926,,8.89047,,9.67530,,1.29959,,1.096510,,179.528,,13.00960,,13.41900,,1.315710,
+2022-07-27,1.69495,,1.26595,,8.90060,,9.65605,,1.29706,,1.091810,,180.385,,12.91320,,13.55380,,1.316780,
+2022-07-28,1.69026,,1.26622,,8.87997,,9.68523,,1.30104,,1.086570,,178.179,,12.87810,,13.45980,,1.316920,
+2022-07-29,1.69738,,1.25954,,8.90599,,9.66137,,1.29790,,1.086520,,176.039,,.,No value available,13.41630,,1.323600,
+2022-07-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-07-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-01,.,No value available,.,No value available,8.94494,,9.63911,,1.29458,,1.081960,,175.529,,12.76950,,13.46730,,1.324750,
+2022-08-02,1.70226,,1.26167,,8.95183,,9.63958,,1.29509,,1.085020,,173.259,,12.86090,,13.47180,,1.324100,
+2022-08-03,1.69791,,1.26633,,8.92148,,9.64488,,1.29588,,1.084400,,176.687,,12.79590,,13.50190,,1.321020,
+2022-08-04,1.69706,,1.26672,,8.91798,,9.65139,,1.29679,,1.084630,,176.413,,12.84670,,13.46630,,1.320260,
+2022-08-05,1.71078,,1.26364,,8.92443,,9.61881,,1.29258,,1.089450,,175.932,,12.90250,,13.39620,,1.322700,
+2022-08-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-08,1.69619,,1.26320,,8.91512,,9.62445,,1.29353,,1.089770,,178.629,,12.85830,,13.41110,,1.319270,
+2022-08-09,1.70105,,1.25888,,8.92180,,9.60227,,1.29050,,1.090810,,178.109,,12.82300,,13.40730,,1.320690,
+2022-08-10,1.68966,,1.25367,,8.92817,,9.58754,,1.28871,,1.092160,,178.624,,12.77350,,13.44040,,1.321190,
+2022-08-11,1.69330,,1.25009,,8.94686,,9.55502,,1.28435,,1.087840,,.,No value available,12.59180,,13.31990,,1.327760,
+2022-08-12,1.69317,,1.24905,,8.92045,,9.58084,,1.28785,,1.092140,,176.629,,12.63770,,13.37040,,1.324550,
+2022-08-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-15,1.70436,,1.24816,,8.93599,,9.63224,,1.29513,,1.092090,,175.612,,12.78430,,13.53030,,1.320390,
+2022-08-16,1.69304,,1.25087,,8.93400,,9.65876,,1.29879,,1.094490,,175.225,,12.78370,,13.66590,,1.315800,
+2022-08-17,1.70166,,1.25423,,8.93136,,9.64395,,1.29663,,1.088990,,177.006,,12.76240,,13.66810,,1.317890,
+2022-08-18,1.70255,,1.25538,,8.94630,,9.62529,,1.29392,,1.092540,,177.630,,12.71700,,13.74010,,1.316950,
+2022-08-19,1.70063,,1.25227,,8.91735,,9.68382,,1.30205,,1.105230,,178.402,,12.81450,,13.77560,,1.309090,
+2022-08-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-22,1.70263,,1.25226,,8.92945,,9.71336,,1.30607,,1.106580,,179.211,,12.76280,,13.87850,,1.306200,
+2022-08-23,1.68930,,1.25890,,8.93272,,9.75667,,1.31184,,1.106990,,178.775,,12.78240,,13.95770,,1.302260,
+2022-08-24,1.69065,,1.25533,,8.93759,,9.75029,,1.31086,,1.105810,,178.272,,12.63140,,13.88370,,1.302210,
+2022-08-25,1.68901,,1.25831,,8.94526,,9.73928,,1.30950,,1.103980,,178.784,,12.62350,,13.79270,,1.305570,
+2022-08-26,1.69698,,1.25787,,8.96411,,9.71062,,1.30556,,1.103910,,178.621,,12.62080,,13.84940,,1.306470,
+2022-08-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-08-29,1.69370,,1.26054,,9.00909,,9.69725,,1.30377,,.,No value available,180.970,,12.73460,,13.92560,,1.301940,
+2022-08-30,1.70539,,1.26672,,9.01664,,9.66735,,1.29979,,1.113000,,180.634,,12.67980,,13.91240,,1.304210,
+2022-08-31,1.70619,,1.27545,,8.97070,,9.67820,,1.30134,,1.120300,,180.379,,12.93380,,13.88350,,1.301340,
+2022-09-01,1.71409,,1.27457,,8.98747,,9.67867,,1.30139,,1.126320,,181.616,,13.03080,,13.92080,,1.301910,
+2022-09-02,1.70597,,1.27730,,8.97368,,9.67623,,1.30109,,1.124040,,182.090,,13.01550,,13.97210,,1.300180,
+2022-09-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-06,1.70194,,1.27111,,8.99386,,9.70252,,1.30473,,1.119130,,182.642,,12.90970,,13.90800,,1.295330,
+2022-09-07,1.69931,,1.27164,,8.99353,,9.71128,,1.30590,,1.127800,,186.041,,12.99140,,13.94920,,1.290880,
+2022-09-08,1.70150,,1.26225,,9.03302,,9.63846,,1.29610,,1.123760,,187.326,,13.04080,,13.90540,,1.297270,
+2022-09-09,1.69762,,1.24929,,9.01242,,9.63772,,1.29601,,1.121370,,187.227,,12.93880,,13.77310,,1.302360,
+2022-09-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-12,1.69359,,1.24423,,.,No value available,9.55484,,1.28485,,1.116810,,186.321,,12.81230,,13.65860,,1.304770,
+2022-09-13,1.71319,,1.23962,,9.04805,,9.55092,,1.28431,,1.114050,,186.321,,12.84150,,13.67010,,1.306780,
+2022-09-14,1.70818,,1.24630,,9.03636,,9.65792,,1.29871,,1.121990,,187.412,,13.13320,,13.84770,,1.297410,
+2022-09-15,1.70928,,1.23806,,9.02796,,9.63744,,1.29594,,1.125420,,185.495,,13.11530,,13.87740,,1.294910,
+2022-09-16,.,No value available,1.24434,,9.08447,,9.66875,,1.30015,,1.134540,,185.092,,13.25960,,13.91260,,1.294170,
+2022-09-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-19,1.71963,,1.24973,,9.08265,,9.63428,,1.29541,,.,No value available,.,No value available,13.32020,,13.99820,,1.294120,
+2022-09-20,1.72821,,1.25035,,9.07672,,9.64432,,1.29684,,1.132070,,185.487,,13.32250,,13.91530,,1.295030,
+2022-09-21,1.72829,,1.24355,,9.09827,,9.68448,,1.30230,,1.137420,,185.382,,13.39520,,14.15980,,1.290060,
+2022-09-22,1.73639,,1.26352,,9.13592,,9.69161,,1.30324,,1.140440,,186.069,,13.33870,,14.26600,,1.288120,
+2022-09-23,1.73689,,1.25781,,9.09662,,9.75848,,1.31223,,1.160320,,.,No value available,13.42870,,14.25840,,1.279950,
+2022-09-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-09-26,1.74466,,1.25965,,9.09852,,9.80623,,1.31867,,1.186060,,183.166,,13.65940,,14.36190,,1.271990,
 "","Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",
