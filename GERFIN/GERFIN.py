@@ -185,7 +185,10 @@ while data_processing == False:
     #if merge_file.empty == False and merging == True and updating == False:
     if merging:
         logging.info('Merging File, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        snl = int(merge_file['snl'][merge_file.shape[0]-1]+1)
+        try:
+            snl = int(merge_file['snl'][merge_file.shape[0]-1]+1)
+        except:
+            snl = 1
         for f in FREQNAME:
             table_num_dict[f], code_num_dict[f] = MERGE(merge_file, DB_TABLE, DB_CODE, f)
         #if main_file.empty == False:
