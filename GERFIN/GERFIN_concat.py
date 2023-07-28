@@ -95,11 +95,12 @@ def readExcelFile(dir, default=pd.DataFrame(), acceptNoFile=True, na_filter_=Tru
             ERROR(str(err))
 
 def PRESENT(file_path):
-    if os.path.isfile(file_path) and datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V'):
-        logging.info('Present File Exists. Reading Data From Default Path.\n')
-        return True
-    else:
-        return False
+    # if os.path.isfile(file_path) and datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V'):
+    #     logging.info('Present File Exists. Reading Data From Default Path.\n')
+    #     return True
+    # else:
+    #     return False
+    return True
 
 def GERFIN_WEBDRIVER(chrome, file_name, header=None, index_col=None, skiprows=None, usecols=None, names=None, csv=True, Zip=False):
 
