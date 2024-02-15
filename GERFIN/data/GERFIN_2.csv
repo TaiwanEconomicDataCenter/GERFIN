@@ -2,7 +2,7 @@
 "",Value of the special drawing right / XDR 1 = CAD ...,,Value of the special drawing right / XDR 1 = CHF ...,,Value of the special drawing right / XDR 1 = CNY ...,,Value of the special drawing right / XDR 1 = DKK ...,,Value of the special drawing right / XDR 1 = EUR ...,,Value of the special drawing right / XDR 1 = GBP ...,,Value of the special drawing right / XDR 1 = JPY ...,,Value of the special drawing right / XDR 1 = NOK ...,,Value of the special drawing right / XDR 1 = SEK ...,,Value of the special drawing right / XDR 1 = USD ...,
 unit,CAD,,CHF,,CNY,,DKK,,EUR,,GBP,,JPY,,NOK,,SEK,,USD,
 unit multiplier,one,,one,,one,,one,,one,,one,,one,,one,,one,,one,
-last update,2022-09-27 13:07:17,,2022-09-27 13:07:18,,2022-09-27 13:07:20,,2022-09-27 13:07:22,,2022-09-27 13:08:48,,2022-09-27 13:08:49,,2022-09-27 13:10:22,,2022-09-27 13:11:55,,2022-09-27 13:14:25,,2022-09-27 13:15:55,
+last update,2024-01-30 13:20:58,,2024-01-30 13:21:00,,2024-01-30 13:21:02,,2024-01-30 13:21:04,,2024-01-30 13:22:24,,2024-01-30 13:22:25,,2024-01-30 13:23:52,,2024-01-30 13:25:26,,2024-01-30 13:27:46,,2024-01-30 13:29:07,
 1974-07-01,,,,,,,,,,,,,,,,,,,1.206010,
 1974-07-02,,,,,,,,,,,,,,,,,,,1.206380,
 1974-07-03,,,,,,,,,,,,,,,,,,,1.208670,
@@ -17623,4 +17623,494 @@ last update,2022-09-27 13:07:17,,2022-09-27 13:07:18,,2022-09-27 13:07:20,,2022-
 2022-09-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
 2022-09-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
 2022-09-26,1.74466,,1.25965,,9.09852,,9.80623,,1.31867,,1.186060,,183.166,,13.65940,,14.36190,,1.271990,
+2022-09-27,1.74578,,1.25541,,9.09662,,9.80758,,1.31883,,1.177390,,183.723,,13.64630,,14.29510,,1.271880,
+2022-09-28,1.73053,,1.25349,,9.17111,,9.84979,,1.32447,,1.189090,,183.263,,13.85080,,14.48370,,1.266860,
+2022-09-29,1.74885,,1.24921,,9.19397,,9.77555,,1.31453,,1.177830,,184.174,,13.73920,,14.48620,,1.275880,
+2022-09-30,.,No value available,1.25364,,9.08174,,9.76381,,1.31297,,1.156590,,185.250,,13.89620,,14.23570,,1.279880,
+2022-10-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-03,1.74966,,1.26781,,.,No value available,9.75400,,1.31164,,1.143520,,185.506,,13.85810,,14.19880,,1.280680,
+2022-10-04,1.74845,,1.27218,,.,No value available,9.68561,,1.30228,,1.135080,,186.386,,13.66280,,14.04850,,1.288090,
+2022-10-05,1.75970,,1.26795,,.,No value available,9.67839,,1.30107,,1.134770,,185.671,,13.64280,,14.04310,,1.290010,
+2022-10-06,.,No value available,1.26659,,.,No value available,9.71176,,1.30552,,1.143150,,186.110,,13.61380,,14.09210,,1.287250,
+2022-10-07,.,No value available,1.27053,,.,No value available,9.73710,,1.30909,,1.145510,,185.991,,13.67970,,14.30140,,1.282520,
+2022-10-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-11,1.75838,,1.27267,,9.17204,,9.76639,,1.31287,,1.153270,,186.024,,13.68470,,14.42050,,1.276500,
+2022-10-12,1.76100,,1.26990,,9.14913,,9.78014,,1.31455,,1.151430,,186.511,,13.69040,,14.47140,,1.275900,
+2022-10-13,1.76215,,1.27470,,9.17743,,9.74858,,1.31057,,1.144210,,187.434,,13.56760,,14.50480,,1.276360,
+2022-10-14,1.76871,,1.28020,,9.16716,,9.77078,,1.31367,,1.135070,,188.117,,.,No value available,14.38520,,1.276500,
+2022-10-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-17,1.75275,,1.27914,,9.19405,,9.74953,,1.31079,,1.131570,,189.675,,13.55630,,14.42440,,1.276580,
+2022-10-18,1.75906,,1.27543,,9.19439,,9.67268,,1.30021,,1.135620,,190.407,,13.46090,,14.20840,,1.278760,
+2022-10-19,1.75848,,1.27984,,9.21167,,9.70921,,1.30518,,1.133800,,190.384,,13.55070,,14.19900,,1.276200,
+2022-10-20,1.75303,,1.28147,,9.23591,,9.68157,,1.30148,,1.138540,,191.443,,13.53800,,14.30370,,1.276880,
+2022-10-21,1.74530,,1.28698,,9.22424,,9.72952,,1.30805,,1.143970,,191.393,,13.64490,,14.33560,,1.272730,
+2022-10-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-24,1.75256,,1.28000,,9.27059,,9.64404,,1.29651,,1.129810,,186.470,,13.47330,,14.34910,,1.277190,
+2022-10-25,1.74287,,1.28121,,9.33829,,9.64032,,1.29597,,1.127940,,190.415,,13.46640,,14.24850,,1.277950,
+2022-10-26,1.75069,,1.27730,,9.31576,,9.57753,,1.28764,,1.115850,,191.215,,13.31520,,14.10470,,1.290600,
+2022-10-27,1.74809,,1.27781,,9.33393,,9.56343,,1.28563,,1.116110,,188.539,,13.29600,,14.02550,,1.290390,
+2022-10-28,1.75010,,1.27931,,9.31619,,9.61354,,1.29175,,1.114170,,188.442,,13.26560,,14.14450,,1.285420,
+2022-10-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-10-31,1.75157,,1.28310,,9.35891,,9.63623,,1.29443,,1.112280,,190.236,,13.33620,,14.10580,,1.283290,
+2022-11-01,1.75036,,1.27741,,9.35235,,9.62158,,1.29256,,1.112350,,191.223,,13.16280,,14.04760,,1.285710,
+2022-11-02,1.74921,,1.27841,,9.34038,,9.64078,,1.29527,,1.115670,,189.346,,13.26200,,14.10170,,1.283350,
+2022-11-03,1.75053,,1.29059,,9.31480,,9.71685,,1.30545,,1.135680,,.,No value available,13.51700,,14.22980,,1.273210,
+2022-11-04,1.72794,,1.28608,,9.29040,,9.63670,,1.29492,,1.140160,,189.515,,13.21070,,14.24440,,1.278350,
+2022-11-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-07,1.73730,,1.27448,,9.33376,,9.58515,,1.28846,,1.124890,,189.296,,13.21380,,14.01300,,1.287550,
+2022-11-08,1.73127,,1.27556,,9.34903,,9.58414,,1.28857,,1.123370,,188.700,,13.24580,,13.98850,,1.288050,
+2022-11-09,1.73922,,1.26777,,9.35191,,9.55959,,1.28521,,1.125800,,188.011,,13.26590,,13.85710,,1.290220,
+2022-11-10,1.71908,,1.27170,,9.31784,,9.60218,,1.29094,,1.129720,,188.035,,13.37610,,13.99770,,1.285010,
+2022-11-11,.,No value available,1.25346,,9.30362,,9.44662,,1.26998,,1.113130,,186.481,,13.03440,,13.80010,,1.309100,
+2022-11-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-14,1.73897,,1.23978,,9.20980,,9.43334,,1.26822,,1.112110,,182.691,,13.08080,,13.59690,,1.308680,
+2022-11-15,1.74892,,1.23761,,9.25420,,9.40902,,1.26487,,1.108470,,184.736,,13.10020,,13.64370,,1.315970,
+2022-11-16,1.75084,,1.23641,,9.30137,,9.39708,,1.26328,,1.105410,,183.528,,13.09710,,13.73110,,1.315330,
+2022-11-17,1.74976,,1.24312,,9.33628,,9.44796,,1.27017,,1.105040,,182.762,,13.33420,,13.74210,,1.310680,
+2022-11-18,1.75673,,1.25032,,9.35016,,9.41815,,1.26613,,1.101800,,184.034,,13.27660,,13.93310,,1.312470,
+2022-11-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-21,1.75422,,1.24922,,9.34317,,9.46629,,1.27275,,1.104480,,182.946,,13.35080,,13.94730,,1.304060,
+2022-11-22,1.75121,,1.24824,,9.35725,,9.46369,,1.27240,,1.100720,,185.697,,13.28970,,13.96660,,1.307260,
+2022-11-23,1.75282,,1.24499,,9.35716,,9.42756,,1.26766,,1.096430,,.,No value available,13.14040,,13.90150,,1.308860,
+2022-11-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-11-28,1.77191,,1.24171,,9.48308,,9.36154,,1.25883,,1.089110,,183.158,,13.04650,,13.72050,,1.317110,
+2022-11-29,1.78449,,1.24821,,9.41646,,9.42854,,1.26785,,1.093070,,182.484,,13.09850,,13.80520,,1.314250,
+2022-11-30,1.77609,,1.24864,,9.39038,,9.42356,,1.26719,,1.094700,,182.500,,13.00750,,13.88370,,1.314840,
+2022-12-01,1.77430,,1.24940,,9.34641,,9.39699,,1.26349,,1.085650,,179.966,,12.95020,,13.86290,,1.320860,
+2022-12-02,1.78903,,1.23982,,9.35506,,9.37506,,1.26054,,1.081900,,179.992,,12.93500,,13.70480,,1.328360,
+2022-12-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-05,1.79997,,1.24310,,9.26166,,9.34387,,1.25641,,1.083230,,179.146,,12.98700,,13.72320,,1.330160,
+2022-12-06,1.80998,,1.24685,,9.27480,,9.37946,,1.26102,,1.085620,,181.011,,13.16610,,13.78760,,1.326090,
+2022-12-07,1.80555,,1.24774,,9.23984,,9.35139,,1.25721,,1.089880,,181.707,,13.23280,,13.79290,,1.323720,
+2022-12-08,1.80004,,1.24798,,9.23796,,9.37154,,1.25992,,1.088690,,180.998,,13.21410,,13.73930,,1.325310,
+2022-12-09,1.81138,,1.23933,,9.23549,,9.36137,,1.25861,,1.083540,,181.909,,13.25880,,13.70600,,1.328970,
+2022-12-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-12,1.81407,,1.23769,,9.26355,,9.35340,,1.25753,,1.081910,,181.659,,13.27310,,13.74460,,1.328210,
+2022-12-13,1.79701,,1.24300,,9.25669,,9.35795,,1.25794,,1.079200,,182.792,,13.16800,,13.66520,,1.326500,
+2022-12-14,1.80890,,1.23792,,9.26990,,9.31836,,1.25260,,1.078330,,180.783,,12.97950,,13.61560,,1.333900,
+2022-12-15,1.81523,,1.23480,,9.26801,,9.32079,,1.25300,,1.081170,,180.152,,13.03280,,13.63180,,1.330810,
+2022-12-16,1.82028,,1.23624,,9.27652,,9.31524,,1.25241,,1.090910,,183.039,,13.12940,,13.76160,,1.329930,
+2022-12-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-19,1.81500,,1.23891,,9.28212,,9.33027,,1.25437,,1.090770,,181.008,,13.17400,,13.76520,,1.329380,
+2022-12-20,1.81632,,1.23486,,9.30233,,9.35883,,1.25811,,1.096650,,177.498,,13.22240,,13.87660,,1.333470,
+2022-12-21,1.81313,,1.23377,,9.28066,,9.31498,,1.25236,,1.100470,,175.465,,13.06330,,13.88450,,1.332010,
+2022-12-22,1.81820,,1.23430,,9.29454,,9.31203,,1.25217,,1.105470,,175.456,,13.03790,,13.77400,,1.331430,
+2022-12-23,1.81035,,1.23808,,9.29731,,.,No value available,1.25291,,1.102790,,176.537,,13.08650,,13.94070,,1.330840,
+2022-12-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2022-12-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-03,1.81619,,1.24951,,9.16582,,9.37831,,1.26104,,1.114360,,.,No value available,13.27620,,14.01450,,1.329760,
+2023-01-04,1.80296,,1.23816,,9.19786,,9.36593,,1.25930,,1.107060,,174.796,,13.52230,,14.00150,,1.334730,
+2023-01-05,1.80865,,1.23594,,9.16683,,9.35489,,1.25782,,1.109100,,176.078,,13.48990,,14.01290,,1.333420,
+2023-01-06,1.78863,,1.24638,,9.10233,,9.39399,,1.26313,,1.119370,,177.245,,13.65070,,.,No value available,1.326290,
+2023-01-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-09,1.79110,,1.23720,,9.07738,,9.31090,,1.25190,,1.102680,,.,No value available,13.28370,,14.02830,,1.339040,
+2023-01-10,1.80030,,1.23671,,9.09984,,9.30397,,1.25096,,1.103950,,176.798,,13.35840,,13.91660,,1.341410,
+2023-01-11,1.80091,,1.24152,,9.08505,,9.28359,,1.24822,,1.106080,,177.555,,13.40330,,14.02310,,1.341460,
+2023-01-12,1.79829,,1.25314,,9.08323,,9.28229,,1.24788,,1.105030,,177.302,,13.38070,,14.11130,,1.344210,
+2023-01-13,1.80768,,1.25402,,9.05362,,9.27541,,1.24691,,1.107610,,174.255,,13.33510,,14.00860,,1.348410,
+2023-01-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-17,1.80595,,1.24231,,9.12834,,9.25266,,1.24387,,1.100370,,173.595,,13.36700,,14.06470,,1.348730,
+2023-01-18,1.81398,,1.23242,,9.14361,,9.26492,,1.24531,,1.090610,,173.907,,13.26910,,13.93470,,1.349790,
+2023-01-19,1.81758,,1.23630,,9.14553,,9.28100,,1.24749,,1.092170,,173.232,,13.40550,,13.90710,,1.349160,
+2023-01-20,1.80945,,1.24070,,9.13392,,9.26432,,1.24535,,1.091370,,173.449,,13.34210,,13.88900,,1.348220,
+2023-01-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-23,1.80679,,1.24377,,.,No value available,9.23958,,1.24199,,1.092980,,174.563,,13.26870,,13.81330,,1.350160,
+2023-01-24,1.80399,,1.24484,,.,No value available,9.24522,,1.24266,,1.095640,,175.892,,13.32050,,13.76840,,1.349280,
+2023-01-25,1.80765,,1.24463,,.,No value available,9.22884,,1.24076,,1.096430,,175.933,,13.38730,,13.78670,,1.349700,
+2023-01-26,1.80553,,1.24090,,.,No value available,9.23429,,1.24145,,1.091560,,174.737,,13.36040,,13.79610,,1.352560,
+2023-01-27,1.79889,,1.24635,,.,No value available,9.24941,,1.24356,,1.092390,,175.647,,13.38080,,13.91500,,1.351130,
+2023-01-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-01-30,1.80533,,1.24444,,9.12709,,9.22169,,1.23975,,1.091580,,175.802,,13.38010,,13.94060,,1.351700,
+2023-01-31,1.80021,,1.24976,,9.10606,,9.25969,,1.24478,,1.094180,,175.854,,13.57840,,14.04470,,1.348470,
+2023-02-01,1.80038,,1.23787,,9.11743,,9.22978,,1.24063,,1.096360,,175.524,,13.46930,,14.09750,,1.351540,
+2023-02-02,1.80693,,1.23405,,9.12492,,9.18991,,1.23532,,1.097130,,174.286,,13.53110,,13.99150,,1.357370,
+2023-02-03,1.81253,,1.23626,,9.12884,,9.21294,,1.23758,,1.104260,,174.174,,13.58660,,14.07400,,1.353550,
+2023-02-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-06,1.80349,,1.24307,,9.09827,,9.26733,,1.24507,,1.113250,,177.572,,13.74910,,14.21450,,1.341690,
+2023-02-07,1.79861,,1.24136,,9.08612,,9.31064,,1.25117,,1.116880,,177.438,,13.91970,,14.22340,,1.338750,
+2023-02-08,1.80205,,1.23368,,9.09769,,9.30293,,1.25003,,1.109560,,175.642,,13.78290,,14.13350,,1.341910,
+2023-02-09,1.80387,,1.23545,,9.11585,,9.28229,,1.24730,,1.105820,,176.733,,13.61090,,14.11820,,1.343460,
+2023-02-10,1.79039,,1.23641,,9.10871,,9.33114,,1.25343,,1.106540,,176.360,,13.62600,,13.84910,,1.339910,
+2023-02-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-13,1.78396,,1.23358,,9.12409,,9.31932,,1.25117,,1.108810,,176.083,,13.53930,,13.98810,,1.337000,
+2023-02-14,1.79044,,1.23211,,9.14863,,9.29195,,1.24701,,1.099450,,177.475,,13.56470,,.,No value available,1.341660,
+2023-02-15,1.79356,,1.23367,,9.15675,,9.31350,,1.24989,,1.109170,,177.511,,13.64800,,13.90870,,1.337380,
+2023-02-16,1.79617,,1.23222,,9.16280,,9.30458,,1.24910,,1.108700,,179.163,,13.67930,,13.87830,,1.336540,
+2023-02-17,1.79508,,1.24166,,9.15424,,9.32792,,1.25268,,1.115180,,178.749,,13.79830,,14.00300,,1.330970,
+2023-02-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-21,1.80296,,1.23330,,9.17019,,9.31359,,1.25089,,1.101520,,179.082,,13.69320,,13.80190,,1.333940,
+2023-02-22,1.80415,,1.23667,,9.18527,,9.31966,,1.25165,,1.102590,,179.589,,13.72630,,13.77580,,1.332260,
+2023-02-23,1.80291,,1.24011,,9.16943,,9.32923,,1.25345,,1.106210,,.,No value available,13.73090,,13.83960,,1.330660,
+2023-02-24,1.80872,,1.24195,,9.21022,,9.35086,,1.25619,,1.107740,,178.057,,13.73890,,13.81290,,1.327790,
+2023-02-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-02-27,1.80018,,1.24711,,9.23856,,9.35287,,1.25667,,1.106900,,180.575,,13.77750,,13.91490,,1.326290,
+2023-02-28,1.80834,,1.24633,,9.22824,,9.31532,,1.25133,,1.098620,,181.100,,13.72870,,13.80660,,1.328790,
+2023-03-01,1.81566,,1.24837,,9.19118,,9.29256,,1.24847,,1.106940,,181.886,,13.77870,,13.87310,,1.333870,
+2023-03-02,1.81028,,1.25106,,9.18797,,9.33088,,1.25386,,1.109860,,181.507,,13.89900,,13.95630,,1.329720,
+2023-03-03,1.81005,,1.24862,,9.17793,,9.32305,,1.25289,,1.107830,,181.671,,13.85830,,13.93930,,1.329940,
+2023-03-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-06,1.81085,,1.24366,,9.20099,,9.29791,,1.24933,,1.108090,,180.699,,13.88130,,13.94060,,1.330040,
+2023-03-07,1.82515,,1.24256,,9.21464,,9.28548,,1.24761,,1.110060,,181.078,,13.96510,,13.90750,,1.330580,
+2023-03-08,1.82427,,1.24821,,9.22475,,9.33855,,1.25498,,1.117950,,181.739,,14.08150,,14.20670,,1.323370,
+2023-03-09,1.82833,,1.24291,,9.24471,,9.34903,,1.25625,,1.115140,,181.667,,14.15970,,14.17930,,1.325840,
+2023-03-10,.,No value available,1.23107,,9.24462,,9.33062,,1.25369,,1.106660,,180.374,,14.15410,,14.28780,,1.327160,
+2023-03-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-13,1.83399,,1.22115,,9.21939,,9.28816,,1.24767,,1.105210,,179.432,,14.21000,,14.20250,,1.335750,
+2023-03-14,1.82904,,1.21929,,9.18729,,9.27248,,1.24551,,1.099220,,177.929,,14.11800,,14.19900,,1.337310,
+2023-03-15,1.83419,,1.22774,,9.17642,,9.39488,,1.26196,,1.103390,,179.146,,14.31060,,13.86090,,1.331240,
+2023-03-16,1.83209,,1.23597,,9.20149,,9.37031,,1.25815,,1.106330,,176.691,,14.40430,,14.06930,,1.333010,
+2023-03-17,1.83294,,1.23804,,9.16506,,9.35340,,1.25633,,1.100160,,178.142,,14.34960,,13.95350,,1.334600,
+2023-03-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-20,1.83201,,1.24204,,9.23267,,9.30726,,1.25014,,1.095260,,177.654,,14.27790,,14.10320,,1.339780,
+2023-03-21,1.83903,,1.23939,,9.22288,,9.27205,,1.24514,,1.095140,,.,No value available,14.08570,,13.88740,,1.341770,
+2023-03-22,1.83995,,1.23773,,9.24522,,9.26569,,1.24419,,1.093520,,177.716,,14.09920,,13.88810,,1.341860,
+2023-03-23,1.84243,,1.23523,,9.20276,,9.22688,,1.23880,,1.095020,,176.346,,13.97870,,13.81860,,1.347690,
+2023-03-24,1.84643,,1.23426,,9.19067,,9.30423,,1.24857,,1.098180,,175.212,,14.11700,,13.91300,,1.341590,
+2023-03-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-03-27,1.83577,,1.22930,,9.23890,,9.28057,,1.24546,,1.094180,,175.298,,14.12110,,13.95170,,1.341740,
+2023-03-28,1.83222,,1.23378,,9.25969,,9.23950,,1.24034,,1.092410,,175.678,,14.04550,,13.87910,,1.344650,
+2023-03-29,1.82652,,1.23501,,9.26647,,9.23992,,1.24034,,1.089750,,176.611,,14.01650,,13.96010,,1.345400,
+2023-03-30,1.82113,,1.23118,,9.25395,,9.20861,,1.23617,,1.090610,,178.332,,14.03930,,14.03170,,1.345700,
+2023-03-31,1.82050,,1.23405,,9.23975,,9.21379,,1.23699,,1.087010,,179.561,,14.09430,,13.92840,,1.345230,
+2023-04-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-03,1.80726,,1.23239,,9.26432,,9.21803,,1.23725,,1.087660,,178.924,,13.92100,,13.97780,,1.344890,
+2023-04-04,1.81296,,1.22985,,9.27584,,9.21566,,1.23679,,1.078200,,178.735,,13.89470,,13.98530,,1.348230,
+2023-04-05,1.81660,,1.22162,,.,No value available,9.19261,,1.23394,,1.082720,,177.543,,14.06570,,13.88970,,1.349930,
+2023-04-06,1.81749,,1.22072,,9.27472,,.,No value available,1.23544,,1.082210,,176.787,,.,No value available,14.04170,,1.348490,
+2023-04-07,.,No value available,.,No value available,9.26904,,.,No value available,.,No value available,.,No value available,177.591,,.,No value available,.,No value available,1.348140,
+2023-04-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-10,1.82319,,.,No value available,9.26329,,.,No value available,.,No value available,.,No value available,178.721,,.,No value available,.,No value available,1.347820,
+2023-04-11,1.81732,,1.21847,,9.28160,,9.20887,,1.23600,,1.082360,,179.832,,14.26780,,14.11450,,1.347860,
+2023-04-12,1.81149,,1.21538,,9.27377,,9.18957,,1.23341,,1.085300,,180.179,,14.15280,,14.01160,,1.347130,
+2023-04-13,1.80568,,1.20467,,9.29100,,9.14302,,1.22711,,1.080810,,180.068,,14.05900,,13.97920,,1.351660,
+2023-04-14,1.81000,,1.20206,,9.26999,,9.12817,,1.22510,,1.082630,,179.443,,13.96850,,13.88550,,1.354590,
+2023-04-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-17,1.80784,,1.20583,,9.26793,,9.15701,,1.22879,,1.087650,,180.608,,13.96400,,13.91620,,1.349330,
+2023-04-18,1.80616,,1.20935,,9.27850,,9.16263,,1.22967,,1.084650,,181.358,,14.10120,,13.90380,,1.349190,
+2023-04-19,1.80995,,1.21110,,9.28359,,9.17499,,1.23131,,1.084370,,180.524,,14.20140,,13.89780,,1.346190,
+2023-04-20,.,No value available,1.20554,,9.28419,,9.18307,,1.23223,,1.084130,,181.811,,14.29880,,13.95670,,1.348550,
+2023-04-21,1.82517,,1.20458,,9.29005,,9.15189,,1.22799,,1.088520,,180.967,,14.30670,,13.94940,,1.348080,
+2023-04-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-24,1.82798,,1.20029,,9.31012,,9.14419,,1.22692,,1.084440,,180.989,,14.29000,,13.92880,,1.349860,
+2023-04-25,1.83854,,1.19843,,9.33628,,9.12575,,1.22445,,1.083530,,181.236,,14.31990,,13.83520,,1.349590,
+2023-04-26,1.84113,,1.20109,,9.35104,,9.12375,,1.22410,,1.082240,,180.721,,14.34890,,13.90350,,1.351290,
+2023-04-27,1.83912,,1.20613,,9.35611,,9.12043,,1.22360,,1.083350,,180.602,,14.33330,,13.94350,,1.351100,
+2023-04-28,1.82897,,1.20638,,9.32557,,9.14336,,1.22667,,1.080760,,180.566,,14.46360,,13.85870,,1.347010,
+2023-04-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-04-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-01,1.82556,,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,184.214,,.,No value available,.,No value available,1.347670,
+2023-05-02,1.83113,,1.20850,,.,No value available,9.14060,,1.22630,,1.078170,,184.915,,14.42380,,13.83030,,1.344640,
+2023-05-03,1.83778,,1.19970,,.,No value available,9.10739,,1.22224,,1.079260,,.,No value available,14.52760,,13.87040,,1.349720,
+2023-05-04,1.83441,,1.19718,,9.34920,,9.09728,,1.22107,,1.075580,,.,No value available,14.44310,,13.88930,,1.352220,
+2023-05-05,1.81448,,1.20454,,9.34091,,.,No value available,1.22695,,1.071410,,.,No value available,14.34250,,13.78600,,1.351370,
+2023-05-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-08,1.80537,,1.20119,,9.34693,,9.12226,,1.22491,,.,No value available,182.605,,14.14830,,13.72500,,1.351930,
+2023-05-09,1.80664,,1.20319,,9.34518,,9.16641,,1.23118,,1.069090,,182.526,,14.25090,,13.72100,,1.349250,
+2023-05-10,1.80263,,1.20112,,9.33785,,9.16691,,1.23083,,1.068760,,182.150,,14.21430,,13.72880,,1.347760,
+2023-05-11,1.81479,,1.20412,,9.34326,,9.17642,,1.23201,,1.068550,,180.577,,14.19030,,13.82470,,1.346580,
+2023-05-12,1.82029,,1.20147,,9.34545,,9.19743,,1.23483,,1.072720,,180.966,,14.36230,,13.86510,,1.344970,
+2023-05-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-15,1.81084,,1.20329,,9.33106,,9.19354,,1.23451,,1.073570,,182.601,,14.29940,,13.94940,,1.342660,
+2023-05-16,1.80769,,1.19960,,9.35401,,9.19413,,1.23464,,1.071770,,182.636,,14.33780,,13.90790,,1.343410,
+2023-05-17,1.80212,,1.20371,,9.37313,,9.20607,,1.23610,,1.075380,,182.622,,.,No value available,13.95740,,1.338570,
+2023-05-18,1.80437,,.,No value available,9.39461,,.,No value available,1.23608,,1.075020,,183.818,,.,No value available,.,No value available,1.336570,
+2023-05-19,1.80389,,1.20554,,9.38148,,.,No value available,1.23605,,1.074840,,184.825,,14.46290,,14.09890,,1.335920,
+2023-05-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-22,.,No value available,1.19667,,9.39647,,9.20073,,1.23536,,1.073870,,184.025,,14.54820,,14.08420,,1.336910,
+2023-05-23,1.80120,,1.20218,,9.40495,,9.21583,,1.23744,,1.076930,,185.109,,14.59190,,14.10230,,1.333830,
+2023-05-24,1.81052,,1.20425,,9.40088,,9.20531,,1.23600,,1.077020,,184.491,,14.60640,,14.15620,,1.333030,
+2023-05-25,1.81310,,1.20536,,9.40504,,9.23327,,1.23933,,1.076440,,185.488,,14.58640,,14.23390,,1.330420,
+2023-05-26,1.81407,,1.20199,,9.38218,,9.22628,,1.23860,,1.075800,,186.161,,14.64250,,14.27420,,1.331620,
+2023-05-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-05-30,1.80973,,1.20098,,9.43761,,9.22671,,1.23872,,1.070830,,186.616,,14.70910,,14.34190,,1.330880,
+2023-05-31,1.80575,,1.20872,,9.43663,,9.25480,,1.24260,,1.073650,,185.579,,14.91670,,14.38160,,1.327460,
+2023-06-01,1.79308,,1.20796,,9.47230,,9.25986,,1.24332,,1.066800,,185.466,,14.87880,,14.36310,,1.329980,
+2023-06-02,1.79243,,1.20814,,9.43752,,9.23327,,1.23957,,1.064940,,185.114,,14.68270,,14.38480,,1.334150,
+2023-06-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-05,1.78424,,1.20981,,9.45403,,.,No value available,1.24242,,1.071820,,186.127,,14.69480,,14.42880,,1.328150,
+2023-06-06,1.78351,,1.20622,,9.46163,,9.26793,,1.24412,,1.070550,,185.462,,14.77700,,.,No value available,1.329090,
+2023-06-07,1.77931,,1.20465,,9.47867,,9.24642,,1.24123,,1.068070,,185.500,,14.64340,,14.50680,,1.330230,
+2023-06-08,1.77674,,1.20952,,9.48425,,9.22867,,1.23879,,1.067060,,186.040,,14.56570,,14.46930,,1.330090,
+2023-06-09,.,No value available,1.20135,,9.48758,,.,No value available,1.23571,,1.061770,,185.241,,.,No value available,.,No value available,1.332100,
+2023-06-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-12,1.78145,,1.20627,,9.51928,,9.22628,,1.23810,,1.059770,,185.755,,14.40410,,14.42030,,1.332820,
+2023-06-13,1.77463,,1.20824,,9.53289,,9.20624,,1.23534,,1.060790,,186.196,,14.35900,,14.33360,,1.333310,
+2023-06-14,1.77356,,1.20409,,9.55073,,9.19676,,1.23398,,1.055020,,186.773,,14.16120,,14.25230,,1.333810,
+2023-06-15,1.76865,,1.20190,,9.54681,,9.19320,,1.23360,,1.053420,,187.221,,14.18950,,14.33700,,1.334630,
+2023-06-16,1.76965,,1.19610,,9.55155,,9.10996,,1.22273,,1.048110,,187.839,,14.08220,,14.21820,,1.340850,
+2023-06-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-20,1.77178,,1.20115,,9.59739,,9.11702,,1.22391,,1.048220,,190.251,,14.33870,,14.34980,,1.338100,
+2023-06-21,1.76225,,1.19988,,9.61622,,9.11469,,1.22380,,1.052280,,189.285,,14.37610,,14.43740,,1.336760,
+2023-06-22,1.76455,,1.19744,,.,No value available,9.09182,,1.22061,,1.046310,,190.238,,14.15780,,14.32970,,1.340840,
+2023-06-23,1.75994,,1.19912,,.,No value available,9.12509,,1.22509,,1.048300,,190.781,,14.52530,,.,No value available,1.333390,
+2023-06-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-06-26,1.75484,,1.19154,,9.65437,,9.10009,,1.22218,,1.049830,,191.390,,14.30940,,14.30680,,1.334380,
+2023-06-27,1.76057,,1.19485,,9.63400,,9.08777,,1.22025,,1.049470,,191.678,,14.34570,,14.27040,,1.336290,
+2023-06-28,1.76950,,1.19602,,9.66081,,9.08959,,1.22058,,1.051940,,192.130,,14.45110,,14.30940,,1.335070,
+2023-06-29,1.76806,,1.19482,,9.65624,,9.08224,,1.21949,,1.053950,,192.412,,14.34670,,14.34960,,1.333880,
+2023-06-30,1.76102,,1.19833,,9.65670,,9.05633,,1.22407,,1.051690,,192.701,,14.32650,,14.43250,,1.330070,
+2023-07-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-05,1.76824,,1.19692,,9.64860,,9.12084,,1.22457,,1.049060,,192.504,,14.26070,,14.44400,,1.332210,
+2023-07-06,1.78004,,1.19494,,9.66557,,9.11461,,1.22356,,1.044170,,192.500,,14.23860,,14.58990,,1.333560,
+2023-07-07,1.77349,,1.19453,,9.66380,,9.13067,,1.22534,,1.045410,,192.251,,14.34700,,14.59840,,1.334150,
+2023-07-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-10,1.77654,,1.19005,,9.67230,,9.09537,,1.22066,,1.045910,,190.573,,14.11510,,14.49220,,1.337360,
+2023-07-11,1.77988,,1.18350,,9.66959,,9.10357,,1.22149,,1.039610,,189.827,,13.98850,,14.38560,,1.342290,
+2023-07-12,1.77215,,1.18029,,9.66053,,9.08571,,1.21916,,1.040180,,187.898,,13.81420,,14.31500,,1.343760,
+2023-07-13,1.77469,,1.16657,,9.67764,,9.00941,,1.20894,,1.034620,,187.297,,13.59810,,14.01930,,1.351840,
+2023-07-14,1.78565,,1.16366,,9.66585,,8.99111,,1.20712,,1.033150,,186.245,,13.53230,,13.85970,,1.354510,
+2023-07-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-17,1.78599,,1.16353,,9.71355,,8.98529,,1.20602,,1.035520,,.,No value available,13.55800,,13.83740,,1.354350,
+2023-07-18,1.78776,,1.16266,,9.72280,,8.97287,,1.20426,,1.032880,,188.129,,13.65570,,13.79860,,1.355390,
+2023-07-19,1.77820,,1.15941,,9.74526,,8.96443,,1.20316,,1.045040,,187.663,,13.55480,,13.81800,,1.350190,
+2023-07-20,1.77947,,1.15988,,9.71053,,8.99030,,1.20662,,1.047570,,188.607,,13.46040,,13.86930,,1.351050,
+2023-07-21,1.77820,,1.16615,,9.65922,,9.01559,,1.21001,,1.047710,,188.425,,13.52490,,13.93930,,1.345890,
+2023-07-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-24,1.77120,,1.16274,,9.68551,,9.03000,,1.21185,,1.047700,,190.648,,13.56370,,14.00880,,1.344670,
+2023-07-25,1.77166,,1.16803,,9.59739,,9.06093,,1.21599,,1.046530,,190.187,,13.57110,,13.91200,,1.343790,
+2023-07-26,1.77986,,1.16081,,9.62316,,9.07178,,1.21741,,1.041970,,189.901,,13.63500,,13.94210,,1.346340,
+2023-07-27,1.78069,,1.15554,,9.62714,,9.03522,,1.21250,,1.041100,,189.251,,13.49200,,13.94270,,1.348910,
+2023-07-28,1.77712,,1.16771,,9.61881,,9.09107,,1.21985,,1.044970,,187.261,,13.62320,,14.20090,,1.343050,
+2023-07-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-07-31,1.76959,,1.16809,,9.59840,,9.07985,,1.21830,,1.043830,,189.247,,13.62130,,14.13100,,1.342940,
+2023-08-01,1.78060,,.,No value available,9.59942,,9.10051,,1.22125,,1.046690,,191.243,,13.69140,,14.16550,,1.339710,
+2023-08-02,1.78568,,1.17532,,9.61899,,9.08389,,1.21902,,1.047640,,191.705,,13.60610,,14.21770,,1.339100,
+2023-08-03,1.78426,,1.17030,,9.60809,,9.10954,,1.22249,,1.056330,,191.456,,13.78530,,14.33860,,1.336420,
+2023-08-04,1.78545,,1.17314,,9.60108,,9.10092,,1.22137,,1.052690,,190.577,,13.66210,,14.30700,,1.336910,
+2023-08-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-07,.,No value available,1.17390,,9.62519,,9.07968,,1.21849,,1.051490,,189.583,,13.58440,,14.18720,,1.338390,
+2023-08-08,1.79804,,1.17141,,9.63837,,9.09819,,1.22098,,1.050460,,191.109,,13.79090,,14.21660,,1.336240,
+2023-08-09,1.79635,,1.17255,,9.62909,,9.08604,,1.21942,,1.050100,,191.699,,13.66530,,14.28220,,1.337460,
+2023-08-10,1.79601,,1.16957,,9.65754,,9.05723,,1.21555,,1.048790,,192.647,,13.58790,,14.25680,,1.339410,
+2023-08-11,1.79665,,1.17043,,9.67034,,9.04969,,1.21455,,1.051030,,.,No value available,13.87320,,14.29610,,1.336490,
+2023-08-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-14,1.79536,,1.16930,,9.67445,,9.09281,,1.22026,,1.050070,,193.500,,13.95250,,14.47100,,1.333750,
+2023-08-15,1.79627,,1.16707,,9.70601,,9.08703,,1.21943,,1.048350,,193.910,,13.98750,,14.43480,,1.332350,
+2023-08-16,1.80024,,1.17073,,9.70704,,9.09132,,1.21999,,1.045150,,193.994,,13.97240,,14.43880,,1.331740,
+2023-08-17,1.79965,,1.16929,,9.72337,,9.09736,,1.22083,,1.043820,,194.816,,14.03780,,14.54230,,1.330710,
+2023-08-18,1.80226,,1.17130,,9.69030,,9.11885,,1.22378,,1.045710,,193.631,,14.17140,,14.56400,,1.329880,
+2023-08-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-21,1.80295,,1.17146,,9.73047,,9.09529,,1.22046,,1.044840,,193.395,,14.06030,,.,No value available,1.331280,
+2023-08-22,1.80342,,1.16832,,9.70130,,9.11253,,1.22259,,1.042760,,194.664,,14.08370,,14.51380,,1.331040,
+2023-08-23,1.79859,,1.16964,,9.67558,,9.15457,,1.22830,,1.051110,,193.370,,14.21510,,14.54450,,1.327180,
+2023-08-24,1.80399,,1.17030,,9.68345,,9.14470,,1.22683,,1.048390,,192.541,,14.20370,,14.53950,,1.329880,
+2023-08-25,1.80530,,1.17478,,9.67081,,9.15055,,1.22765,,1.052000,,193.851,,14.14000,,14.62760,,1.326840,
+2023-08-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-08-28,1.80323,,1.17172,,9.67558,,9.14587,,1.22714,,.,No value available,194.289,,14.19870,,14.62550,,1.326300,
+2023-08-29,1.80241,,1.17363,,9.66697,,9.14779,,1.22742,,1.053330,,194.230,,14.19450,,14.54680,,1.325980,
+2023-08-30,1.80035,,1.16946,,9.69998,,9.10680,,1.22189,,1.050250,,194.214,,14.10790,,14.49690,,1.330140,
+2023-08-31,1.79954,,1.17194,,9.69518,,9.11951,,1.22372,,1.048850,,194.265,,14.17060,,14.45220,,1.329940,
+2023-09-01,1.80616,,1.17394,,9.65726,,9.14077,,1.22650,,1.049030,,193.703,,14.08750,,14.55530,,1.330020,
+2023-09-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-05,1.80263,,1.17574,,9.65689,,9.18788,,1.23273,,1.053680,,194.457,,14.23000,,14.66940,,1.322840,
+2023-09-06,1.80620,,1.17746,,9.67062,,9.17953,,1.23112,,1.053970,,195.515,,14.14800,,14.67660,,1.322840,
+2023-09-07,1.80512,,1.17833,,9.67258,,9.19506,,1.23260,,1.059820,,195.165,,14.15080,,14.68450,,1.320110,
+2023-09-08,1.79922,,1.17704,,9.69565,,9.19735,,1.23304,,1.057360,,193.886,,14.08390,,14.66460,,1.319850,
+2023-09-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-11,1.79583,,1.17870,,9.64227,,9.19625,,1.23303,,1.056700,,194.273,,14.08610,,14.63250,,1.322310,
+2023-09-12,1.79190,,1.17861,,9.64078,,9.20209,,1.23351,,1.059840,,193.765,,14.12860,,14.66320,,1.321460,
+2023-09-13,1.79233,,1.18086,,9.63326,,9.19430,,1.23232,,1.060030,,194.747,,14.14460,,14.67260,,1.322650,
+2023-09-14,1.78727,,1.18120,,9.62279,,9.19439,,1.23247,,1.060880,,194.557,,14.17810,,14.70440,,1.322430,
+2023-09-15,1.78370,,1.18184,,9.58350,,9.22696,,1.23731,,1.062410,,194.511,,14.13250,,14.71770,,1.318720,
+2023-09-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-18,1.77940,,1.18191,,9.61705,,9.22160,,1.23694,,1.063460,,.,No value available,14.31000,,14.76250,,1.318950,
+2023-09-19,.,No value available,1.18322,,9.63094,,9.18603,,1.23219,,1.064890,,194.931,,14.15850,,14.70010,,1.320040,
+2023-09-20,1.77137,,1.18333,,9.63243,,9.18991,,1.23309,,1.067290,,195.045,,14.15830,,14.72400,,1.319650,
+2023-09-21,1.77559,,1.19286,,9.61603,,9.22901,,1.23801,,1.073700,,195.307,,14.27040,,14.69610,,1.316620,
+2023-09-22,1.77176,,1.19335,,9.60707,,9.21489,,1.23596,,1.074580,,194.283,,14.12330,,14.71140,,1.315930,
+2023-09-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-09-25,1.77230,,1.19657,,9.61862,,9.22688,,1.23732,,1.075000,,195.241,,14.14260,,14.60970,,1.315640,
+2023-09-26,1.77421,,1.19876,,9.60347,,9.23566,,1.23843,,1.077930,,195.532,,14.16770,,14.56640,,1.313350,
+2023-09-27,1.77214,,1.20320,,9.58313,,9.28005,,1.24454,,1.079970,,195.414,,14.13910,,14.43770,,1.311240,
+2023-09-28,1.76937,,1.20380,,9.57753,,9.27695,,1.24426,,1.074860,,196.030,,14.08010,,14.45670,,1.311320,
+2023-09-29,1.77785,,1.19808,,.,No value available,9.25609,,1.24125,,1.071920,,196.510,,13.96830,,14.25610,,1.314980,
+2023-09-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-02,.,No value available,1.19791,,.,No value available,9.28428,,1.24479,,1.078290,,196.247,,14.09410,,14.30490,,1.310760,
+2023-10-03,1.79216,,1.20619,,.,No value available,9.31211,,1.24854,,1.083960,,195.881,,14.26550,,14.46030,,1.307100,
+2023-10-04,1.79936,,1.20337,,.,No value available,9.30345,,1.24730,,1.079920,,195.399,,14.36080,,14.50630,,1.309290,
+2023-10-05,1.79918,,1.19980,,.,No value available,9.28229,,1.24465,,1.079440,,194.945,,14.40090,,14.48740,,1.310110,
+2023-10-06,1.79537,,1.19711,,.,No value available,9.26355,,1.24218,,1.074490,,195.007,,14.42040,,14.45730,,1.312120,
+2023-10-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-08,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-10,1.78599,,1.18959,,9.58653,,9.25952,,1.24183,,1.072120,,195.210,,14.27660,,14.42260,,1.314100,
+2023-10-11,1.78864,,1.18727,,9.59665,,9.24625,,1.23999,,1.069660,,195.391,,14.25400,,14.30750,,1.314880,
+2023-10-12,1.79638,,1.18408,,9.60117,,9.23591,,1.23868,,1.069780,,196.172,,14.26530,,14.33340,,1.315350,
+2023-10-13,1.78948,,1.18973,,9.57158,,9.28315,,1.24469,,1.076530,,196.265,,14.33390,,14.34370,,1.309920,
+2023-10-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-16,1.78454,,1.18316,,9.58038,,9.27506,,1.24344,,1.078330,,195.947,,14.32060,,14.38770,,1.310330,
+2023-10-17,1.78926,,1.18150,,9.59003,,9.25549,,1.24052,,1.078250,,196.075,,14.36020,,14.32140,,1.311100,
+2023-10-18,1.79431,,1.17899,,9.58580,,9.25934,,1.24103,,1.076390,,196.410,,14.38980,,14.33130,,1.311150,
+2023-10-19,1.79702,,1.17635,,9.58672,,9.26097,,1.24101,,1.080800,,196.224,,14.51640,,14.47010,,1.310260,
+2023-10-20,1.79606,,1.16911,,9.59721,,9.24009,,1.23829,,1.081760,,196.524,,14.46420,,14.43370,,1.311470,
+2023-10-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-22,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-23,1.79729,,1.17107,,9.60504,,9.24428,,1.23862,,1.079850,,196.792,,14.61380,,14.44950,,1.312560,
+2023-10-24,1.80422,,1.17378,,9.60061,,9.22560,,1.23587,,1.075970,,196.768,,14.61490,,14.38070,,1.313980,
+2023-10-25,1.80715,,1.17461,,9.59242,,9.25395,,1.23983,,1.081530,,196.581,,14.67710,,14.62960,,1.311240,
+2023-10-26,1.80991,,1.17634,,9.58176,,9.26990,,1.24209,,1.084060,,196.597,,14.72490,,14.66450,,1.309160,
+2023-10-27,1.81567,,1.18084,,9.58810,,9.27790,,1.24305,,1.080790,,196.780,,14.70330,,14.63130,,1.310290,
+2023-10-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-10-30,1.81448,,1.18617,,9.59942,,9.23191,,1.23687,,1.081770,,196.493,,14.58340,,14.65380,,1.311700,
+2023-10-31,1.82284,,1.18601,,9.61714,,9.23788,,1.23753,,1.079150,,196.398,,14.69390,,14.61420,,1.314140,
+2023-11-01,1.81637,,1.19023,,9.58185,,9.27368,,1.24238,,1.079530,,198.066,,14.65510,,14.63510,,1.309100,
+2023-11-02,1.81024,,1.18865,,9.61640,,9.19811,,1.23240,,1.076800,,197.736,,14.63390,,14.63550,,1.313860,
+2023-11-03,1.79885,,1.18951,,9.61677,,9.16716,,1.22843,,1.075120,,.,No value available,14.56120,,14.60390,,1.314660,
+2023-11-04,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-05,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-06,1.80712,,1.18535,,9.62121,,9.17583,,1.23022,,1.063530,,197.705,,14.54550,,14.35520,,1.321380,
+2023-11-07,1.81188,,1.18635,,9.59177,,9.18966,,1.23224,,1.071460,,197.595,,14.69080,,14.38860,,1.316770,
+2023-11-08,1.81646,,1.18550,,9.58323,,9.20141,,1.23377,,1.073250,,198.287,,14.71950,,14.41620,,1.316560,
+2023-11-09,1.81426,,1.18524,,9.59131,,9.18425,,1.23141,,1.073730,,198.738,,14.69500,,14.33800,,1.316500,
+2023-11-10,1.81769,,1.18619,,9.59260,,9.18240,,1.23126,,1.077450,,199.053,,14.61820,,14.34880,,1.315360,
+2023-11-11,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-12,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-13,.,No value available,1.18886,,9.59951,,9.20056,,1.23335,,1.074230,,199.569,,14.64850,,14.33860,,1.315990,
+2023-11-14,1.80823,,1.18895,,9.61003,,9.16447,,1.22853,,1.072690,,199.887,,14.67480,,14.29880,,1.317470,
+2023-11-15,1.81379,,1.17753,,9.60301,,9.10291,,1.22042,,1.063420,,199.801,,14.33510,,14.02790,,1.326350,
+2023-11-16,1.82129,,1.17702,,9.61095,,9.10714,,1.22092,,1.067950,,200.342,,14.36710,,13.96060,,1.324580,
+2023-11-17,1.82084,,1.17780,,9.61529,,9.10283,,1.22052,,1.067660,,199.944,,14.41550,,14.04390,,1.326950,
+2023-11-18,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-19,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-20,1.82731,,1.17665,,9.55630,,9.08372,,1.21822,,1.067450,,198.360,,14.27750,,13.96280,,1.331280,
+2023-11-21,1.82644,,1.17923,,9.51086,,9.07449,,1.21713,,1.064140,,197.338,,14.20390,,13.85310,,1.333370,
+2023-11-22,1.82642,,1.17647,,9.50959,,9.09322,,1.21980,,1.061760,,197.243,,14.27410,,13.95590,,1.330920,
+2023-11-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-11-27,.,No value available,.,No value available,9.53898,,.,No value available,1.21780,,1.055450,,199.349,,.,No value available,.,No value available,1.333620,
+2023-11-28,1.81102,,1.17561,,9.53971,,9.08084,,1.21791,,1.056690,,197.504,,14.26970,,13.92430,,1.333490,
+2023-11-29,1.81633,,1.17132,,9.52254,,9.07219,,1.21668,,1.053370,,196.281,,14.23080,,13.82810,,1.336520,
+2023-11-30,1.81087,,1.16729,,9.50805,,9.09289,,1.21973,,1.054770,,195.966,,14.29520,,13.94240,,1.333290,
+2023-12-01,1.79948,,1.16519,,9.51928,,9.13200,,1.22507,,1.053420,,196.895,,14.33080,,13.93090,,1.332260,
+2023-12-02,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-03,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-04,1.80454,,1.16274,,9.51221,,9.14319,,1.22621,,1.050900,,195.033,,14.31970,,13.88190,,1.332650,
+2023-12-05,1.80571,,1.16236,,9.50435,,9.16590,,1.22934,,1.053540,,195.744,,14.48970,,13.90330,,1.329780,
+2023-12-06,1.80191,,1.16114,,9.50092,,9.18274,,1.23165,,1.054550,,195.390,,14.52850,,13.92570,,1.327470,
+2023-12-07,1.80662,,1.16247,,9.50742,,9.19650,,1.23358,,1.056990,,193.989,,14.49900,,13.88480,,1.328690,
+2023-12-08,1.80634,,1.16293,,9.51837,,9.19692,,1.23352,,1.056730,,191.429,,14.46550,,13.86240,,1.329370,
+2023-12-09,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-10,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-11,1.80128,,1.16824,,9.53480,,9.20099,,1.23398,,1.054370,,193.136,,14.55490,,13.94030,,1.327400,
+2023-12-12,1.80745,,1.16337,,9.53789,,9.17347,,1.23020,,1.057280,,193.783,,14.48920,,13.87850,,1.329110,
+2023-12-13,1.80057,,1.16285,,9.53916,,9.17827,,1.23089,,1.060040,,193.229,,14.55530,,13.88060,,1.327760,
+2023-12-14,1.79621,,1.16234,,9.55447,,9.14102,,1.22590,,1.054650,,190.651,,.,No value available,.,No value available,1.338560,
+2023-12-15,1.79371,,1.16126,,9.52835,,9.13250,,1.22491,,1.049830,,190.928,,14.02460,,13.73440,,1.340790,
+2023-12-16,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-17,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-18,1.78932,,1.15911,,9.53216,,9.12650,,1.22422,,1.056190,,189.999,,13.89310,,13.64400,,1.336610,
+2023-12-19,1.78344,,1.15742,,9.55137,,9.09091,,1.21922,,1.052000,,191.802,,13.85710,,13.62480,,1.336510,
+2023-12-20,1.78228,,1.15485,,9.53907,,9.10904,,1.22162,,1.056830,,192.493,,13.79150,,13.59540,,1.336940,
+2023-12-21,1.78216,,1.15048,,9.56654,,9.08884,,1.21903,,1.057090,,191.939,,13.79330,,13.53000,,1.338860,
+2023-12-22,1.77933,,1.14526,,9.58727,,9.07779,,1.21753,,1.053810,,190.454,,13.72210,,13.46050,,1.342080,
+2023-12-23,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-24,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-25,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-26,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,1.341670,
+2023-12-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-29,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-30,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2023-12-31,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-01,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-02,1.78329,,.,No value available,9.55110,,9.11278,,1.22235,,1.057750,,.,No value available,13.79000,,13.63480,,1.339210,
+2024-01-03,1.78452,,1.14198,,9.54864,,9.12625,,1.22367,,1.058100,,.,No value available,13.85180,,13.69470,,1.336120,
+2024-01-04,1.78512,,1.13705,,9.55986,,9.10341,,1.22046,,1.053400,,191.586,,13.77230,,13.65750,,1.336770,
+2024-01-05,1.78118,,1.13868,,9.55941,,9.11394,,1.22197,,1.054620,,193.359,,13.81930,,13.72890,,1.334520,
+2024-01-06,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-07,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-08,1.78657,,1.13751,,9.56517,,.,No value available,1.22058,,1.052090,,.,No value available,13.86820,,13.68210,,1.336050,
+2024-01-09,1.78916,,1.13741,,9.56425,,9.10797,,1.22129,,1.050920,,192.290,,13.81030,,13.69250,,1.336090,
+2024-01-10,1.78791,,1.13932,,9.58313,,9.10332,,1.22059,,1.049700,,193.234,,13.78220,,13.66690,,1.336060,
+2024-01-11,1.79369,,1.13742,,9.58176,,9.07861,,1.21750,,1.047880,,194.671,,13.79220,,13.63240,,1.337670,
+2024-01-12,1.78858,,1.14046,,9.57203,,9.10465,,1.22103,,1.049820,,194.035,,13.76900,,13.74880,,1.336050,
+2024-01-13,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-14,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-15,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-16,1.79549,,1.14550,,9.56581,,9.12684,,1.22374,,1.053000,,194.224,,13.86920,,13.85460,,1.331670,
+2024-01-17,1.79949,,1.14967,,9.57735,,9.12542,,1.22349,,1.048690,,196.145,,13.98870,,13.93850,,1.330790,
+2024-01-18,1.79772,,1.15131,,9.57992,,9.12784,,1.22405,,1.049470,,197.210,,14.01050,,13.91010,,1.331150,
+2024-01-19,1.79206,,1.15675,,9.57598,,9.11860,,1.22274,,1.049680,,197.124,,13.95150,,13.91480,,1.331200,
+2024-01-20,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-21,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-22,1.79141,,1.15615,,9.58148,,9.11934,,1.22269,,1.047320,,197.222,,13.98880,,13.88290,,1.331500,
+2024-01-23,1.79417,,1.15733,,9.54608,,9.13100,,1.22441,,1.047640,,197.148,,13.99480,,13.89340,,1.331180,
+2024-01-24,1.79759,,1.15356,,9.55731,,9.11594,,1.22250,,1.046290,,197.463,,13.95540,,13.88580,,1.333130,
+2024-01-25,1.79875,,1.15234,,9.54763,,9.12276,,1.22354,,1.046810,,196.921,,13.93670,,13.88710,,1.332800,
+2024-01-26,1.79100,,1.14939,,9.56306,,9.13225,,1.22500,,1.045090,,196.559,,13.88230,,13.86740,,1.331700,
+2024-01-27,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-28,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available,.,No value available
+2024-01-29,1.78668,,1.14708,,9.54326,,9.15407,,1.22810,,1.047010,,197.011,,13.88360,,13.94650,,1.329180,
 "","Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",,"Source: International Monetary Fund (IMF), Washington",
