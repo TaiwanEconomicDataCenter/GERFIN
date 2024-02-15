@@ -458,14 +458,14 @@ zip_list = []
 for g in range(start_file,last_file+1):
     if data_processing == False:
         break
-    if chrome == None:
-        options = Options()
-        options.add_argument("--disable-notifications")
-        options.add_argument("--disable-popup-blocking")
-        options.add_argument("ignore-certificate-errors")
-        options.add_experimental_option("excludeSwitches", ["enable-logging"])
-        chrome = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-        chrome.set_window_position(980,0)
+    # if chrome == None:
+    #     options = Options()
+    #     options.add_argument("--disable-notifications")
+    #     options.add_argument("--disable-popup-blocking")
+    #     options.add_argument("ignore-certificate-errors")
+    #     options.add_experimental_option("excludeSwitches", ["enable-logging"])
+    #     chrome = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+    #     chrome.set_window_position(980,0)
     logging.info('Reading file: '+NAME+str(g)+' Time: '+str(int(time.time() - tStart))+' s'+'\n')
     if g == 1 or g == 4:
         file_path = data_path+NAME+str(g)+'.csv'
