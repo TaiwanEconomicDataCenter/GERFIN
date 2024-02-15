@@ -488,12 +488,17 @@ for g in range(start_file,last_file+1):
             new_index = []
             for ind in GERFIN_t.index:
                 new_index.append(pd.to_datetime(ind))
-            GERFIN_t = GERFIN_t.reindex(new_index)
+            GERFIN_t.index = new_index
         if GERFIN_t.index[10] > GERFIN_t.index[11]:
             GERFIN_t = GERFIN_t[::-1]
         if str(GERFIN_t.index[10]).strip()[:4] < str(dealing_start_year) and str(GERFIN_t.index[-10]).strip()[:4] < str(dealing_start_year):
             logging.info('Data not in range\n')
             continue
+        if str(GERFIN_t.columns[0]).find('/') >= 0:
+            new_column = []
+            for col in GERFIN_t.columns:
+                new_column.append(str(col).split('/')[0])
+            GERFIN_t.columns = new_column
         
         nG = GERFIN_t.shape[1]
         #print(GERFIN_t)        
@@ -614,7 +619,7 @@ if chrome != None:
     chrome.quit()
     chrome = None
 
-for g in range(EIKON_start_file,EIKON_last_file+1):
+for g in range(EIKON_start_file,EIKON_last_file+1): 
     if data_processing == False:
         break
     logging.info('Reading file: '+EIKON_NAME+str(g)+' Time: '+str(int(time.time() - tStart))+' s'+'\n')
