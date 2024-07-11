@@ -1,0 +1,40 @@
+﻿2024-07-08 01:57:44 PM excel_suffix: mysql
+
+2024-07-08 01:57:44 PM merging: False
+
+2024-07-08 01:57:44 PM updating: False
+
+2024-07-08 01:57:44 PM find_unknown: False
+
+2024-07-08 01:57:44 PM dealing_start_year: 1957
+
+2024-07-08 01:59:26 PM Process: File Updating
+
+2024-07-08 01:59:26 PM Reading main key: GERFIN_keyUP.xlsx, Time: 101 s
+
+2024-07-08 01:59:27 PM Reading main database: GERFIN_database_1UP, Time: 102 s
+
+2024-07-08 01:59:38 PM Reading main database: GERFIN_database_2UP, Time: 113 s
+
+2024-07-08 01:59:49 PM Reading main database: GERFIN_database_3UP, Time: 124 s
+
+2024-07-08 01:59:57 PM Updating file: 0 s
+
+2024-07-08 02:13:24 PM updated: 0
+
+2024-07-08 02:13:24 PM Time: 806 s
+
+2024-07-08 02:13:34 PM      databank              name   db_table  db_code  ...   snl                             source                                form_e   form_c
+0      GERFIN   D001SPEDRAWEB.d  DB_D_0001  data001  ...     1                         WM/Reuters      Exchange Rate - Bid, Time Series      NaN
+1      GERFIN   D001SPEDRAWEO.d  DB_D_0001  data002  ...     2                         WM/Reuters  Exchange Rate - Offered, Time Series      NaN
+2      GERFIN   D001SPEDRAWER.d  DB_D_0001  data003  ...     3                         WM/Reuters   Exchange Rate - Middle, Time Series      NaN
+3      GERFIN  D111REXEURDECB.D  DB_D_0001  data004  ...     4  Official ECB & EUROSTAT Reference                 Spot Midpoint eop (D)      NaN
+4      GERFIN   D111REXEURECB.D  DB_D_0001  data005  ...     5  Official ECB & EUROSTAT Reference                 Spot Midpoint eop (D)      NaN
+...       ...               ...        ...      ...  ...   ...                                ...                                   ...      ...
+3272   GERFIN   D968USRONONEO.d  DB_D_0017  data089  ...  3273                         WM/Reuters  Exchange Rate - Offered, Time Series  Forward
+3273   GERFIN   D968USRONONER.d  DB_D_0017  data090  ...  3274                         WM/Reuters   Exchange Rate - Middle, Time Series  Forward
+3274   GERFIN   D968USRONTNEB.d  DB_D_0017  data091  ...  3275                         WM/Reuters      Exchange Rate - Bid, Time Series  Forward
+3275   GERFIN   D968USRONTNEO.d  DB_D_0017  data092  ...  3276                         WM/Reuters  Exchange Rate - Offered, Time Series  Forward
+3276   GERFIN   D968USRONTNER.d  DB_D_0017  data093  ...  3277                         WM/Reuters   Exchange Rate - Middle, Time Series  Forward
+
+[3277 rows x 15 columns]
